@@ -1,0 +1,4419 @@
+NumFinishes,Name,Gender,Age,LastYear,DOB
+7,"A Alldarmann",F,69,1996,
+7,"Aaron Gray",M,27,2015,
+7,"Aaron Jacobson",M,43,2016,"1972-05-30 00:00:00"
+5,"Aaron Navarro",M,42,2016,"1973-03-09 00:00:00"
+5,"Aaron Norvell",M,47,2005,
+7,"Abbas Movakel",M,57,2016,"1958-12-27 00:00:00"
+7,"Abdel Fustok",M,75,2007,
+9,"Abel Araiza",M,80,1995,
+7,"Abel Barrera",M,65,2016,"1950-09-21 00:00:00"
+6,"Abel Silva",M,60,1992,
+5,"Abigail Hawes",F,36,2016,"1979-08-20 00:00:00"
+5,"Adam Jackson",M,52,2008,
+5,"Adam Robertson",M,40,2014,"1975-04-29 00:00:00"
+6,"Adam Walton",M,38,2016,"1977-10-01 00:00:00"
+5,"Adela Uchida",F,44,2013,
+8,"Adele Turcotte",F,47,2012,
+6,"Adhanom Seged",M,56,1999,
+5,"Adnan Afzal",M,48,2016,"1967-08-29 00:00:00"
+7,"Adolfo Camarillo",M,36,2016,"1979-09-27 00:00:00"
+6,"Adrian Hurtado",M,39,2016,"1976-05-11 00:00:00"
+5,"Adrian Quintero",M,66,1991,
+5,"Adrian Rivera",M,45,2016,"1970-08-22 00:00:00"
+6,"Adrian Salinas",M,49,2009,
+5,"Adrienne Raible",F,36,2014,
+9,"Aiko Hanyu",F,62,2012,
+7,"Aimee Galley",F,43,2016,"1972-07-28 00:00:00"
+9,"Al Becken",M,87,1997,
+5,"Al Garza",M,59,2011,
+6,"Al Salinas",M,62,2012,
+7,"Al Walker",M,63,2003,
+7,"Alain Dorel",M,57,2006,
+7,"Alan Albright",M,56,1999,
+7,"Alan Anderson",M,70,2008,
+5,"Alan Bergeron",M,56,1994,
+9,"Alan Dsouza",M,56,2016,"1959-05-06 00:00:00"
+5,"Alan Howard",M,50,2016,"1965-08-25 00:00:00"
+6,"Alan Lebato",M,45,2012,
+6,"Alan Minney",M,56,2015,"1959-09-09 00:00:00"
+6,"Alana Glass",F,67,1995,
+6,"Albert Casarez",M,41,2014,
+7,"Albert Deleon",M,51,2010,
+6,"Albert E Perez",M,61,2010,
+6,"Albert Labasse",M,51,2014,"1964-09-25 00:00:00"
+5,"Albert S Hale",M,82,1985,
+6,"Alberto Agostini",M,57,2015,"1958-07-16 00:00:00"
+5,"Alberto Caudillo",M,41,2016,"1974-02-18 00:00:00"
+8,"Alberto Gutierrez",M,49,2016,"1966-11-25 00:00:00"
+5,"Aldor R Lanctot",M,79,1984,
+5,"Alejandra Farias",F,36,2015,
+9,"Alejandro Rosell",M,61,2004,
+5,"Alejandro Vargas",M,81,1997,
+5,"Alejandro Zuniga",M,35,2010,
+9,"Alex Chatfield",M,44,2016,"1972-01-03 00:00:00"
+5,"Alex Obvintsev",M,41,2015,
+5,"Alex Ramos",M,46,2015,
+8,"Alex Rodriguez",M,51,2016,"1964-09-29 00:00:00"
+6,"Alex Tsounis",M,43,2015,"1972-06-21 00:00:00"
+5,"Alexander Sherwood",M,57,2008,
+5,"Aleza Espinosa",F,43,2016,"1972-02-29 00:00:00"
+5,"Alfonso Cipriano",M,47,2016,"1968-01-30 00:00:00"
+6,"Alfonso Dbinion",M,58,2012,
+5,"Alfredo Guariguata",M,34,2015,
+5,"Alfredo Paras",M,64,2016,"1951-08-11 00:00:00"
+6,"Alfredo Perez",M,71,1995,
+8,"Ali Rahmati",M,62,2014,
+5,"Alia Hassan",F,44,2016,"1971-04-08 00:00:00"
+5,"Alice Aissi",F,51,2013,
+7,"Alice Fuentes",F,66,1993,
+8,"Alice May-Sexton",F,38,2016,"1977-09-21 00:00:00"
+8,"Alicia Fernandez",F,51,2016,"1964-11-27 00:00:00"
+5,"Alireza Ashtari",M,37,2013,
+8,"Alison Hasbargen",F,32,2016,"1983-01-19 00:00:00"
+7,"Allan Albjerg",M,70,1996,
+8,"Allan Dsouza",M,57,2011,
+5,"Allan Lawrence",M,85,1987,
+5,"Allan Rasquinha",M,44,2013,
+9,"Allan Simon",M,75,2000,
+5,"Allen Bean",M,47,2007,
+5,"Allen Burton",M,50,2013,"1965-12-09 00:00:00"
+5,"Allen Carpenter",M,83,1993,
+5,"Allen E Hall",M,64,2000,
+5,"Allen Fehnel",M,62,1991,
+6,"Allen G McDaniel",M,76,1985,
+7,"Allen Wu",M,66,2016,"1949-01-21 00:00:00"
+5,"Alli Bequette",F,28,2016,"1987-02-04 00:00:00"
+7,"Allison Fleming",F,33,2014,
+9,"Allison H Hay",F,59,2012,"1956-05-25 00:00:00"
+6,"Allison Leyrer",F,39,2011,
+6,"Allison McCulloch",F,46,2004,
+7,"Allison Nadolski",F,38,2008,
+5,"Allison Rudin",F,42,2014,
+5,"Allyn Cutts",M,55,1991,
+6,"Allyson Connelly",F,47,2016,"1968-12-18 00:00:00"
+6,"Allyson Neighbors",F,42,2016,"1973-09-11 00:00:00"
+8,"Allyson Weimer",F,28,2016,"1987-10-12 00:00:00"
+5,"Aloysius Dsouza",M,32,2015,
+7,"Alvaro Arrazola",M,50,2016,"1965-04-19 00:00:00"
+6,"Alvaro Munoz",M,46,2016,"1969-08-09 00:00:00"
+6,"Alvaro Perez",M,59,1997,
+5,"Alvin Ferguson",M,54,2008,
+6,"Alvin Mabry",M,92,1987,
+6,"Amanda Fiser",F,33,2016,"1982-08-23 00:00:00"
+6,"Amanda Mesler",F,52,2011,
+9,"Amanda Nelson",F,24,2016,"1991-07-14 00:00:00"
+5,"Amber Aleman",F,34,2016,"1981-11-11 00:00:00"
+5,"Amber Brock",F,40,2016,"1975-03-31 00:00:00"
+8,"Amelia Taylor",F,62,2005,
+5,"Amirali Khanlou",M,60,2010,
+8,"Amparo Autrey",F,61,2001,
+5,"Amparo McDill",F,55,2011,
+5,"Amy Amadi",F,39,2015,"1976-07-12 00:00:00"
+6,"Amy Cadriel",F,37,2016,"1978-04-10 00:00:00"
+5,"Amy Craft",F,39,2015,"1976-10-22 00:00:00"
+5,"Amy Degeest",F,34,2016,"1981-03-10 00:00:00"
+5,"Amy Grant",F,44,2007,
+5,"Amy Grossman",F,67,2004,
+5,"Amy Hessel",F,48,2013,
+6,"Amy Jacoby",F,48,2000,
+5,"Amy N Johnson",F,41,2009,
+6,"Amy Parker",F,59,2012,
+5,"Amy Pitzel",F,40,2015,
+5,"Amy Pounds",F,58,2015,
+6,"Amy Snell",F,45,2012,"1970-09-30 00:00:00"
+5,"Amy Villasenor",F,52,2016,"1963-12-28 00:00:00"
+7,"Ana Petrick",F,54,2015,
+6,"Anasuya Hesse",F,54,2012,"1961-09-20 00:00:00"
+9,"Andras Feszthammer",M,44,2016,"1971-07-07 00:00:00"
+8,"Andre Dafel",M,40,2014,
+5,"Andre Heard",M,57,1997,
+6,"Andre Olivier",M,53,2005,
+5,"Andre Orban",M,65,2012,
+8,"Andre Riedlinger",M,51,2006,
+6,"Andrea Paterson",F,38,2011,
+9,"Andrea Talley",F,33,2012,
+9,"Andrea Wittrock",F,39,2013,"1976-08-24 00:00:00"
+5,"Andrea Zepeda",F,47,2009,
+8,"Andres Sanchez",M,37,2016,"1978-04-15 00:00:00"
+6,"Andrew B Ward",M,48,2014,
+5,"Andrew Berndt",M,48,2005,
+6,"Andrew Buechele",M,73,1994,
+6,"Andrew Condie",M,31,2016,"1984-09-26 00:00:00"
+8,"Andrew Cox",M,60,2016,"1955-03-04 00:00:00"
+6,"Andrew Delizio",M,43,2014,"1972-03-21 00:00:00"
+5,"Andrew Dreher",M,32,2016,"1983-08-05 00:00:00"
+5,"Andrew Hayes",M,51,2010,"1964-06-27 00:00:00"
+8,"Andrew Henderson",M,46,2016,"1969-10-11 00:00:00"
+6,"Andrew Keller",M,40,2014,
+5,"Andrew L Strong",M,49,2014,
+7,"Andrew Mailhes",M,43,2012,
+6,"Andrew Mambretti",M,29,2011,
+5,"Andrew McCormick",M,56,2014,
+8,"Andrew P Greenwood",M,68,1990,
+6,"Andrew Pineda",M,26,2016,"1989-12-12 00:00:00"
+5,"Andrew Schroeder",M,44,2014,
+5,"Andrew Wright",M,33,2014,"1982-10-27 00:00:00"
+9,"Andy Carfield",M,62,2010,
+5,"Andy Carrola",M,62,1999,
+7,"Andy Ferrara",M,67,1987,
+6,"Andy Ferrell",M,62,2004,
+6,"Andy Hruby",M,71,1996,
+5,"Andy Master",M,59,2016,"1956-02-08 00:00:00"
+5,"Andy Svoboda",M,73,1991,
+5,"Andy Vu",M,35,2016,"1980-02-25 00:00:00"
+9,"Andy Watson",M,43,2016,
+6,"Angela Crawford",F,42,2016,"1973-10-02 00:00:00"
+5,"Angela Marteeny",F,33,2012,
+6,"Angela Rizzo",F,51,2016,"1964-11-30 00:00:00"
+7,"Angie Martinez",F,43,2016,"1972-12-08 00:00:00"
+6,"Angie Spears",F,46,2012,
+6,"Anita Deuel",F,41,2016,"1974-03-28 00:00:00"
+5,"Anita Leffel",F,63,1994,
+7,"Ann Erickson",F,73,2003,
+9,"Ann F Moon",F,85,1984,
+5,"Ann Fowler",F,56,2013,
+5,"Ann Leoni",F,55,2009,
+6,"Ann Martin",F,55,2009,
+7,"Ann Sung",F,65,2010,
+6,"Anna Marino",F,46,2011,"1969-06-30 00:00:00"
+9,"Anna Rodriguez",F,56,2008,"1959-09-04 00:00:00"
+5,"Anna Venable",F,46,2008,
+6,"Annamarie Clark",F,65,2016,"1950-09-13 00:00:00"
+7,"Anne G Tesch",F,73,2009,
+9,"Anne Litsey",F,52,2016,"1963-12-16 00:00:00"
+9,"Anne Merriman",F,56,2016,"1959-08-30 00:00:00"
+5,"Anne Rienstra",F,68,1987,
+5,"Anne Steinbach",F,59,2000,
+5,"Annette Stewart",F,47,2016,"1968-04-30 00:00:00"
+6,"Anngela Caron",F,34,2014,"1981-07-30 00:00:00"
+5,"Annie Foley",F,33,2011,
+7,"Anthonie Rich",M,51,2016,"1964-08-10 00:00:00"
+5,"Anthony Boatman",M,55,2016,"1960-09-24 00:00:00"
+6,"Anthony C Gutierrez",M,50,2002,
+5,"Anthony Carvajal",M,50,2016,"1965-02-14 00:00:00"
+9,"Anthony Chu",M,38,2016,
+6,"Anthony Grossi",M,55,2003,
+6,"Anthony Lister",M,60,2009,
+9,"Anthony Mosley",M,47,2016,"1968-05-08 00:00:00"
+5,"Anthony Quartapella",M,53,1999,
+5,"Anthony Williams",M,44,2010,
+7,"Antonio Gregorio",M,55,2003,
+5,"Antonio Huerta",M,43,2014,
+6,"Antonio Seijas",M,52,2015,
+5,"Antonio Zamarripa",M,33,2015,
+6,"Antonio Zamudio",M,55,2014,
+6,"Antony Croston",M,36,2016,"1979-12-20 00:00:00"
+8,"April Thomson",F,44,2014,
+5,"Archie Phillips",M,55,2001,
+5,"Argelio Ybarra",M,74,1988,
+6,"Aric Arnsworth",M,40,2015,"1975-09-17 00:00:00"
+5,"Ariel Bass",M,66,2001,
+9,"Ariel Leonardo",M,54,2016,"1961-03-19 00:00:00"
+6,"Armando Cantu",M,43,1998,
+5,"Armando Tello",M,45,2014,
+6,"Arnel Saludares",M,35,2014,
+5,"Arnie Blanco",M,66,1991,
+7,"Arnie Chaiyavet",M,45,2016,"1970-04-23 00:00:00"
+6,"Arnie Farbstein",M,52,2014,
+7,"Arnold Colunga",M,44,2016,"1971-04-24 00:00:00"
+5,"Arnold Valerio",M,84,1996,
+5,"Arpad Ozsdolay",M,54,2014,"1961-04-16 00:00:00"
+5,"Art Benzick",M,73,1985,
+5,"Art Lewis",M,66,1992,
+6,"Art Morales",M,70,1994,
+7,"Art Townsend",M,59,2011,
+5,"Artemio Mendoza",M,44,2016,"1971-12-28 00:00:00"
+6,"Arthur C Flores",M,62,2009,
+6,"Arthur Drewen",M,71,2006,
+7,"Arthur Loginov",M,55,2016,"1960-04-02 00:00:00"
+6,"Arturo Paul",M,54,2001,
+5,"Ashley Dixon",F,38,2012,
+5,"Ashley McGee",F,36,2016,"1979-06-20 00:00:00"
+5,"Ashton Bachynsky",M,45,2011,
+7,"Asle Aarsland",M,56,2008,
+8,"Atul Shah",M,49,2016,"1966-08-08 00:00:00"
+5,"Atwell Williams",M,55,2009,
+6,"Audrey Fox",F,39,2009,
+5,"August Al-Uqdah",M,40,2013,
+5,"Aura Rodriguez",F,45,2013,
+7,"Aurora Gonzalez",F,57,2007,
+9,"Austin Hardt",M,33,2016,"1982-03-10 00:00:00"
+7,"Auston Douglas",M,21,2016,"1994-07-20 00:00:00"
+5,"Avinash Ravishankar",M,25,2012,
+5,"Aydee Cruz",F,33,2015,
+6,"B J Almond",M,60,2009,
+9,"Bahram Faraji",M,66,2011,
+6,"Baili Rhodes",F,31,2016,"1984-05-01 00:00:00"
+5,"Bao Le",M,57,2009,
+6,"Barbara Buckles",F,58,2016,"1957-03-12 00:00:00"
+5,"Barbara Crews",F,68,1999,
+5,"Barbara Johnson",F,52,2008,
+6,"Barbara Kuntz",F,58,2004,
+5,"Barbara Marquer",F,59,1996,
+5,"Barbara Nelson",F,70,2004,
+8,"Barnabas Nemec",M,43,2016,"1972-10-03 00:00:00"
+7,"Barrington Hammond",M,56,2016,"1959-04-01 00:00:00"
+5,"Barry A Rose",M,71,1988,
+8,"Barry Candy",M,77,1989,
+5,"Barry Chambers",M,71,2004,
+6,"Barry Davis",M,63,2010,"1952-06-02 00:00:00"
+5,"Barry Hankins",M,59,1999,
+5,"Barry Snider",M,62,1995,
+6,"Bashara Boyd",F,44,2016,"1971-10-18 00:00:00"
+8,"Beauteria Elliott",F,73,1991,
+6,"Becky Tomasek",F,44,2015,"1971-09-14 00:00:00"
+6,"Belinda Ynfante",F,49,2014,"1966-12-01 00:00:00"
+7,"Ben Andrews",M,37,2016,"1978-08-12 00:00:00"
+6,"Ben Cohen",M,30,2016,"1985-05-05 00:00:00"
+5,"Ben H Bergman",M,46,2014,"1969-08-26 00:00:00"
+6,"Ben Homer",M,75,1991,
+8,"Ben Hooper",M,57,2013,
+5,"Ben Rencoret",M,63,1991,
+5,"Ben Shepherd",M,37,2016,"1978-11-10 00:00:00"
+6,"Benjamin Hillman",M,37,2016,"1978-01-30 00:00:00"
+9,"Bennett Johnson",M,44,2015,
+5,"Benny Bell",M,58,1999,
+8,"Bernadette Mango",F,67,2003,
+5,"Bernard Knaggs",M,82,1983,
+5,"Bernard Leong",M,54,2014,
+5,"Bernie Belvin",M,55,1999,
+5,"Bernie Weber",M,58,2006,
+8,"Bertha Sabir",F,53,2014,"1962-09-26 00:00:00"
+6,"Bertrand Myers",M,71,1995,
+5,"Beth Baker",F,50,2003,
+8,"Beth Baugher",F,61,2006,
+6,"Beth Engel",F,70,1994,
+5,"Beth Nolan",F,61,1999,
+7,"Bethany Valdez",F,24,2016,"1991-10-15 00:00:00"
+7,"Beto Zuniga",M,62,1991,
+5,"Betsy Clemons",F,55,2005,
+5,"Betty Massey",F,67,2006,
+6,"Beverly Bauman",F,47,2016,"1968-09-02 00:00:00"
+6,"Bijan Taslimi",M,42,2015,
+6,"Bill Berry",M,71,1991,
+5,"Bill Blackburn",M,77,1998,
+8,"Bill Boyd",M,58,2011,
+5,"Bill Dawe",M,73,1998,
+7,"Bill Forkner",M,72,2005,
+6,"Bill Gardner",M,52,2003,
+5,"Bill Gassaway",M,60,1994,
+7,"Bill Hadley",M,87,1991,
+7,"Bill Harding",M,76,2004,
+9,"Bill Hart",M,54,2009,
+5,"Bill Moreman",M,68,1988,
+5,"Bill Murto",M,50,2005,
+7,"Bill Oneill",M,62,2007,"1953-12-09 00:00:00"
+5,"Bill Peatross",M,72,2007,
+7,"Bill Pilkington",M,44,2014,"1971-02-20 00:00:00"
+7,"Bill Roach",M,68,1992,
+6,"Bill Roberts",M,67,2004,
+5,"Bill Robertson",M,66,2000,
+6,"Bill Roger",M,76,1998,
+6,"Bill Rubinsky",M,63,2002,
+8,"Bill Ryan",M,85,1992,
+8,"Bill Schroeder",M,53,2006,
+6,"Bill Shaw",M,76,1998,
+5,"Bill Sloan",M,61,1991,
+5,"Bill Sprague",M,68,2002,
+5,"Bill Travis",M,50,2009,
+7,"Bill Wirt",M,63,1996,
+6,"Billie Walker",M,71,1993,
+7,"Billy Blann",M,70,1991,
+8,"Billy Dye",M,57,2011,
+6,"Billy Lumpkin",M,44,2013,"1971-07-30 00:00:00"
+9,"Billy Reed",M,60,1999,
+8,"Binghui Li",M,51,2016,"1964-07-14 00:00:00"
+6,"Blake Hambleton",M,50,2011,
+6,"Blake Wilson",M,56,1999,
+5,"Blakely Stinebaugh",F,49,2006,
+8,"Bob Boudreaux",M,69,2012,
+6,"Bob Karlin",M,63,2012,"1952-09-23 00:00:00"
+8,"Bob Little",M,69,2013,
+5,"Bob Lockhart",M,60,1994,
+5,"Bob Ramage",M,85,1977,
+6,"Bob Rodriguez",M,68,1988,
+6,"Bob Scott",M,85,1998,
+6,"Bob W Milner",M,57,2015,
+5,"Bob Wicoff",M,64,2012,
+6,"Bob Wynn",M,57,2006,
+9,"Bobalu Kaiser",M,62,2006,
+5,"Bobby Bell",M,54,2004,
+6,"Bobby Berryman",M,41,2016,"1974-09-30 00:00:00"
+7,"Bobby McGehee",M,60,2011,
+6,"Bobby Riggins",M,51,2000,
+5,"Bobby Terrell",M,74,1995,
+6,"Bobby Webb",M,75,1993,
+7,"Bonnie Glisson",F,62,2013,
+5,"Bonnie Simmons",F,57,2001,
+5,"Boris Christoff",M,60,1994,
+6,"Boyd Girouard",M,71,2012,
+5,"Brad Archer",M,53,2013,
+6,"Brad Bangle",M,52,2000,
+5,"Brad Batig",M,35,2016,"1980-08-24 00:00:00"
+6,"Brad Eastman",M,48,2015,"1967-08-22 00:00:00"
+5,"Brad Freudenberg",M,44,2007,
+5,"Brad Phenix",M,52,2015,"1963-01-31 00:00:00"
+6,"Brad Turcotte",M,38,2015,
+7,"Bradley Griffin",M,31,2016,"1984-07-15 00:00:00"
+5,"Bradley Jones",M,38,2012,
+8,"Bradley Sabloff",M,47,2016,"1968-06-24 00:00:00"
+6,"Brandi Herrera",F,35,2016,"1980-11-03 00:00:00"
+5,"Brandon G Macomber",M,70,1983,
+5,"Brandon Goss",M,40,2016,"1975-09-21 00:00:00"
+6,"Brandon Shinn",M,35,2016,"1980-05-30 00:00:00"
+7,"Brant Kotch",M,60,1992,
+7,"Brant Reves",M,46,2007,
+6,"Braulio Zarate",M,48,2014,
+5,"Brea Mathis",F,43,2015,
+5,"Brede Klefos",M,61,2001,
+5,"Brenda Angus",F,45,2010,
+5,"Brenda Cantu",F,42,2010,
+6,"Brenda Chenchar",F,51,2004,
+8,"Brenda Gonzalez",F,43,2015,"1972-08-28 00:00:00"
+7,"Brenda H Reed",F,61,2002,
+6,"Brenda Hassebrock",F,55,2013,
+6,"Brenda Kissack",F,38,2016,"1977-04-15 00:00:00"
+5,"Brenda Simmons",F,56,1996,
+5,"Brenda Tripp",F,67,1986,
+7,"Brendan Rodgers",M,61,2015,
+9,"Brent Eilerts",M,48,2016,"1967-06-27 00:00:00"
+5,"Brent Fletcher",M,53,2008,
+6,"Brent Hwang",M,52,2014,
+5,"Brent Lanier",M,27,2010,
+5,"Brent Larsen",M,58,2005,
+5,"Brent Masel",M,67,1995,
+7,"Brent Millard",M,49,2015,"1966-11-18 00:00:00"
+6,"Brent Owen",M,38,2016,"1977-09-07 00:00:00"
+6,"Brent Rabel",M,42,2016,"1973-05-25 00:00:00"
+5,"Brent Williams",M,33,2016,"1982-04-15 00:00:00"
+5,"Brett Carleton",M,50,2003,
+5,"Brett Cole",M,49,2012,"1967-01-14 00:00:00"
+5,"Brett Miller",M,39,2016,"1976-11-12 00:00:00"
+9,"Brett Snyder",M,48,2012,
+5,"Brett Tanabe",M,48,2015,"1967-10-05 00:00:00"
+5,"Brian Allender",M,61,1998,
+5,"Brian Austin",M,43,2016,"1972-10-27 00:00:00"
+5,"Brian Ayson",M,43,2015,
+6,"Brian Belger",M,45,2010,
+6,"Brian Box",M,57,1995,
+7,"Brian Cain",M,37,2016,"1978-06-26 00:00:00"
+5,"Brian Collins",M,46,2010,
+7,"Brian Coolidge",M,47,2016,"1968-04-23 00:00:00"
+5,"Brian Davis",M,42,2016,"1973-08-16 00:00:00"
+5,"Brian Erwin",M,42,2014,
+6,"Brian Evans",M,59,2012,
+5,"Brian Fagan",M,37,2016,"1978-03-11 00:00:00"
+5,"Brian Haskett",M,44,2014,
+6,"Brian Johnson",M,60,2009,
+5,"Brian K Harrington",M,69,1984,
+8,"Brian Kirk",M,49,2014,
+5,"Brian Lavorini",M,49,2005,
+5,"Brian Luby",M,26,2016,"1989-05-27 00:00:00"
+8,"Brian McGrath",M,77,2006,
+5,"Brian Miksch",M,42,2015,
+6,"Brian Paradis",M,46,2013,
+5,"Brian Pearson",M,52,2003,
+9,"Brian Reichard",M,46,2015,"1969-05-03 00:00:00"
+5,"Brian Sharpless",M,45,2015,
+8,"Brian Smith",M,42,2016,"1973-10-13 00:00:00"
+5,"Brian Speck",M,35,2016,"1980-05-25 00:00:00"
+6,"Brian Trahan",M,46,2012,
+6,"Bridget Day",F,48,2013,
+7,"Brigitte Laki",F,68,2006,
+6,"Brit Britton",M,48,2003,
+8,"Brit Perkins",M,56,2016,"1959-06-17 00:00:00"
+7,"Britt Dixon",M,48,2012,
+6,"Brom Hoban",M,61,2009,
+5,"Brooke Randolph",F,53,2008,
+5,"Brooks Myers",M,57,2012,
+7,"Bruce A Mansur",M,62,2009,
+7,"Bruce Cobb",M,66,2008,
+6,"Bruce Crook",M,56,1999,
+5,"Bruce Evans",M,63,1992,
+5,"Bruce Johnson",M,72,2014,
+7,"Bruce Levy",M,53,2014,"1962-09-03 00:00:00"
+5,"Bruce Lurie",M,60,1998,
+6,"Bruce M Ruhlin",M,58,1989,
+6,"Bruce Marantis",M,57,2007,
+8,"Bruce Morrison",M,73,2001,
+6,"Bruce Partain",M,60,1997,
+7,"Bruce Rose",M,57,1996,
+5,"Bruce Stromko",M,68,1995,
+7,"Bruce Sullivan",M,66,1989,
+5,"Bruce Weiner",M,72,1999,
+6,"Bryan Arnold",M,63,2004,
+5,"Bryan Brady",M,59,2000,
+6,"Bryan Cozad",M,58,2010,
+5,"Bryan Denison",M,40,2016,"1975-02-22 00:00:00"
+5,"Bryan Dotson",M,57,2000,
+5,"Bryan Lari",M,47,2014,"1968-12-18 00:00:00"
+7,"Bryan Richards",M,59,2004,
+7,"Bryan Yanaga",M,57,2016,"1958-02-17 00:00:00"
+6,"Bryant Berry",M,78,1985,
+6,"Bryce Farber",M,31,2016,"1984-02-02 00:00:00"
+5,"Bryn Markey",M,56,1994,
+5,"Bryon W Evenson",M,54,2009,
+5,"Buck Snyder",M,44,2010,
+5,"Bud Donohoe",M,82,1996,
+7,"Buddy Hardison",M,69,2006,
+6,"Burt Chrisman",M,73,2008,
+5,"Byron Porter",M,65,2012,
+7,"C J Swyden",M,84,1988,
+5,"Cain Pacheco",M,41,2016,"1974-03-19 00:00:00"
+5,"Calvin Hall",M,50,2012,
+6,"Camille A King",F,62,1989,
+9,"Camille Yarbrough",F,65,2014,
+5,"Carl Dagostino",M,59,2014,
+5,"Carl David Evans",M,60,2006,
+6,"Carl Isgren",M,77,1987,
+5,"Carl Mikeska",M,53,2000,
+6,"Carl N Whatley",M,78,1988,
+6,"Carl Palumbo",M,45,2012,
+5,"Carla Giannoni",F,51,2016,"1964-05-31 00:00:00"
+6,"Carla Rose",F,43,2013,
+8,"Carleton Brouhard",M,38,2014,
+5,"Carlo Concha",M,69,1999,
+5,"Carlos A Moreno",M,64,2002,
+8,"Carlos Camacho",M,74,2000,
+6,"Carlos Castaneda",M,42,2011,
+6,"Carlos Desousa",M,38,2014,
+6,"Carlos Favela",M,23,2016,"1992-02-14 00:00:00"
+5,"Carlos Garcia",M,61,2012,
+6,"Carlos Guevara",M,58,2002,
+6,"Carlos Llontop",M,37,2016,"1979-01-14 00:00:00"
+7,"Carlos Perez",M,55,2006,
+5,"Carlos Rivera",M,37,2015,
+6,"Carlos Romero",M,43,2015,
+7,"Carlos Tipaz",M,54,2014,
+5,"Carlos Valdez",M,62,1984,
+6,"Carlton W Stockton",M,64,1989,
+6,"Carmen Busceme",F,39,2016,"1976-09-01 00:00:00"
+5,"Carmen C Augustini",M,73,1979,
+5,"Carmen Guzman",F,56,2013,"1959-10-04 00:00:00"
+6,"Carol Crittenden",F,51,2012,
+6,"Carol Croom",F,69,2007,
+5,"Carol Forbes",F,57,1996,
+8,"Carol Hirt",F,34,2016,"1981-03-12 00:00:00"
+5,"Carol McClelland",F,74,1997,
+6,"Carol Pachuta",F,62,2001,
+6,"Carol Porter",F,52,2016,"1963-06-01 00:00:00"
+5,"Carol Van Pelt",F,74,1986,
+6,"Carol Wooldridge",F,48,2016,"1967-12-10 00:00:00"
+7,"Carole Penning",F,58,2011,
+5,"Carole Smith",F,61,2005,
+6,"Carolina Woods",F,41,2015,
+6,"Caroline Boatman",F,44,2016,"1971-02-16 00:00:00"
+7,"Caroline Grahmann Gardner",F,45,2012,
+7,"Caroline Lanier",F,41,2016,"1974-12-30 00:00:00"
+7,"Carolyn Bailey",F,54,2016,"1961-05-14 00:00:00"
+5,"Carolyn Cocanougher",F,44,2009,
+8,"Carolyn Parsons",F,55,2008,
+5,"Carolyn Thompson",F,47,2016,"1968-11-05 00:00:00"
+5,"Carolyn Wyborney",F,52,2001,
+8,"Carrie Arnett",F,38,2013,
+6,"Carrie Carter",F,40,2015,"1975-09-16 00:00:00"
+6,"Carrie Schwartzenburg",F,44,2013,"1971-04-14 00:00:00"
+5,"Carrol Russel",F,60,2004,
+7,"Carsten Udengaard",M,39,2016,"1976-09-30 00:00:00"
+8,"Cary Purdy",M,62,2011,
+8,"Cary Sherf",M,62,1995,
+6,"Casey Lajaunie",M,39,2016,"1977-01-04 00:00:00"
+5,"Casey McDonough",M,50,2012,
+6,"Cassie McGarvey",F,34,2011,
+8,"Catarina Hlozek",F,44,2016,"1971-09-03 00:00:00"
+8,"Catherine C Fulford",F,57,2011,
+6,"Catherine Garrett",F,40,2012,
+7,"Catherine Hickey",F,65,1989,
+5,"Catherine Santamaria",F,42,2016,"1973-12-27 00:00:00"
+5,"Cathleen Scholl",F,55,2000,
+5,"Cathy Anderson",F,52,2012,"1963-04-16 00:00:00"
+6,"Cathy Brisky",F,54,1996,
+6,"Cathy Caballero",F,53,2000,
+5,"Cathy Carnew",F,57,2011,
+5,"Cathy Cook",F,51,2014,
+5,"Cathy Felts",F,64,1996,
+7,"Cathy McGlohn",F,54,2016,"1961-09-18 00:00:00"
+6,"Cathy Nguyen",F,49,2016,"1966-12-25 00:00:00"
+5,"Cathy Wilkins",F,46,2014,"1969-01-28 00:00:00"
+5,"Cecil Brown",M,90,1997,
+7,"Cecil Smith",M,74,1991,
+5,"Cecilia Caballero",F,77,2001,
+5,"Cecilia Prieto",F,40,2016,"1975-09-20 00:00:00"
+5,"Cedar A Baldridge",F,54,2002,
+6,"Celeste Patsouras",F,52,2005,
+8,"Celestino Tobias",M,48,2011,
+9,"Celin Flores",M,52,2012,
+6,"Celso Garcia",M,34,2015,
+5,"Cesar Alvarez",M,40,2013,
+5,"Cesar Carrillo",M,46,2012,
+6,"Cesar Gonzalez",M,45,2016,"1983-09-19 00:00:00"
+6,"Chad Fox",M,40,2015,
+5,"Chad Hall",M,37,2015,"1978-10-24 00:00:00"
+5,"Chad James",M,41,2010,
+9,"Chai Kit",M,65,1994,
+5,"Chan Finch",M,58,1999,
+6,"Chandra Richey",F,45,2012,
+5,"Changman Ho",M,67,2011,
+5,"Charla Balette",F,43,2014,
+5,"Charle Thomas",M,43,2016,"1972-08-21 00:00:00"
+5,"Charlene Keller",F,62,1999,
+6,"Charles Ash",M,53,2009,
+7,"Charles Billings",M,75,1988,
+5,"Charles Burt",M,85,1991,
+6,"Charles Cagle",M,69,1986,
+9,"Charles Chambers",M,66,2004,
+8,"Charles Clutter",M,45,2014,
+7,"Charles Elias",M,60,1986,
+6,"Charles Fleming",M,62,2000,
+6,"Charles Forbus",M,76,1993,
+5,"Charles G Powell",M,75,1984,
+5,"Charles Gomez",M,72,1992,
+5,"Charles Kafoglis",M,57,1996,
+7,"Charles Keenen",M,56,2011,
+8,"Charles Knific",M,49,2015,
+7,"Charles Lunsford",M,65,1996,
+6,"Charles Lusk",M,67,1999,
+8,"Charles Martin",M,68,2001,
+8,"Charles Mathes",M,51,2013,
+6,"Charles McCarville",M,60,2000,
+6,"Charles Meyer",M,69,1994,
+8,"Charles Moser",M,55,2004,
+5,"Charles Parham",M,74,1999,
+5,"Charles Pendarvis",M,59,2010,
+6,"Charles Roper",M,56,1996,
+7,"Charles Smith",M,67,1994,
+5,"Charles T Evans",M,71,1983,
+5,"Charles W Harmon",M,72,1989,
+6,"Charles Weller",M,92,1979,
+8,"Charles Wilson",M,81,1987,
+9,"Charles Winston",M,67,2007,
+7,"Charlie Blalack",M,80,2004,
+6,"Charlie Ozuna",M,49,2016,"1966-05-04 00:00:00"
+6,"Charlie Pryor",M,37,2013,
+6,"Charlie Vazquez",M,49,2015,
+5,"Charlie Velasquez",M,69,1988,
+7,"Charlie Weiland",M,64,2001,
+6,"Charly Weldon",F,47,2014,
+5,"Chau Nguyen",F,42,2008,
+5,"Cherie Davis",F,32,2016,"1983-11-10 00:00:00"
+7,"Cheryl A Esposito",F,53,2008,
+5,"Cheryl A Verlander",F,66,2000,
+8,"Cheryl Brown",F,45,2016,"1970-12-14 00:00:00"
+6,"Cheryl Fletcher",F,55,2016,"1960-07-19 00:00:00"
+6,"Cheryl Hope",F,46,2011,
+5,"Cheryl Keenan",F,63,2014,
+8,"Cheryl Quinn",F,60,2000,
+7,"Cheryl Shaw-Queen",F,51,2012,
+7,"Cheryl Simcox",F,45,2016,"1970-12-29 00:00:00"
+8,"Chester Budzisz",M,60,2006,
+5,"Chester Cedars",M,63,1995,
+5,"Chester Hanks",M,63,1993,
+5,"Chinh Tran",M,41,2014,
+5,"Chintan Desai",M,33,2013,
+7,"Chip Mills",M,61,2010,
+8,"Chris Adams",M,69,2016,"1946-11-03 00:00:00"
+8,"Chris Allen",M,34,2016,"1981-09-11 00:00:00"
+5,"Chris Arhelger",F,70,1994,
+5,"Chris Bailey",M,53,2013,
+6,"Chris Biggs",M,70,1997,
+5,"Chris Boylan",M,41,2006,
+5,"Chris Bradshaw",M,47,2011,
+5,"Chris Bryars",M,57,1994,
+8,"Chris Christensen",M,68,2016,"1947-07-02 00:00:00"
+5,"Chris Crawford",M,54,2009,
+6,"Chris Donovan",M,53,2001,
+7,"Chris Fleming",F,66,1999,
+6,"Chris Godinich",M,47,2015,"1968-02-27 00:00:00"
+5,"Chris Hester",M,53,2016,"1962-08-28 00:00:00"
+5,"Chris Hill",M,42,2014,
+5,"Chris Horsak",M,38,2009,
+6,"Chris J Armentor",M,43,2011,
+5,"Chris Lewis",M,29,2016,
+6,"Chris McBride",F,55,2005,
+5,"Chris Omara",M,64,1997,
+8,"Chris Paulsen",F,55,2016,"1960-07-11 00:00:00"
+6,"Chris Pecheux",M,61,2013,
+5,"Chris Potter",M,68,2000,
+9,"Chris Robbins",M,41,2016,"1974-11-05 00:00:00"
+6,"Chris Shaw",M,54,2008,
+9,"Chris Sitz",M,42,2011,
+6,"Chris Smith",M,47,2015,
+6,"Chris Smith",M,47,2010,
+9,"Chris Thomas",M,57,2008,
+7,"Chris Trevino",M,50,1994,
+8,"Chris Vandersteeg",M,38,2016,"1977-08-24 00:00:00"
+5,"Chris Williams",M,50,2015,
+5,"Chris Wood",M,49,2010,
+5,"Chris Zukowski",M,58,2015,
+7,"Chrissi Labrose",F,36,2016,"1979-12-10 00:00:00"
+8,"Christa Filak",F,42,2016,"1973-02-24 00:00:00"
+7,"Christal Albrecht",F,57,2008,
+5,"Christelle Gigant",F,38,2014,
+8,"Christian Butler",M,58,1996,
+6,"Christian Keppeler",M,37,2016,"1978-07-12 00:00:00"
+7,"Christian Kolom",M,48,2015,
+6,"Christian Markel",M,46,2012,
+5,"Christian Wilkinson",M,43,2016,"1972-12-21 00:00:00"
+6,"Christie Lammers",F,59,2010,
+7,"Christie Patrick",F,61,2001,
+5,"Christina Pearson",F,34,2015,
+6,"Christine Gentil",F,42,2016,"1973-11-25 00:00:00"
+6,"Christoph Eick",M,62,2015,
+8,"Christoph Mannheims",M,53,2016,"1962-07-13 00:00:00"
+7,"Christopher Bloch",M,67,2016,"1948-03-28 00:00:00"
+5,"Christopher Born",M,39,2016,"1976-09-20 00:00:00"
+5,"Christopher Bourque",M,36,2016,
+5,"Christopher Brown",M,32,2016,"1983-02-12 00:00:00"
+9,"Christopher Connolly",M,53,2010,
+7,"Christopher Culpepper",M,50,2016,"1965-06-10 00:00:00"
+6,"Christopher Drummond",M,48,2010,
+7,"Christopher Duncan",M,50,2012,
+5,"Christopher Evans",M,41,2012,
+5,"Christopher Gonzalez",M,33,2011,
+8,"Christopher Harris",M,57,2014,
+6,"Christopher Kunkel",M,34,2016,"1981-05-05 00:00:00"
+7,"Christopher Luke",M,53,2004,
+6,"Christopher Madden",M,52,1998,
+8,"Christopher Plopper",M,66,2004,
+5,"Christopher Rodriquez",M,51,2005,
+6,"Christopher Rojas",M,33,2016,"1982-02-27 00:00:00"
+7,"Christopher Schneider",M,29,2016,"1986-08-09 00:00:00"
+6,"Christopher Sustala",M,45,2014,
+8,"Christy Pundt",F,38,2016,"1977-09-12 00:00:00"
+5,"Christy Smith",F,37,2016,"1978-08-31 00:00:00"
+6,"Chrystal Jordan",F,34,2011,
+7,"Chuck Bracht",M,68,2003,
+6,"Chuck Cofer",M,65,2000,
+5,"Chuck Cox",M,59,2014,
+7,"Chuck Frawley",M,72,1989,
+6,"Chuck Hinton",M,67,2010,
+5,"Chuck Michalik",M,77,1984,
+6,"Chuck Randall",M,71,1998,
+5,"Chuck Ward",M,61,2005,
+5,"Chung Yul Kim",M,78,2009,
+6,"Cindy Burris",F,62,2014,
+5,"Cindy Daily",F,64,2003,
+5,"Cindy Garcia-Meitin",F,55,2015,"1960-03-25 00:00:00"
+5,"Cindy Lane",F,69,2013,
+7,"Cindy Price",F,60,2012,"1955-01-18 00:00:00"
+9,"Cindy Ramirez",F,37,2016,"1978-04-25 00:00:00"
+9,"Cindy Sosa",F,61,2012,
+6,"Cindy Whigham",F,41,2016,"1974-08-13 00:00:00"
+5,"Cissy Heafner",F,49,2012,"1966-06-16 00:00:00"
+8,"Clarence Mitchell",M,61,1995,
+7,"Clarence Rice",M,58,1996,
+8,"Clarence Yost",M,66,1994,
+7,"Clark Courtright",M,56,2001,
+5,"Clark Tabbert",M,59,1993,
+8,"Claude Cech",M,67,2011,
+6,"Claudia Hernandez",F,41,2012,
+5,"Claudio Castillo",M,68,1991,
+5,"Clay Hall",M,56,1998,
+7,"Clayton Williams",M,53,2000,
+8,"Cletus Zimmerman",M,76,1997,
+5,"Clif Seward",M,64,2004,
+6,"Cliff Padgett",M,72,1999,
+8,"Clifford Shaw",M,68,2004,
+6,"Clifton Crabtree",M,66,2001,
+6,"Clint Ogilvie",M,66,2007,
+5,"Cole Dailey",M,32,2013,
+6,"Colette Smith",F,42,2016,"1973-12-14 00:00:00"
+5,"Colin Als",M,49,2014,
+6,"Colin Davies",M,39,2015,
+7,"Colin Wooldridge",M,28,2015,
+6,"Connie Przybyla",F,59,2011,
+5,"Corey Anderson",M,49,2009,
+8,"Corey Barrett",M,73,1998,
+6,"Corey Dixon",M,42,2014,
+7,"Corinna Perez",F,37,2015,
+5,"Corky Fritch",M,69,1992,
+9,"Cortney Hebert",F,41,2016,"1974-04-10 00:00:00"
+8,"Costas Saravanos",M,64,2016,"1951-11-02 00:00:00"
+5,"Courtney A Altimore",F,44,2009,
+8,"Coy R Campbell",M,54,2016,"1961-09-05 00:00:00"
+5,"Craig Allen",M,47,2008,
+8,"Craig Calongne",M,53,2015,"1962-04-18 00:00:00"
+7,"Craig Harris",M,51,2001,
+7,"Craig Hughes",M,43,2014,"1972-11-16 00:00:00"
+5,"Craig Kearns",M,57,2016,"1958-11-20 00:00:00"
+5,"Craig Moore",M,65,1996,
+7,"Craig Neitzke",M,38,2007,
+5,"Craig Paradee",M,47,2007,
+6,"Craig Ygnacio",M,48,2004,
+9,"Crayden Dennard",M,63,2011,"1952-11-09 00:00:00"
+6,"Creighton Cadwallader",M,64,1997,
+7,"Cris C Richardson",F,57,2014,
+9,"Cristina De La Isla",F,39,2015,"1976-06-08 00:00:00"
+6,"Cruz Rubio",M,41,2016,"1974-10-05 00:00:00"
+7,"Crystal Hadnott",F,37,2016,"1978-10-19 00:00:00"
+6,"Crystal Ware",F,33,2016,"1982-11-20 00:00:00"
+6,"Cung Ha",M,53,2016,"1962-11-06 00:00:00"
+5,"Currie Evans",M,57,2011,
+5,"Curtis Clark",M,47,2014,
+7,"Curtis Kerstetter",M,48,2013,
+8,"Curtis Turner",M,32,2016,"1983-02-22 00:00:00"
+5,"Daisy Hickman",F,57,2009,
+5,"Dale Cox",M,66,1999,
+5,"Dale Graham",M,66,1991,
+6,"Dale Harvey",M,52,2008,
+5,"Dale Hilpert",M,59,1996,
+7,"Dale Knox",M,63,1996,
+7,"Dale Surbey",M,55,2014,"1960-10-14 00:00:00"
+5,"Dallas Nieto",M,32,2016,"1984-01-03 00:00:00"
+5,"Damon Murphy",M,49,2006,
+5,"Dan Arber",M,54,1991,
+8,"Dan Black",M,61,2007,
+9,"Dan Doan",M,45,2016,"1970-03-25 00:00:00"
+7,"Dan Greenberg",M,41,2016,"1974-03-12 00:00:00"
+6,"Dan Hawley",M,79,1991,
+7,"Dan Hedges",M,69,2004,
+8,"Dan Jacks",M,50,2016,"1965-10-23 00:00:00"
+5,"Dan Krafcheck",M,47,2013,"1968-06-10 00:00:00"
+5,"Dan McClure",M,63,1996,
+5,"Dan McQuillan",M,50,2014,
+5,"Dan Morgan",M,66,1991,
+5,"Dan Pradel",M,48,2011,
+6,"Dan Reed",M,59,2001,
+6,"Dan Smith",M,42,2016,"1973-03-30 00:00:00"
+5,"Dan Sumrall",M,58,2008,
+5,"Dan Warden",M,61,1999,
+5,"Dana Anderson",F,54,2008,
+6,"Dana Caledonia",M,60,2011,
+7,"Dana Cirelli",F,57,2012,
+6,"Dana W Larson",M,79,1984,
+6,"Daniel Barron",M,34,2016,"1981-01-24 00:00:00"
+5,"Daniel Barta",M,57,2016,"1958-08-30 00:00:00"
+7,"Daniel Bulnes",M,62,2007,
+5,"Daniel Campbell",M,36,2015,
+9,"Daniel Cano",M,60,2004,
+7,"Daniel Cherry",M,58,1996,
+5,"Daniel Davidson",M,43,2016,"1972-12-04 00:00:00"
+5,"Daniel Dick",M,37,2009,
+7,"Daniel E Dyal",M,74,1988,
+7,"Daniel Engel",M,62,1995,
+6,"Daniel George",M,49,2012,"1966-05-07 00:00:00"
+9,"Daniel Gonzalez",M,46,2016,"1969-03-17 00:00:00"
+6,"Daniel Griggs",M,66,1997,
+9,"Daniel Hu",M,55,2002,"1960-05-15 00:00:00"
+5,"Daniel K Hedges",M,69,1988,
+5,"Daniel Kim",M,53,2015,
+5,"Daniel Lipsher",M,55,1994,
+7,"Daniel Malaguilla",M,71,1996,
+5,"Daniel Maset",M,33,2012,
+7,"Daniel Murphy",M,37,2015,
+7,"Daniel Murphy",M,69,1986,
+5,"Daniel Nossa",M,31,2016,"1984-05-13 00:00:00"
+7,"Daniel Pennington",M,51,2011,
+5,"Daniel Purdy",M,35,2011,
+5,"Daniel Reynolds",M,58,1996,
+6,"Daniel Scioneaux",M,53,2014,
+7,"Daniel Soto",M,62,2000,
+6,"Daniel Tennison",M,59,1992,
+6,"Daniel Triana",M,52,2011,
+5,"Daniel Walmer",M,40,2012,
+9,"Daniel Zamora",M,64,2015,
+8,"Danielle Ryan",F,39,2012,
+5,"Dann Lee",M,58,1996,
+9,"Danny Gertson",M,58,2012,
+6,"Danny Hernandez",M,39,2016,"1976-06-20 00:00:00"
+7,"Danny M Nguyen",M,46,2016,"1970-01-05 00:00:00"
+6,"Danny Sohn",M,54,2008,
+6,"Dara Miles",F,60,2004,
+7,"Dario Varela",M,67,2006,
+5,"Darla Labasse",F,54,2007,
+5,"Darla Shinn",F,40,2016,"1975-04-16 00:00:00"
+5,"Darla Stelzer",F,48,1986,
+8,"Darlene Fleming",F,58,2001,
+5,"Daron Moore",M,49,2015,
+9,"Daron Peschel",M,49,2016,"1966-10-25 00:00:00"
+5,"Darra Loest",F,52,2000,
+8,"Darrell Green",M,67,2014,
+7,"Darrell Kinder",M,65,1996,
+8,"Darrell Thompson",M,54,1993,
+5,"Darrell Torgerson",M,53,2016,"1962-10-11 00:00:00"
+7,"Darrell Yarbrough",M,57,2014,
+6,"Darren Bencivengo",M,43,2014,
+8,"Darren Schneck",M,35,2016,"1980-10-14 00:00:00"
+9,"Darren Van Delden",M,39,2015,
+7,"Darrick H Givens",M,60,2002,
+5,"Darryl Fane",M,64,1995,
+7,"Darryl Golter",M,44,2006,
+7,"Darryl Shreves",M,55,2016,"1960-08-24 00:00:00"
+9,"Darwin Williamson",M,56,2015,
+6,"Daryl Latham",F,48,2014,
+5,"Daryl Lazauskas",M,51,2009,
+5,"Daryl Mai",M,69,1995,
+9,"Dave Anderson",M,58,2009,
+7,"Dave B Emerson",M,57,2009,
+5,"Dave Braun",M,46,2016,"1970-01-14 00:00:00"
+7,"Dave Faherty",M,70,1998,
+7,"Dave Rainey",M,69,1987,
+5,"Dave Unger",M,53,2008,
+5,"David A Spence",M,63,1989,
+9,"David Aguirre",M,79,1995,
+7,"David Aldous",M,59,2007,
+5,"David Algien",M,54,2014,
+8,"David Allen",M,48,2016,"1967-03-09 00:00:00"
+7,"David Allen",M,57,2006,
+7,"David Alvarado",M,51,2002,
+5,"David Ashworth",M,44,2016,"1971-05-07 00:00:00"
+7,"David Ball",M,55,2015,
+7,"David Ball",M,51,2006,
+7,"David Barbeau",M,68,2001,
+6,"David Benner",M,60,1991,
+6,"David Bernard",M,54,2013,
+6,"David Bradley",M,69,1998,"1946-05-30 00:00:00"
+8,"David Braje",M,69,2000,
+6,"David Bucklew",M,65,2016,"1950-04-25 00:00:00"
+6,"David Buhmann",M,63,1996,
+7,"David Carter",M,52,2001,
+7,"David Chapman",M,49,2015,
+5,"David Cheruiyot",M,45,2011,
+6,"David Chester",M,70,1992,
+8,"David Childers",M,61,1996,
+7,"David Coats",M,54,2016,"1961-02-13 00:00:00"
+7,"David Comstock",M,57,2016,"1958-07-16 00:00:00"
+9,"David Countiss",M,42,2015,
+5,"David Dancsak",M,49,2003,
+7,"David Dilworth",M,62,1996,
+5,"David Doll",M,50,1995,
+7,"David Dratler",M,53,2016,"1962-10-30 00:00:00"
+5,"David Dunlap",M,65,2016,"1951-01-11 00:00:00"
+9,"David Durham",M,43,2015,
+6,"David Dylla",M,50,2015,
+6,"David E Kusnerik",M,60,2002,
+8,"David Eichen",M,60,1999,
+5,"David Engel",M,31,2016,"1985-01-04 00:00:00"
+5,"David Engler",M,50,2011,
+7,"David Espinoza",M,63,2014,
+5,"David Ferley",M,55,2012,
+6,"David Fisher",M,61,1997,
+7,"David France",M,67,1997,
+5,"David Gamez",M,43,2016,"1972-12-20 00:00:00"
+5,"David Gastineau",M,31,2015,"1984-04-15 00:00:00"
+7,"David Gordon",M,53,2012,
+6,"David Greely",M,50,2005,
+6,"David Greene",M,81,1995,
+8,"David Gutacker",M,62,2014,
+5,"David Guzman",M,35,2016,"1980-02-22 00:00:00"
+5,"David H Lilly",M,61,2002,
+7,"David Hejl",M,43,2015,"1972-07-14 00:00:00"
+9,"David Hendricks",M,44,2011,
+6,"David Herzfeld",M,50,2011,
+7,"David Hittler",M,50,1999,"1965-01-22 00:00:00"
+6,"David Holloway",M,63,2001,
+5,"David Hornady",M,90,1996,
+7,"David Howard",M,73,2012,
+5,"David J Rushing",M,68,2011,
+5,"David Jackson",M,61,2012,
+6,"David Jobe",M,61,2001,
+5,"David John Fowler",M,58,2014,
+8,"David Johnson",M,57,2014,"1958-06-28 00:00:00"
+6,"David Jordan",M,52,2005,
+6,"David Kao",M,31,2012,
+7,"David Kelly",M,66,1994,
+9,"David Kinder",M,58,2012,
+6,"David L Odom",M,59,1989,
+9,"David L White",M,59,2002,
+5,"David Lachance",M,60,1997,
+5,"David Lentz",M,70,1995,
+7,"David Lopez",M,53,2011,
+6,"David M Earthman",M,45,2002,
+7,"David Macaulay",M,54,2012,
+5,"David Mack",M,42,2008,
+6,"David Markell",M,59,2016,"1956-08-12 00:00:00"
+5,"David Martin",M,35,2014,
+5,"David Martin",M,60,2005,
+6,"David Mason",M,44,2015,"1971-03-11 00:00:00"
+6,"David McAdow",M,55,2012,
+5,"David McClure",M,67,1995,
+9,"David McNamara",M,53,2015,
+5,"David McShan",M,64,1993,
+9,"David Meyer",M,53,2016,"1962-08-23 00:00:00"
+5,"David Miller",M,57,1998,
+5,"David Moga",M,48,2006,
+5,"David Moise",M,49,2013,
+7,"David Moore",M,61,1999,
+5,"David Moore",M,45,2011,
+6,"David Mudd",M,58,2008,
+6,"David Neal",M,68,1987,
+5,"David Nguyen",M,57,2013,
+5,"David Nicholson",M,75,1996,
+5,"David Oubre",M,48,2011,"1967-07-10 00:00:00"
+6,"David Painter",M,59,2016,"1956-03-31 00:00:00"
+7,"David Parker",M,43,2016,"1972-12-16 00:00:00"
+7,"David Patchett",M,48,2014,"1967-03-20 00:00:00"
+9,"David Phillips",M,58,2008,
+5,"David Price",M,52,2005,
+5,"David Rash",M,58,2005,
+6,"David Ratchford",M,58,2001,
+5,"David Reeder",M,74,1993,
+6,"David Reisman",M,53,2016,"1962-02-23 00:00:00"
+6,"David Rice",M,60,1994,
+6,"David Roark",M,63,2008,
+7,"David Roberts",M,74,1989,
+5,"David Robson",M,69,2010,
+6,"David Rodriquez",M,52,2010,
+7,"David Romero",M,68,1999,
+5,"David Sawyer",M,41,2012,
+7,"David Scholes",M,70,2013,
+7,"David Shacklett",M,48,2011,
+6,"David Shamblen",M,50,2016,"1965-09-25 00:00:00"
+5,"David Smart",M,55,2014,
+5,"David Smith",M,60,2010,
+5,"David Smith",M,55,1997,"1959-07-16 00:00:00"
+5,"David Smith",M,58,2012,
+5,"David Smith",M,60,2008,
+7,"David Sneed",M,62,2004,
+5,"David Stanton",M,51,2007,
+6,"David Sticker",M,60,1999,
+5,"David Stipp",M,56,1992,
+8,"David Sutton",M,62,1987,
+9,"David Thomas",M,40,2016,"1975-06-24 00:00:00"
+9,"David Thompson",M,59,1999,
+5,"David Tremblay",M,36,2011,
+8,"David Tucker",M,54,2016,"1961-04-08 00:00:00"
+9,"David Villareal",M,69,2006,
+6,"David Wadsworth",M,64,1992,
+8,"David Walston",M,68,2005,
+6,"David Warrender",M,55,2011,
+5,"David Webster",M,60,1999,
+5,"David White",M,48,2004,
+6,"David Wightman",M,49,2006,
+9,"David Wigle",M,54,2015,"1961-11-22 00:00:00"
+6,"David Willard",M,68,2001,
+8,"David Williams",M,59,2004,
+8,"David Young",M,56,1999,
+7,"David Zellner",M,60,1995,
+5,"Davide Guzzi",M,45,2016,"1970-08-02 00:00:00"
+8,"Dawn Burke",F,55,2011,
+5,"Dawn Ling",F,49,2011,
+7,"Dawn Proctor",F,41,2016,"1974-09-06 00:00:00"
+6,"Dawn Sabo",F,46,2012,
+8,"Dean H Maddox",M,80,1990,
+7,"Dean Palmer",M,47,2015,
+9,"Dean Shaw",M,55,2012,
+8,"Dean Smith",M,49,2016,"1967-01-14 00:00:00"
+8,"Dean Solcher",M,81,1995,
+6,"Deana Tysdal",F,63,2015,
+6,"Deann Lewis",F,40,2016,"1975-04-21 00:00:00"
+6,"Deanna Brammer",F,42,2016,"1973-06-05 00:00:00"
+8,"Debbie Berry",F,57,2000,
+7,"Debbie Hooper",F,57,2016,"1958-11-14 00:00:00"
+5,"Debbie Humphries",F,62,1998,
+6,"Debbie Nash",F,50,2012,
+5,"Debbie Sherry",F,61,1996,
+8,"Deberah Black",F,60,2014,
+5,"Debora Vida",F,57,2005,"1958-10-19 00:00:00"
+6,"Deborah Cini",F,55,2010,
+9,"Deborah Guelzow",F,32,2016,"1983-02-28 00:00:00"
+6,"Deborah Wing",F,49,2015,
+7,"Debra Barnhart",F,48,2014,
+8,"Debra Wilson",F,57,2016,"1958-08-06 00:00:00"
+5,"Debra Witges",F,61,2007,"1954-05-28 00:00:00"
+7,"Deirdre Madison",F,54,2013,
+7,"Delia Perez",F,58,2005,
+5,"Delmor C Williams",M,74,2002,
+6,"Denia Puerto",F,51,2016,"1964-08-27 00:00:00"
+6,"Denise Bustos Madrid",F,44,2010,
+6,"Denise Moore",F,51,2006,
+6,"Denise Roesing",F,63,1998,
+5,"Denise Welker",F,58,2004,
+5,"Dennis Burk",M,68,1998,
+5,"Dennis Henry",M,59,1999,
+9,"Dennis Malloy",M,55,2015,
+6,"Dennis Newell",M,58,2009,
+6,"Dennis P McVeigh",M,66,1988,
+5,"Dennis Quinio",M,38,2016,"1977-05-10 00:00:00"
+8,"Dennis Slate",M,43,2012,
+7,"Dennis W Shaw",M,61,2016,"1954-11-07 00:00:00"
+6,"Dennis White",M,65,1989,
+8,"Dennis Williams",M,70,1999,
+5,"Deodath Mahase",M,38,2013,"1977-09-21 00:00:00"
+6,"Derek Bailey",M,34,2016,"1981-05-22 00:00:00"
+6,"Derek Dinh",M,53,2007,
+9,"Derek L Richardson",M,39,2009,
+5,"Derek Nolen",M,54,1997,
+5,"Derek Skoyles",M,62,2013,
+8,"Devin Brown",M,41,2016,"1974-09-16 00:00:00"
+6,"Devon Simpson",M,64,2005,
+5,"Diana Armstrong",F,56,2012,
+5,"Diana Mayo",F,57,2014,
+8,"Diana Posada",F,36,2014,
+9,"Diana Unruh",F,54,2004,
+6,"Diane Allen",F,61,2000,
+9,"Diane Garey",F,47,2013,"1968-10-30 00:00:00"
+7,"Diane Guthrie",F,56,2007,
+5,"Diane Johnson",F,44,2010,
+5,"Diane Kaiser",F,55,2016,"1960-09-17 00:00:00"
+5,"Diane Parks",F,55,2012,
+5,"Diane Patterson",F,59,2006,
+6,"Diane Sager",F,56,2016,"1959-05-12 00:00:00"
+5,"Diane Wundrow",F,60,2004,
+6,"Dianna Sulser",F,59,2011,
+8,"Dianne Garban",F,49,2015,
+8,"Dianne Lee",F,62,2016,"1953-11-17 00:00:00"
+5,"Dick Casler",M,71,1998,
+5,"Dick Hogan",M,69,1993,
+6,"Dick Trask",M,83,1986,
+5,"Diego Soto",M,42,2013,
+7,"Dimitri Zgourides",M,48,2016,"1967-06-01 00:00:00"
+5,"Dink Taylor",M,50,2011,
+8,"Dirk Voorhees",,44,2012,
+7,"Don Bryan",M,49,2006,
+7,"Don Cole",M,56,2010,
+7,"Don E Trapnell",M,78,1985,
+9,"Don G Slocomb",M,81,1988,
+5,"Don Hartsell",M,62,2004,
+5,"Don McKenzie",M,57,2009,
+6,"Don Oefinger",M,71,1994,
+6,"Don Paullo",M,48,2014,
+7,"Don Porter",M,62,1998,
+8,"Don Sepulveda",M,44,2015,
+8,"Don Sheen",M,60,2016,"1955-09-13 00:00:00"
+8,"Don Still",M,59,2012,
+5,"Don Wisenbaker",M,45,2016,"1970-12-29 00:00:00"
+8,"Donald Baxter",M,72,2004,
+9,"Donald Childs",M,73,2014,
+8,"Donald D Morgan",M,68,1989,
+9,"Donald E Burell",M,55,2011,
+8,"Donald G Kelley",M,78,2002,
+7,"Donald Jones",M,47,2016,"1968-10-02 00:00:00"
+6,"Donald L Corl",M,83,1988,
+5,"Donald Lindsay",M,69,1994,
+5,"Donald Phend",M,59,1987,
+5,"Donald Porter",M,63,2013,
+7,"Donald Vincent",M,70,1988,
+5,"Donna Duplichan",F,59,1991,
+5,"Donna G Gordon",F,69,1988,
+5,"Donna Offutt",F,70,2000,
+5,"Donna Palfreyman",F,52,2001,
+5,"Donna Schmidt",F,52,2013,
+8,"Donna Whisonant",F,52,2011,"1963-11-07 00:00:00"
+5,"Donnie Artley",M,46,2014,
+6,"Doris Maney",F,67,2004,
+7,"Doris Windsand-Dausman",F,59,2000,
+7,"Dorothy A Babbington",F,57,2013,
+9,"Dorothy Goforth",F,60,2014,"1955-09-11 00:00:00"
+6,"Dorothy Metcalf-Lindenburger",F,40,2012,
+6,"Dorothy Smith",F,69,1993,
+5,"Dot Klein",F,56,2010,
+6,"Doug Blevins",M,73,1992,
+5,"Doug Callon",M,58,2006,
+5,"Doug Dominey",M,56,2015,
+5,"Doug Dretke",M,57,2006,
+5,"Doug Dunlap",M,55,2009,
+5,"Doug Fortner",M,64,2005,
+6,"Doug Haynie",M,53,2008,
+5,"Doug House",M,61,1995,
+5,"Doug Kelley",M,61,1997,
+6,"Doug McBee",M,57,2016,"1958-10-05 00:00:00"
+9,"Doug McRorey",M,54,2016,"1961-03-26 00:00:00"
+8,"Doug Spence",M,58,2016,"1957-04-12 00:00:00"
+8,"Doug Van Singel",M,43,2016,"1972-10-13 00:00:00"
+9,"Douglas Ashmore",M,45,2016,"1970-11-20 00:00:00"
+5,"Douglas Belisle",M,48,2001,
+5,"Douglas Brown",M,69,2005,
+5,"Douglas Descheneaux",M,50,1999,
+6,"Douglas Dillon",M,59,1994,
+9,"Douglas Henslee",M,61,2013,
+6,"Douglas Jordan",M,53,2003,
+5,"Douglas Kopp",M,66,1995,
+7,"Douglas Lee",M,52,2011,
+5,"Douglas Martin",M,62,2001,
+6,"Douglas Mount",M,56,1995,
+5,"Douglas Paddon-Jones",M,46,2008,
+7,"Douglas Pecore",M,52,2006,
+8,"Douglas Rommelmann",M,58,2010,
+8,"Douglas Ross",M,43,2014,
+5,"Douglas Shearer",M,77,2001,
+7,"Douglas Suell",M,44,2016,"1971-07-18 00:00:00"
+5,"Douglas W Beagle",M,65,1984,
+6,"Douglas Williams",M,53,2007,
+5,"Drew Walsh",M,62,2015,
+5,"Drew Wasson",M,42,2016,"1973-11-02 00:00:00"
+8,"Duane Ross",M,72,1997,
+7,"Duncan McCaig",M,66,2016,"1949-09-27 00:00:00"
+8,"Dung Quach",M,37,2016,"1978-11-15 00:00:00"
+8,"Dwain Rollerson",M,45,2016,"1970-04-20 00:00:00"
+9,"Dwight Stein",M,59,2007,
+5,"Earin Persson",F,43,2016,"1980-09-07 00:00:00"
+7,"Earl Dugas",M,66,2012,
+7,"Earl Haury",M,74,1991,
+5,"Earl Hersh",M,60,2016,"1955-09-22 00:00:00"
+8,"Earl Littman",M,88,1991,
+5,"Earl Roberts",M,79,1984,
+8,"Ed Bickley",M,57,2016,"1958-07-03 00:00:00"
+5,"Ed Bryant",M,55,2016,"1960-01-29 00:00:00"
+6,"Ed Dundore",M,72,1992,
+6,"Ed Fedak",M,72,1995,
+6,"Ed Fritsch",M,59,2007,
+8,"Ed Ireland",M,68,1998,
+5,"Ed Lyon",M,59,2014,
+5,"Ed McKenney",M,75,1995,
+5,"Ed Myers",M,80,1987,
+6,"Ed Rinehart",M,73,2000,
+5,"Ed Siteman",M,59,2013,
+6,"Ed Warken",M,63,2014,
+5,"Eddie G Lang",M,90,1982,
+5,"Eddie H Burns",M,66,1985,
+8,"Eddie Harris",M,76,1994,
+8,"Eddie Hernandez",M,69,2006,
+7,"Eddie Reyna",M,85,1987,
+8,"Eddie Rodriguez",M,55,2012,
+6,"Eddie Ujueta",M,65,1992,
+8,"Eddy Day",M,63,2014,
+5,"Eden Barrera",M,50,2013,
+5,"Edgar A Salcedo",M,71,1988,
+5,"Edgar Huerta",M,44,2016,"1971-10-03 00:00:00"
+6,"Edgar Romero",M,46,2014,
+5,"Edgar Saenz",M,46,2014,"1969-02-04 00:00:00"
+5,"Edgar Yzquierdo",M,49,2012,
+7,"Edith Rose",F,47,2016,"1968-01-28 00:00:00"
+8,"Edmund Kacer",M,78,1996,
+5,"Edmundo Perez",M,44,2016,"1971-12-08 00:00:00"
+6,"Edson Jones",M,49,2016,"1966-10-04 00:00:00"
+5,"Eduardo Cano",M,39,2016,"1976-02-15 00:00:00"
+8,"Eduardo Romero Bardawil",M,6,2010,
+5,"Edward A Davis",M,56,1990,
+9,"Edward Albrecht",M,48,2016,"1967-11-05 00:00:00"
+8,"Edward Castro",M,65,1994,
+9,"Edward Chisholm",M,66,2008,
+6,"Edward Ganja",M,55,2010,
+5,"Edward Luna",M,32,2015,
+7,"Edward McDowell",M,58,2003,
+5,"Edward Osborne",M,81,2001,
+5,"Edward Poythress",M,49,2006,
+5,"Edward Schell",M,56,2015,"1959-03-31 00:00:00"
+5,"Edward Stumpf",M,68,1997,
+7,"Edward Tadlock",M,68,1999,
+5,"Edward Thorp",M,88,1993,
+6,"Edward Welch",M,63,2010,
+7,"Edwin F Harris",M,91,1985,
+5,"Edwin Iwanaka",M,38,2015,
+5,"Edwin Wildman",M,66,1995,
+6,"Efrain Saenz",M,48,2016,"1967-10-21 00:00:00"
+6,"Eirin Ekeberg",F,43,2016,"1972-10-05 00:00:00"
+7,"Eladio Perez",M,52,2013,
+5,"Elaine Bullard",F,54,2015,
+5,"Elaine Smith",F,60,2008,"1955-04-29 00:00:00"
+6,"Elan Omessi",M,55,2014,
+7,"Elias Cortina",M,47,2016,"1968-05-31 00:00:00"
+6,"Elias Gonzales",M,70,1989,
+5,"Elias Ramirez",M,39,2014,
+5,"Elizabeth Ahrens",F,69,2009,"1946-09-01 00:00:00"
+5,"Elizabeth Birkman",F,57,1993,
+6,"Elizabeth Byers",F,56,2012,
+6,"Elizabeth Culver",F,56,2016,"1959-03-17 00:00:00"
+5,"Elizabeth Ellis",F,59,1988,
+6,"Elizabeth Grobler",F,54,2014,
+6,"Elizabeth Hayward",F,48,2016,"1967-06-15 00:00:00"
+8,"Elizabeth Horton",F,49,2016,"1966-03-11 00:00:00"
+6,"Elizabeth Lindberg",F,46,2013,
+8,"Elizabeth M Miller",F,55,2015,"1960-07-10 00:00:00"
+6,"Elizabeth Martin",F,31,2012,
+7,"Elizabeth Martin",F,57,2015,
+5,"Elizabeth Pittman",F,50,2010,
+9,"Elizabeth Puente",F,42,2015,
+7,"Elizabeth Ramos",F,46,2012,
+8,"Elizabeth Ridling",F,54,2008,
+8,"Elizabeth Wallace",F,34,2016,"1981-05-16 00:00:00"
+5,"Elizabeth Winfrey",F,48,2012,"1967-02-04 00:00:00"
+6,"Elizabeth Wolf",F,25,2016,"1990-11-16 00:00:00"
+8,"Ellen Chu",F,64,2015,
+8,"Ellen Dylla",F,40,2016,"1975-11-09 00:00:00"
+5,"Ellen Newcaster",F,66,2002,
+5,"Ellen Winstead",F,43,2009,
+6,"Elliot Malach",M,64,1987,
+8,"Ellis Moss",M,59,2010,
+6,"Elmer Ledesma",M,43,2016,"1972-05-25 00:00:00"
+5,"Elsinore Alexander",F,31,2013,
+7,"Emile Hanna",M,39,2016,"1976-05-02 00:00:00"
+5,"Emilia Retta",F,34,2012,
+6,"Emilio Torres",M,60,1998,
+7,"Emily Chik",F,27,2016,"1988-07-11 00:00:00"
+7,"Emily Gregor",F,32,2016,"1983-08-30 00:00:00"
+6,"Emily Rommel",F,38,2013,
+8,"Emily Shempp",F,58,1993,
+6,"Emily Thomas",F,40,2016,"1975-07-25 00:00:00"
+5,"Emmanuel Malabanan",M,49,2003,
+6,"Emmanuel Stefftgen",M,45,2015,
+5,"Enrico Bernal",M,45,2016,"1970-09-01 00:00:00"
+5,"Enrique Cervantez",M,54,2016,"1961-03-17 00:00:00"
+5,"Enrique Lopez",M,32,2014,
+6,"Enrique Macias",M,46,2016,"1969-09-18 00:00:00"
+9,"Enrique Rincon",M,44,2016,"1971-10-11 00:00:00"
+7,"Enrique Valdez",M,74,2014,"1941-09-29 00:00:00"
+5,"Eric A Jansen",M,54,2002,
+8,"Eric Beckham",M,49,2013,
+6,"Eric Bentley",M,38,2012,
+5,"Eric Braate",M,45,2016,"1970-09-03 00:00:00"
+8,"Eric Chi",M,30,2016,"1985-09-17 00:00:00"
+8,"Eric Covert",M,34,2016,"1981-10-06 00:00:00"
+7,"Eric Faria",M,57,2010,
+6,"Eric Johnson",M,48,2016,"1967-04-15 00:00:00"
+5,"Eric Prescott",M,39,2011,
+5,"Eric Von Wenckstern",M,61,1996,
+8,"Erica Murphy",F,46,2013,
+5,"Erica Ries",F,35,2016,"1980-05-05 00:00:00"
+7,"Erik Konicki",M,46,2014,"1969-07-03 00:00:00"
+6,"Erika Alvarez",F,40,2016,"1975-09-21 00:00:00"
+5,"Erika Taugher",F,29,2016,
+9,"Erin Alwon",F,36,2016,"1980-01-16 00:00:00"
+6,"Erin Erdil",M,47,2008,
+7,"Erin Kelly",F,49,2000,
+5,"Erin McIlwain",F,31,2014,
+6,"Erin Morgan",F,40,2010,
+7,"Erin Murphy",F,35,2015,
+9,"Erma E Lee",F,53,2016,"1962-09-17 00:00:00"
+6,"Ernest Alldredge",M,77,1998,
+8,"Ernest D Lykissa",M,69,2002,
+5,"Ernest Papavasiliou",M,78,1981,
+5,"Ernest Strambler",M,56,2011,
+6,"Ernest V Meister",M,73,1984,
+6,"Ernesto Rausa",M,33,2015,
+5,"Ernie H Sonderegger",M,60,1989,
+5,"Ernie Wright",M,69,2003,
+6,"Esau Velazquez",M,44,2016,"1971-04-17 00:00:00"
+8,"Esmeralda Mixon",F,46,2016,"1969-08-18 00:00:00"
+5,"Esmeralda Reyna",F,49,2016,"1966-12-14 00:00:00"
+5,"Esteban Castillo",M,57,2000,
+5,"Estela Koenig",F,64,2000,
+5,"Ethan Hopkin",M,36,2014,
+7,"Eugene Sloan",M,65,2000,
+6,"Eugene Sutton",M,68,2003,
+8,"Eugene Toy",M,55,2016,"1960-12-12 00:00:00"
+6,"Eunice Fuentes",F,42,2016,"1973-02-27 00:00:00"
+5,"Evan Bates",M,55,2015,
+5,"Evans Swann",M,61,1995,
+8,"Everett Hutchinson",M,81,1996,
+9,"Everitt Soliz",M,50,2015,
+5,"Fabio D Gaviria",M,77,1989,
+5,"Fausto Mosca",M,56,2010,"1959-12-02 00:00:00"
+6,"Fay Clark",F,63,2008,
+7,"Felipe Pontigo",M,67,1999,
+5,"Felipe Restrepo",M,77,1999,
+5,"Felipe Sauceda",M,44,2015,"1971-11-20 00:00:00"
+5,"Felix Chik",M,32,2015,
+5,"Fernando Lopez",M,42,2016,"1973-03-19 00:00:00"
+6,"Fernando Ruiz",M,37,2016,"1978-03-30 00:00:00"
+9,"Fidelio Guerra",M,73,1990,
+5,"Flint Brenton",M,60,2009,
+7,"Florentino Rivera",M,60,1998,
+6,"Floyd Duzant",M,68,1999,
+7,"Floyd Keeble",M,60,2007,
+5,"Floyd Trevino",M,63,2005,
+5,"Forbes Barnwell",M,49,2011,
+5,"Frances Hafer",F,53,2014,"1962-12-20 00:00:00"
+7,"Frances M Ingle",F,73,1989,
+7,"Francisca Zucha",F,42,2016,"1973-03-30 00:00:00"
+5,"Francisco Cordero",M,61,2006,
+9,"Francisco Galvan",M,53,2009,
+7,"Francisco Galvan",M,46,2016,"1969-04-10 00:00:00"
+5,"Francisco Gonzalez De Cosio",M,43,2016,"1972-01-29 00:00:00"
+6,"Francisco Perez",M,50,2006,
+8,"Francisco Robles",M,61,2016,"1955-01-03 00:00:00"
+5,"Frank Benavente",M,49,2015,"1966-12-17 00:00:00"
+6,"Frank Bilotti",M,47,2012,
+5,"Frank Binetti",M,43,2010,
+8,"Frank Bireley",M,54,2016,"1961-12-08 00:00:00"
+5,"Frank C Hyatt",M,72,2002,
+5,"Frank Carvelli",M,44,2015,"1971-08-28 00:00:00"
+7,"Frank Cox",M,47,2010,
+7,"Frank G Vasser",M,59,2013,"1956-09-30 00:00:00"
+6,"Frank Garcia",M,52,2009,
+7,"Frank Harper",M,71,1997,
+6,"Frank J Dolan",M,56,2002,
+6,"Frank Krekeler",M,48,2014,
+8,"Frank Kuhlmann",M,53,2005,
+5,"Frank Lozano",M,61,1998,
+5,"Frank Mazza",M,50,2014,
+6,"Frank Page",M,68,1996,
+5,"Frank Rossi",M,58,2000,
+5,"Frank Rossi",M,72,1999,
+5,"Frank Sizemore",M,40,2016,"1975-06-18 00:00:00"
+6,"Frank Stachmus",M,38,2015,"1977-06-03 00:00:00"
+7,"Frank T Crews",M,82,1985,
+7,"Frank Tortorella",M,56,2014,
+6,"Franklin Taglavore",M,54,2015,
+5,"Fred Arsement",M,52,2015,
+8,"Fred Gadbois",M,58,2012,
+5,"Fred Garza",M,53,2006,
+7,"Fred Huerta",M,46,2015,
+7,"Fred Marashi",M,66,2016,"1949-05-18 00:00:00"
+6,"Fred McCulloch",M,55,2015,
+8,"Fred Olver",M,70,2002,
+9,"Fred Reupert",M,60,2003,
+8,"Fred Scott",M,62,2012,"1953-08-04 00:00:00"
+5,"Freddy Padron",M,48,2013,
+6,"Frederic Basset",M,42,2015,
+7,"Frederick Hoffman",M,60,2005,
+6,"Frederick Stalder",M,64,1998,
+7,"Fulin Han",M,45,2016,"1970-08-29 00:00:00"
+5,"Fuller Blanchette",M,31,2013,
+7,"Gabe Moreno",M,43,2015,
+5,"Gabriel Belforti",M,44,2016,"1971-12-18 00:00:00"
+7,"Gabriel Gomez",M,50,2014,
+6,"Gabriel Gonzalez",M,69,1995,
+6,"Gagan Sood",M,57,2012,"1958-03-30 00:00:00"
+5,"Gale Murphy",F,65,1992,
+5,"Galen Collins",M,39,2012,
+5,"Gardner L Campbell",M,82,1983,
+7,"Garland Ridge",M,65,2000,
+8,"Garry Matocha",M,58,2005,
+5,"Gary Aaron",M,50,2015,"1965-01-21 00:00:00"
+6,"Gary Blackie",M,67,1993,
+6,"Gary Carrola",M,53,2008,
+6,"Gary Chambers",M,66,2005,
+6,"Gary Chapman",M,58,2015,"1957-10-10 00:00:00"
+7,"Gary Chu",M,37,2016,"1983-09-17 00:00:00"
+5,"Gary Epperson",M,50,2006,
+8,"Gary Fish",M,67,2015,
+9,"Gary Gates",M,56,2005,
+5,"Gary Igo",M,49,2003,
+5,"Gary Janak",M,53,2016,
+5,"Gary Jones",M,67,2004,
+5,"Gary Julin",M,68,2003,
+5,"Gary Kroll",M,52,2016,"1963-07-27 00:00:00"
+5,"Gary Lambert",M,70,1995,
+9,"Gary Legg",M,56,2001,
+8,"Gary Marlow",M,50,2016,"1965-04-21 00:00:00"
+9,"Gary Martin",M,60,1996,
+6,"Gary Miller",M,52,2012,
+7,"Gary Miller",M,73,2010,
+5,"Gary Renick",M,75,1986,
+9,"Gary Roper",M,69,2011,
+5,"Gary See",M,56,2003,
+7,"Gary Speyrer",M,60,2012,
+6,"Gary Teinert",M,64,2012,
+6,"Gary Van Kuiken",M,58,2010,
+8,"Gary W Johnstone",M,64,2012,
+5,"Gary Yorke",M,61,2001,
+9,"Gavin Cunningham",M,41,2015,
+5,"Gaylord M Hoyt",M,75,1981,
+5,"Gene A Odonnell",M,65,1989,
+7,"Gene Graham",M,51,1996,
+5,"Gene Saizon",M,63,2010,
+8,"Gene Woodruff",M,84,2008,
+6,"Genevive Mathers",F,32,2016,"1983-05-18 00:00:00"
+7,"Geoffrey Lussier",M,47,2015,"1968-02-02 00:00:00"
+6,"George Arnold",M,53,2007,
+6,"George Castillo",M,68,1999,
+5,"George Day",M,52,2016,"1963-02-27 00:00:00"
+7,"George Dodge",M,75,2001,
+6,"George Duren",M,67,2003,
+6,"George Flatau",M,43,2016,"1972-04-13 00:00:00"
+5,"George Garris",M,73,1997,
+7,"George Garst",M,60,1999,
+6,"George Killinger",M,67,2014,
+5,"George Kissamis",M,44,2015,
+5,"George Korpita",M,37,2016,"1978-02-09 00:00:00"
+5,"George L Danforth",M,95,1984,
+5,"George Marino",M,64,1991,
+9,"George McKay",M,65,2011,
+7,"George Mekker",M,83,1994,
+6,"George Ortiz",M,63,1995,
+8,"George Rivera",M,50,2016,"1965-08-12 00:00:00"
+6,"George Saldana",M,72,1995,
+6,"George Simpson",M,61,2006,
+6,"George Smith",M,90,1992,
+5,"George W Allen",M,78,1983,
+5,"George W Christman",M,68,1989,
+7,"George Williams",M,68,2008,
+5,"Georgina Walker",F,24,2016,"1991-01-28 00:00:00"
+6,"Gerald Alfano",M,65,1986,
+8,"Gerald Farha",M,59,1996,
+8,"Gerald Godoy",M,48,2016,"1967-12-26 00:00:00"
+5,"Gerald K Sheller",M,84,1984,
+9,"Gerald Kleyn",M,39,2016,"1976-04-07 00:00:00"
+7,"Gerald Li",M,59,2012,
+5,"Gerald Saliens",M,72,1986,
+7,"Gerald Taylor",M,62,2005,
+8,"Gerardo Mora",M,49,2010,
+6,"Gerardo Nolazco",M,30,2016,"1985-10-01 00:00:00"
+7,"Gerardus Smith",M,48,2016,"1967-02-13 00:00:00"
+6,"German Huerta",M,41,2016,"1974-09-02 00:00:00"
+5,"Gerrit Dablaing",M,59,2009,
+5,"Gerrit M Hoogenboezem",M,95,2002,
+9,"Gerry Cashiola",M,58,2016,"1957-09-03 00:00:00"
+7,"Gerry Haby",M,68,2000,
+6,"Ghent G Lummis",M,56,2013,
+7,"Giang Tran",M,45,2016,"1970-07-20 00:00:00"
+5,"Gigi Wark",F,54,2003,
+6,"Gigi White",F,53,2013,
+6,"Gil Guajardo",M,67,1996,
+5,"Gilbert Guerra",M,34,2016,"1981-03-08 00:00:00"
+5,"Gilbert Reyna",M,85,1990,
+6,"Gilberto Rincones",M,65,1996,
+5,"Gillus Moore",M,57,2003,
+6,"Gina Araguz",F,53,2011,
+9,"Gina Buti",F,55,2016,"1960-04-20 00:00:00"
+5,"Gina Luna",F,42,2011,
+5,"Ginny Howard",F,49,2013,
+6,"Ginny Romero",F,52,2002,
+9,"Ginny Woodring",F,56,2011,
+6,"Glauco Souza",M,45,2014,
+7,"Glen E Carter",M,64,1989,
+9,"Glen Ledoux",M,84,1993,
+5,"Glenn Banez",M,40,2016,"1975-04-27 00:00:00"
+8,"Glenn Billingsley",M,71,2016,"1945-01-13 00:00:00"
+5,"Glenn Fisher",M,61,1994,
+7,"Glenn Godoy",M,58,1996,
+5,"Glenn Hitchcock",M,46,2016,"1969-03-25 00:00:00"
+6,"Glenn Lerich",M,55,2015,
+6,"Glenn May",M,77,1999,
+6,"Glenn Ray",M,53,2014,
+8,"Glenn Williams",M,65,1987,
+7,"Glenn Yorek",M,59,2008,
+5,"Glinda M Bancroft",F,59,2002,
+9,"Glori Morales",F,45,2015,
+5,"Gloria Cruz",F,64,2000,
+7,"Gloria Glass",F,64,2008,
+5,"Gloria J Bagstad",F,67,1990,
+5,"Gloria Reyes",F,32,2016,"1983-09-16 00:00:00"
+5,"Gloria Shrewsbury",F,47,2015,
+5,"Gloria Stelly",F,62,2012,
+7,"Gordon Christie",M,46,2016,"1969-12-18 00:00:00"
+7,"Gordon Thomas",M,57,1995,
+5,"Grace Trejo",F,46,2014,
+6,"Gracie Stelly",F,59,2012,"1956-11-10 00:00:00"
+8,"Gracie Trejo",F,49,2016,"1966-07-22 00:00:00"
+5,"Graham Baker",M,76,2003,
+5,"Graham Ryder",M,66,1994,
+5,"Grant Anderson",M,45,2010,
+6,"Grant Anderson",M,52,2009,
+5,"Greg Allen",M,45,2016,"1970-09-26 00:00:00"
+5,"Greg Clark",M,66,1996,
+7,"Greg Colvin",M,49,2016,"1966-04-20 00:00:00"
+7,"Greg Deskins",M,59,1998,
+5,"Greg Doss",M,38,2012,
+5,"Greg Figueroa",M,48,2015,
+7,"Greg Gibson",M,54,2001,
+6,"Greg Larue",M,49,2010,
+8,"Greg McLauchlin",M,46,2016,"1969-10-30 00:00:00"
+9,"Greg Park",M,52,2016,"1963-06-30 00:00:00"
+5,"Greg Pennington",M,57,2000,
+5,"Greg Thomas",M,60,2016,
+9,"Gregg Frashure",M,34,2016,"1981-08-07 00:00:00"
+5,"Gregg Gohlke",M,60,2004,
+6,"Gregg Haan",M,47,2005,
+8,"Gregg Proctor",M,50,2010,
+5,"Gregg Williams",M,58,2001,
+7,"Gregory Donovan",M,48,2016,"1967-07-27 00:00:00"
+5,"Gregory Ford",M,50,2013,
+5,"Gregory Hamre",M,27,2016,"1988-06-17 00:00:00"
+6,"Gregory Harrison",M,61,2006,
+5,"Gregory Holloway",M,47,2013,
+8,"Gregory Kelley",M,76,1996,
+7,"Gregory S Jimenez",M,55,2001,
+5,"Gregory W Hall",M,61,2000,
+6,"Gretchen Van Beers",F,39,2015,
+6,"Griselda Borrero",F,45,2016,"1970-06-04 00:00:00"
+8,"Grover Watkins",M,62,1998,
+5,"Guadalupe Ovalle",M,76,1998,
+6,"Guillermo G Guevara",M,60,2002,
+6,"Guillermo Yrizar",M,57,1997,
+5,"Gunther Breaux",M,62,1995,
+5,"Gus Lanier",M,62,2006,
+5,"Gustavo Arellano",M,52,2008,
+5,"Gustavo Hernandez",M,43,2014,
+5,"Gustavo Mendoza",M,45,2003,
+5,"Guy Guerin",M,68,2008,
+7,"Guy Rozas",M,56,2016,"1959-02-21 00:00:00"
+5,"Guy Sigley",M,58,1993,
+7,"Guy Sylvester",M,55,1999,
+8,"Gwendolyn Mills",F,55,2012,
+7,"Ha Trinh",F,45,2016,"1970-11-18 00:00:00"
+5,"Hai Huynh",M,49,2016,"1966-07-29 00:00:00"
+6,"Hakeem Pedro",M,57,2005,
+5,"Hal C Grow",M,73,1983,
+6,"Hanan Harkness",F,47,2015,
+8,"Hanh Langlinais",F,42,2015,
+6,"Hank Garrett",M,65,2011,
+5,"Hank Kastner",M,64,2003,
+8,"Hannes Vogel",M,62,2002,
+9,"Hans Jaeger",M,68,2004,
+8,"Hans Mayer",M,80,2001,"1935-11-23 00:00:00"
+5,"Hans Siemelink",M,55,2011,
+5,"Haphong Nguyen",F,48,2009,
+5,"Harce Hurst",M,58,2015,
+6,"Harding Erwin",M,52,2009,
+7,"Harold Borland",M,41,2016,"1974-05-30 00:00:00"
+6,"Harold Brian",M,48,2016,"1967-12-12 00:00:00"
+6,"Harold Dorbin",M,55,2006,
+5,"Harold F Seubert",M,51,2002,
+7,"Harold Gillespie",M,93,1989,
+6,"Harold Jackson",M,83,2008,
+8,"Harold Joseph",M,59,1995,
+6,"Harold L Prior",M,78,1983,
+5,"Harold McCracken",M,57,2007,
+5,"Harold R Lauterbach",M,84,1988,
+6,"Harold Syer",M,63,2010,
+7,"Harrell Booker",M,56,2011,
+5,"Harris Argo",M,54,2007,
+8,"Harry Hogan",M,59,2016,"1956-08-25 00:00:00"
+5,"Harry Johnson",M,64,1995,
+6,"Harry Palmer",M,63,1994,
+6,"Harry Tenorio",M,40,2010,
+5,"Harve Truskett",M,44,2016,"1971-12-08 00:00:00"
+5,"Hau Pham",M,42,2015,"1973-12-04 00:00:00"
+6,"Haywood Enloe",M,68,2004,
+5,"Hazel Cross",F,56,2007,
+7,"Heather Foley",F,33,2016,"1982-08-11 00:00:00"
+6,"Hector Retta",M,62,2012,
+6,"Hector Teran",M,68,2016,"1947-04-20 00:00:00"
+6,"Heidi Riggs",F,46,2006,
+5,"Heidy Lozano",F,52,2010,
+5,"Helen Delemos",F,48,2014,
+5,"Helen Jackson",F,55,2015,
+6,"Helen Wood",F,48,2009,"1967-04-24 00:00:00"
+8,"Helene Huckaba",F,38,2016,"1977-05-11 00:00:00"
+5,"Henri D Morris",M,68,2002,
+6,"Henry Christiansen",M,77,1986,
+7,"Henry Clark",M,65,2000,
+5,"Henry Fung",M,58,2016,"1957-04-19 00:00:00"
+5,"Henry J Epp",M,102,1984,
+9,"Henry Matheson",M,81,1991,
+6,"Henry Wald",M,61,1990,
+7,"Herbert Ashe",M,61,2001,
+7,"Herbert Juppe",M,63,2010,
+7,"Hermes Hinojosa",M,44,2016,"1971-09-21 00:00:00"
+5,"Hewitt Woolner",M,58,1997,
+5,"Hillarie Forister",F,36,2016,"1979-04-25 00:00:00"
+6,"Hillary Gerhart",F,54,2012,
+6,"Hiro Futsu",M,46,2004,
+6,"Hobart Williamson",M,58,1996,
+8,"Hojin Lim",M,45,2014,
+5,"Holden Choi",M,49,2011,
+6,"Holly Mayson",F,55,2015,
+6,"Honey Warwick",F,42,2016,"1973-06-11 00:00:00"
+6,"Houston Mitchell",M,43,2014,
+6,"Howard Schaeffer",M,64,2004,
+6,"Hugh A Haynes",M,84,1988,
+6,"Hugh Sullivan",M,57,2016,"1958-12-08 00:00:00"
+5,"Hugh W Hamlyn",M,74,1990,
+5,"Humberto Escobedo",M,57,2016,"1958-08-14 00:00:00"
+7,"Hung Hoang",M,51,2016,"1964-12-10 00:00:00"
+6,"Hunter Edmondson",M,32,2016,"1983-12-19 00:00:00"
+5,"Ian Isherwood",M,63,1998,
+5,"Ian Jaffee",M,40,2004,
+5,"Ian Pattie",M,60,1996,
+6,"Ian Walsh",M,28,2014,
+8,"Ignacio Ybarra",M,72,2005,
+6,"Ike Gibbs",M,41,2016,"1974-12-11 00:00:00"
+6,"Ike Nunn",M,70,1990,
+8,"Ingrid Fenton",F,58,2010,
+8,"Ira Ray",M,27,2016,"1988-08-26 00:00:00"
+7,"Irene Orr",F,60,2016,"1955-09-21 00:00:00"
+7,"Irma Button",F,59,2009,
+5,"Irma Conran",F,63,2009,
+7,"Irma Sanchez",F,39,2012,
+6,"Ishmael Torres",M,69,1987,
+6,"Israel Arroyo",M,56,2000,
+7,"Ivan Berranger",M,50,2013,
+6,"Ivone Bruno",F,47,2014,"1968-12-19 00:00:00"
+5,"J C Coyle",M,79,2000,
+5,"J C Guzman",M,44,2013,
+6,"J George Isom",M,80,1994,
+5,"J Germenis",M,61,2008,
+6,"J W Staman",M,79,1983,
+8,"Jack B Kahn",M,65,1988,
+6,"Jack Cook",M,72,1987,
+6,"Jack Garzon",M,70,1996,
+5,"Jack Hendrix",M,73,1996,
+5,"Jack Lesch",M,66,2007,
+8,"Jack M Sheridan",M,77,1989,
+5,"Jack Myers",M,45,2012,
+8,"Jack R Perini",M,59,2000,
+8,"Jack Swanson",M,71,1991,
+5,"Jack Swartz",M,52,2016,"1963-12-07 00:00:00"
+8,"Jack T Wishlinski",M,66,2000,
+5,"Jack Toellner",M,59,1997,
+5,"Jackie Connelly",F,52,2008,
+6,"Jackie Minge",F,54,1997,
+7,"Jackie Rye",F,32,2016,"1983-12-19 00:00:00"
+5,"Jacob Corona",M,28,2015,
+6,"Jacqueline Repetski",F,46,2011,
+5,"Jacquelyn Delaney",F,72,1992,
+6,"Jacques Smuts",M,50,2013,
+5,"Jagdish Master",M,69,2005,
+8,"Jai Ranganath",M,56,2016,"1959-03-28 00:00:00"
+7,"Jaime Altamirano",M,41,2016,"1974-12-30 00:00:00"
+7,"Jaime Alvarez",M,37,2016,"1978-09-08 00:00:00"
+8,"Jaime Castro",M,52,2016,"1963-04-09 00:00:00"
+5,"Jaime Gateno",M,53,2008,
+5,"Jaime Guarino",F,47,2012,
+8,"Jaime Rangel",M,50,2016,"1965-02-05 00:00:00"
+8,"Jaime Rodriguez",M,54,2011,
+5,"Jamal Jamalyaria",M,63,2003,
+6,"James A Herd",M,83,1988,
+6,"James A Hime",M,61,2002,
+5,"James A Jacoby",M,47,2002,
+5,"James Banh",M,53,2016,"1962-09-26 00:00:00"
+7,"James Barnette",M,78,1996,
+6,"James Bason",M,45,2016,"1970-04-08 00:00:00"
+6,"James Bielefeldt",M,71,1999,
+5,"James Blanchard",M,68,1986,
+9,"James Brooks",M,71,2009,
+9,"James Campos",M,45,2005,
+5,"James Carter",M,68,1988,
+5,"James D Edwards",M,67,1989,
+5,"James Demases",M,63,2006,
+6,"James Donaldson",M,57,2014,
+8,"James Dykas",M,53,2015,
+8,"James Dykes",M,58,2007,
+7,"James Eagan",M,64,1987,
+5,"James G Buchanan",M,55,2002,
+6,"James G Strachan",M,46,2011,
+6,"James Harrison",M,47,2015,
+7,"James Hickey",M,48,2013,
+8,"James Holt",M,62,1999,
+5,"James Holtz",M,63,2012,
+5,"James Izzo",M,55,1998,
+8,"James J Perry",M,70,2005,
+9,"James Jamison",M,62,2004,
+6,"James Kendrick",M,68,1995,
+5,"James Klander",M,50,2016,"1965-12-18 00:00:00"
+7,"James L Moore",M,82,1988,
+7,"James Ladewig",M,63,1991,
+5,"James Liu",M,45,2007,
+7,"James Luchak",M,73,1997,
+5,"James M Kelley",M,52,2016,"1964-01-08 00:00:00"
+6,"James May",M,65,1992,
+6,"James McCabe",M,44,2012,
+7,"James McInerny",M,58,2016,"1957-10-14 00:00:00"
+7,"James Mires",M,68,2003,
+5,"James Plummer",M,74,1986,
+6,"James Proctor",M,61,1996,
+9,"James R Vernon",M,60,2016,"1955-09-05 00:00:00"
+6,"James Randall",M,47,2012,
+8,"James Reeve",M,73,2004,
+5,"James Rice",M,59,1999,
+5,"James Richter",M,54,2008,
+6,"James Robinson",M,52,2010,
+7,"James Rollins",M,71,1989,
+7,"James Scheffer",M,49,2014,
+7,"James Shelton",M,48,2015,
+5,"James Snell",M,56,2016,"1959-03-25 00:00:00"
+8,"James Taylor",M,53,2011,
+5,"James Thomas",M,67,2006,
+5,"James Trimbach",M,56,1998,
+5,"James Trimble",M,53,2011,
+8,"James Varnell",M,59,1998,
+9,"James Walker",M,55,2016,"1960-06-21 00:00:00"
+5,"James Wallace",M,65,1997,
+8,"James Winslow",M,53,2016,"1962-08-07 00:00:00"
+5,"James Wortham",M,61,2001,
+7,"James Wright",M,49,2013,
+8,"Jamie Johnson",M,49,2009,"1966-06-08 00:00:00"
+5,"Jamie Miller",F,34,2012,
+9,"Jan Baldwin",F,69,2006,
+5,"Jan Owen",F,44,2014,
+5,"Jan Torgersen",M,52,2016,"1963-06-15 00:00:00"
+5,"Jana Landry",F,62,2011,
+9,"Jana Yowell",F,43,2013,
+5,"Jane C Hamlyn",F,75,1990,
+7,"Jane Corboy",F,58,2006,
+5,"Jane Wagenaar",F,52,2008,
+7,"Jane Weatherford",F,59,2000,
+5,"Janet Bryant",F,52,2000,
+5,"Janet Crow",F,69,2006,
+6,"Janet Csanyi",F,62,2010,
+6,"Janet Henry",F,63,1995,
+7,"Janet Hudgens",F,59,2012,"1956-05-25 00:00:00"
+8,"Janet Lane",F,61,1991,
+9,"Janet Meddaugh",F,61,2015,
+7,"Janet Weimer",F,59,2016,"1956-06-08 00:00:00"
+8,"Janice Moody",F,55,2016,"1960-07-09 00:00:00"
+5,"Janice Pfitzer",F,51,2006,
+5,"Japheth Nyabiosi",M,33,2016,"1982-09-05 00:00:00"
+7,"Jaroslav J Vodehnal",M,72,1989,
+5,"Jarrett Hubert",M,32,2016,"1983-04-03 00:00:00"
+5,"Jason Black",M,40,2009,
+6,"Jason Chow",M,30,2016,"1985-10-18 00:00:00"
+8,"Jason Currie",M,55,2016,"1960-11-16 00:00:00"
+7,"Jason Drake",M,44,2016,"1971-09-08 00:00:00"
+7,"Jason Gioia",M,38,2007,
+6,"Jason Hare",M,45,2015,
+9,"Jason L Taylor",M,44,2011,
+7,"Jason Lee",M,44,2016,"1971-09-02 00:00:00"
+6,"Jason Mazoch",M,34,2014,
+5,"Jason Miles",M,51,2003,
+6,"Jason Robinson",M,49,2006,
+6,"Jason Stark",M,39,2016,"1976-06-14 00:00:00"
+6,"Javier Barrera",M,44,2014,
+7,"Javier Celaya",M,43,2016,"1972-09-22 00:00:00"
+5,"Javier Jasminoy",M,64,2009,
+9,"Javier Lopez",M,47,2016,"1968-05-22 00:00:00"
+5,"Javier Rey",M,59,1993,
+7,"Jay Bevan",M,55,2008,
+8,"Jay Everett",M,49,2011,
+5,"Jay Fenberg",M,69,1998,
+9,"Jay Hooker",M,52,2011,
+6,"Jay Merten",M,68,2005,
+7,"Jay Ring",M,38,2015,
+9,"Jay Simmons",M,53,2014,
+5,"Jayakrishna Gundamaraju",M,50,2014,
+6,"Jayne Leuterman",F,58,2011,
+8,"Jean Guardiola",F,62,2011,
+5,"Jean Mitchell",F,48,2004,
+5,"Jean Myers",F,55,2011,
+5,"Jean Uy",F,57,2012,
+6,"Jean-Francois Meyrat",M,58,2013,
+8,"Jean-Louis Pessin",M,59,2008,
+6,"Jeanie Stahl",F,52,2014,"1964-01-04 00:00:00"
+6,"Jeanne A Seaux-Pierce",F,45,2011,
+6,"Jeanne Megna",F,52,2007,"1963-05-10 00:00:00"
+9,"Jeanne Pitz",F,16,2000,
+5,"Jeannine Porter",F,33,2015,
+6,"Jeff C Barnett",M,60,2009,
+6,"Jeff Carlson",M,70,1996,
+6,"Jeff Detroye",M,61,1996,
+7,"Jeff Dunstone",M,60,2011,
+5,"Jeff Gebhart",M,53,2009,
+5,"Jeff Gilbert",M,68,2004,
+5,"Jeff Herrold",M,55,2004,
+5,"Jeff Krehmeier",M,53,2004,
+6,"Jeff Oakley",M,45,2016,
+8,"Jeff Sangalis",M,57,2016,"1958-07-26 00:00:00"
+6,"Jeff Spoon",M,59,2011,
+8,"Jeff Streets",M,52,2016,"1963-11-29 00:00:00"
+6,"Jeff Vandervort",M,52,2006,
+7,"Jeff Williams",M,46,2016,"1970-01-07 00:00:00"
+5,"Jeff Williams",M,43,2011,
+5,"Jeff Zavala",M,43,2012,
+5,"Jeffery Wilmer",M,57,1995,
+5,"Jeffrey Benney",M,64,1991,
+9,"Jeffrey Carlyle",M,42,2016,"1973-05-23 00:00:00"
+6,"Jeffrey Clark",M,59,2012,
+5,"Jeffrey Crawford",M,57,2012,
+5,"Jeffrey Davenport",M,52,2003,
+5,"Jeffrey Donovan",M,48,2015,"1967-07-29 00:00:00"
+5,"Jeffrey Ensign",M,37,2016,"1978-03-02 00:00:00"
+8,"Jeffrey Gimpel",M,70,1999,
+8,"Jeffrey Hill",M,50,2016,"1965-06-01 00:00:00"
+5,"Jeffrey Kohlenberg",M,47,2014,"1968-06-15 00:00:00"
+5,"Jeffrey Markowski",M,30,2014,
+5,"Jeffrey McClure",M,64,1995,
+5,"Jeffrey Pearson",M,38,2016,"1977-05-24 00:00:00"
+5,"Jeffrey Schmidt",M,37,2016,"1978-05-05 00:00:00"
+5,"Jeffrey Spoon",M,59,2013,
+5,"Jeffrey Tabourne",M,50,2011,
+8,"Jeffrey Westergren",M,69,2001,
+6,"Jenna Loredo",F,18,2016,"1997-06-17 00:00:00"
+5,"Jenni Peters",F,60,2001,
+8,"Jennifer Alpard",F,45,2016,"1970-01-25 00:00:00"
+5,"Jennifer Anthony",F,35,2012,
+6,"Jennifer Bernard",F,53,2016,"1962-03-18 00:00:00"
+7,"Jennifer Breazeale",F,43,2016,"1972-11-06 00:00:00"
+8,"Jennifer Brown",F,39,2012,
+5,"Jennifer Browning",F,47,2008,
+6,"Jennifer C Kleiman",F,39,2011,
+6,"Jennifer Foster",F,47,2016,"1968-05-24 00:00:00"
+6,"Jennifer Gault",F,52,2008,
+6,"Jennifer Gegogeine",F,39,2013,
+7,"Jennifer Guza",F,30,2016,"1985-10-27 00:00:00"
+6,"Jennifer Niesner",F,37,2016,"1978-05-16 00:00:00"
+5,"Jennifer Othold",F,32,2016,"1983-11-18 00:00:00"
+9,"Jennifer Robinson",F,49,2016,"1966-02-05 00:00:00"
+5,"Jennifer Romano",F,41,2011,
+8,"Jennifer Saunders",F,46,2008,
+5,"Jennifer Smith",F,42,2014,"1973-03-11 00:00:00"
+5,"Jennifer Waldner",F,41,2015,"1974-06-25 00:00:00"
+5,"Jennifer White",F,56,2005,
+5,"Jenny Beattie",F,39,2015,
+7,"Jenny Gruber",F,39,2015,
+6,"Jenny Toups",F,45,2013,"1970-09-18 00:00:00"
+6,"Jeoff Krontz",M,43,2012,
+5,"Jeramie Pinter",M,36,2016,"1979-08-02 00:00:00"
+5,"Jeremiah Anderson",M,38,2011,
+5,"Jeremy Hanson",M,38,2016,"1977-06-17 00:00:00"
+6,"Jeremy Smith",M,45,2005,
+5,"Jeremy Williford",M,44,2009,
+9,"Jeri Brown",M,81,1992,
+5,"Jerome Baumeister",M,61,2011,
+8,"Jerome Lancaster",M,48,2014,
+5,"Jerome Lanser",M,57,2000,
+6,"Jerrold Gearhart",M,40,2013,
+8,"Jerry Braden",M,69,1997,
+5,"Jerry Bradshaw",M,67,2005,
+5,"Jerry C Chandler",M,50,2002,
+5,"Jerry Carr",M,49,2012,
+5,"Jerry Crumpler",M,67,1986,
+7,"Jerry Edmonson",M,56,2015,
+7,"Jerry Ernest",M,71,2009,
+6,"Jerry F McMorrow",M,71,1985,
+7,"Jerry Flanagan",M,76,2007,
+5,"Jerry Forest",M,55,2004,
+8,"Jerry Garrett",M,73,1995,
+6,"Jerry Gattis",M,51,2013,
+5,"Jerry Griffin",M,42,2015,
+5,"Jerry H Yellen",M,74,1983,
+9,"Jerry Hammervold",M,63,2016,"1952-06-06 00:00:00"
+6,"Jerry Helton",M,63,1992,
+7,"Jerry Kipping",M,51,2003,
+6,"Jerry Labarrie",M,71,2007,
+6,"Jerry M Rovner",M,69,1985,
+8,"Jerry M Schilling",M,56,2013,
+8,"Jerry Mak",M,51,2011,
+5,"Jerry McClain",M,75,1992,
+9,"Jerry R Strawser",M,55,2002,
+5,"Jerry Sonnier",M,40,2016,"1975-12-12 00:00:00"
+5,"Jerry Sparks",M,63,2012,"1952-10-20 00:00:00"
+9,"Jerry Turner",M,70,2007,
+7,"Jerry Velasquez",M,61,2012,
+7,"Jerry Weaver",M,76,2003,
+6,"Jesse Alatorre",M,39,2016,"1976-02-06 00:00:00"
+5,"Jesse Gonzales",M,69,1995,
+5,"Jesse Hernandez",M,59,2011,
+9,"Jesse Ho",M,70,2004,
+5,"Jesse J Mesa",M,68,1990,
+5,"Jesse Keller",M,55,2010,
+6,"Jesse Rochell",M,70,1987,
+7,"Jesse Salazar",M,76,1998,
+7,"Jesse Sarabia",M,50,2016,"1965-05-25 00:00:00"
+8,"Jesus Abete",M,55,2003,
+6,"Jesus Ambriz",M,55,1994,
+7,"Jesus Davila",M,54,2006,
+5,"Jesus Elizondo",M,70,1986,
+5,"Jesus Limas",M,66,1998,
+5,"Jesus Martinez",M,38,2016,
+8,"Jesus McKelligan",M,56,2004,
+7,"Jesus Reyna",M,50,2004,
+6,"Jesus Sandoval",M,82,1999,
+5,"Jill Olson",F,37,2011,
+6,"Jill Sherman",F,55,2011,
+5,"Jill Zivley",F,59,2007,
+6,"Jim Adams",M,60,2011,
+5,"Jim Allison",M,47,2009,
+8,"Jim Anding",M,77,2000,
+5,"Jim Baker",M,69,2001,
+5,"Jim Bulla",M,74,2007,
+9,"Jim Busse",M,53,2016,"1962-08-14 00:00:00"
+5,"Jim C Maxson",M,55,2002,
+7,"Jim Faulk",M,63,2012,
+6,"Jim Garrett",M,77,1988,
+5,"Jim Glasford",M,82,1994,
+5,"Jim H Engstrom",M,74,1989,
+5,"Jim Harvey",M,66,2008,
+5,"Jim Heiser",M,54,2001,
+6,"Jim Jordan",M,72,2000,
+5,"Jim Miller",M,74,2016,"1941-07-05 00:00:00"
+5,"Jim Oconnor",M,62,1987,
+7,"Jim P Whitney",M,57,2002,
+6,"Jim Parks",M,58,1999,
+5,"Jim Pittman",M,50,2011,
+5,"Jim Plutt",M,37,2012,
+5,"Jim Regan",M,57,2013,
+5,"Jim Rice",M,59,2003,
+9,"Jim Robertson",M,63,2010,
+8,"Jim Sawyer",M,61,1999,
+6,"Jim Simon",M,48,1999,
+5,"Jim Sizer",M,58,2009,
+8,"Jim Surratt",M,57,2016,"1958-07-08 00:00:00"
+6,"Jim Thompson",M,70,2011,
+9,"Jim Tincher",M,46,2016,"1969-03-13 00:00:00"
+7,"Jim Walters",M,86,1995,
+7,"Jim Wight",M,79,1993,
+9,"Jimee Burns",M,46,2012,
+9,"Jimmie Jones",M,72,2005,
+7,"Jimmy Boutte",M,52,2013,
+5,"Jimmy C Norwood",M,73,1983,
+6,"Jimmy Clore",M,42,2014,"1973-03-01 00:00:00"
+7,"Jimmy Flanagan",M,64,2010,
+6,"Jimmy Jircik",M,63,2015,"1952-12-15 00:00:00"
+5,"Jimmy Toy",M,50,2016,"1965-05-24 00:00:00"
+6,"Jin Kim",M,46,2010,
+7,"Jitka Newald",F,58,2009,
+7,"Jiwen Zeng",M,40,2016,"1975-01-28 00:00:00"
+7,"Jo Ann Gerules",F,56,2016,"1959-09-10 00:00:00"
+8,"Joachim Jantzen",M,77,1998,
+5,"Joan Bowman",F,68,2004,
+7,"Joan F Egan",F,74,1988,
+5,"Joan Oconnor",F,56,2008,
+5,"Joan Walker",F,63,1989,
+7,"Joanna Caudillo",F,42,2016,"1973-07-02 00:00:00"
+6,"Jody Berry",F,55,2013,"1960-09-12 00:00:00"
+5,"Jody Rice",F,50,2008,
+5,"Jody Richardson",F,65,1988,
+5,"Jody Slaughter",M,52,2015,
+7,"Jody Tusa",M,57,2009,
+5,"Joe A Delgado",M,60,1985,
+6,"Joe Altomari",M,55,2000,
+5,"Joe Alvarez",M,41,2008,
+5,"Joe Brookman",M,71,1996,
+6,"Joe Castillo",M,48,2016,"1967-12-11 00:00:00"
+6,"Joe D Shockley",M,71,2002,
+6,"Joe Dawson",M,56,2013,
+7,"Joe Eggert",M,58,2004,
+5,"Joe Ferreris",M,47,2010,
+9,"Joe Flores",M,56,2005,
+5,"Joe Francis",M,52,2011,
+6,"Joe Frey",M,57,2012,
+7,"Joe Gary",M,74,1998,
+5,"Joe J Constantino",M,46,2015,
+5,"Joe J Fleming",M,82,1982,
+8,"Joe Lance",M,56,2016,"1959-09-10 00:00:00"
+5,"Joe Leone",M,58,2009,"1957-01-28 00:00:00"
+5,"Joe Martin",M,54,2010,
+5,"Joe Mastriano",M,60,2008,
+5,"Joe P Chambliss",M,68,1982,
+5,"Joe Powers",M,63,2013,"1952-12-03 00:00:00"
+5,"Joe Rothchild",M,54,2015,
+6,"Joe S Oliva",M,72,2009,
+5,"Joe Sung",M,67,2005,
+7,"Joe Synan",M,71,2016,"1944-12-19 00:00:00"
+5,"Joe Terracina",M,47,2016,"1968-05-17 00:00:00"
+5,"Joe Torres",M,65,1993,
+5,"Joe Walker",M,81,1988,
+9,"Joe Webb",M,67,2001,
+6,"Joe Wilkinson",M,58,2010,
+6,"Joel Cervantes",M,38,2015,"1977-02-06 00:00:00"
+5,"Joel Eidbo",M,56,1992,
+6,"Joel Ferguson",M,61,2012,
+5,"Joel Klein",M,53,2014,
+7,"Joel McClurkin",M,45,2016,"1970-12-25 00:00:00"
+5,"Joel Stelling",M,50,2000,
+9,"Joelle Mueller",F,47,2016,"1968-07-23 00:00:00"
+5,"Joerg Breitkopf",M,51,2014,
+8,"John A Hobbs",M,74,1985,
+7,"John A Rodriguez",M,65,1988,
+5,"John Albrecht",M,46,2005,
+5,"John Allen",M,63,2005,
+5,"John Anders",M,61,1996,
+5,"John Anderson",M,61,2008,
+7,"John Armstrong",M,77,1995,
+6,"John Baines",M,53,2001,
+8,"John Baxter",M,57,2008,
+6,"John Bednar",M,64,2014,"1952-01-17 00:00:00"
+5,"John Benson",M,57,2003,
+5,"John Booth",M,62,2005,
+6,"John Braswell",M,50,2005,
+6,"John Brentin",M,62,2015,
+7,"John Brumbaugh",M,65,1986,
+5,"John Burger",M,54,1999,
+6,"John Burns",M,78,1987,
+9,"John Busbee",M,60,2004,
+5,"John Butler",M,51,2008,
+7,"John Caballero",M,61,1995,
+8,"John Camp",M,54,2016,"1961-08-10 00:00:00"
+9,"John Carnicle",M,57,2013,
+5,"John Churchill",M,68,2009,
+5,"John Craft",M,40,2015,"1975-04-09 00:00:00"
+7,"John Crockett",M,52,2008,
+5,"John Cummings",M,68,1991,
+6,"John Curry",M,50,2009,
+5,"John D Lodwick",M,61,1985,
+5,"John Danielson",M,68,1987,
+7,"John Day",M,57,2012,
+9,"John Deshotel",M,53,2000,
+6,"John Dickinson",M,67,2001,
+8,"John Draths",M,57,2011,
+5,"John Duncan",M,67,1999,
+6,"John E Reifsteck",M,62,2002,
+9,"John Eilert",M,89,1991,
+5,"John England",M,49,2014,
+5,"John F Gerfers",M,73,1983,
+6,"John Fehir",M,69,1992,
+6,"John Fermo",M,39,2016,"1976-01-31 00:00:00"
+5,"John Fertitta",M,53,2013,
+7,"John Fleming",M,72,1991,
+5,"John Fletcher",M,41,2015,
+5,"John Flores",M,25,2015,
+6,"John Floyd",M,63,1997,
+5,"John Freeman",M,66,2012,
+5,"John Gilmore",M,33,2015,"1982-04-04 00:00:00"
+5,"John Gonzales",M,51,2015,"1964-03-21 00:00:00"
+5,"John Gonzalez",M,63,2000,
+6,"John H Allen",M,83,1988,
+7,"John H Blevins",M,69,1989,
+5,"John H McCullough",M,67,1988,
+6,"John Hagan",M,62,2015,"1953-10-15 00:00:00"
+5,"John Hanson",M,64,1990,
+5,"John Harris",M,55,2010,
+6,"John Harrison",M,55,2006,
+6,"John Hasle",M,67,2006,
+9,"John Higgins",M,49,2016,"1966-02-22 00:00:00"
+6,"John Hoang",M,34,2016,"1981-09-22 00:00:00"
+6,"John Hofschulte",M,57,2012,
+7,"John Holmes",M,56,2001,
+5,"John Hooker",M,76,1987,
+8,"John Hormann",M,52,2003,
+6,"John Howell",M,54,1997,
+5,"John Hoyt",M,76,1997,
+9,"John Husbands",M,64,2008,
+6,"John Hyak",M,56,2016,"1959-03-14 00:00:00"
+7,"John Jones",M,82,2001,
+7,"John K Dozier",M,79,1988,
+5,"John Kelly",M,68,1998,
+6,"John Kelly",M,63,1993,
+5,"John Kenny",M,73,1997,
+7,"John King",M,68,2001,
+8,"John Koenig",M,60,2005,
+8,"John Large",M,53,1995,
+9,"John Lassig",M,51,2015,
+9,"John Longo",M,76,2001,
+6,"John Loomis",M,64,1998,
+5,"John Loughran",M,62,2014,"1953-11-19 00:00:00"
+6,"John M Condit",M,68,1989,
+8,"John Magsipok",M,30,2016,"1985-12-23 00:00:00"
+7,"John Maloney",M,53,2016,"1963-01-02 00:00:00"
+5,"John Martinez",M,47,1999,
+7,"John May",M,69,1992,
+8,"John McCoy",M,65,1999,
+6,"John McCraw",M,45,2012,
+6,"John McNamara",M,77,1994,
+5,"John Meckert",M,52,2010,
+6,"John Melton",M,33,2009,
+5,"John Miller",M,78,1997,
+5,"John Moyer",M,59,2015,
+5,"John Moyer",M,70,1998,
+5,"John Nabors",M,71,1992,
+6,"John Nagle",M,51,2016,"1964-04-02 00:00:00"
+6,"John Nguyen",M,39,2015,"1976-07-21 00:00:00"
+5,"John Nix",M,69,1998,
+5,"John Norris",M,70,1991,
+5,"John Nowlan",M,54,1996,
+5,"John Odam",M,72,1999,
+6,"John Olson",M,73,1992,
+6,"John Orsborn",M,67,2011,
+9,"John Parry",M,44,2016,"1972-01-17 00:00:00"
+6,"John Paul Garcia",M,46,2016,"1969-12-04 00:00:00"
+9,"John Pettitt",M,53,2016,"1962-11-20 00:00:00"
+5,"John Pickering",M,45,2016,"1970-12-01 00:00:00"
+5,"John Points",M,60,1995,
+6,"John Polisini",M,62,1997,"1953-10-06 00:00:00"
+8,"John Pontikas",M,35,2015,
+8,"John Primacio",M,46,2016,"1969-10-04 00:00:00"
+7,"John R Duncan",M,75,2002,
+5,"John R Shepperd",M,54,2011,
+7,"John Reed",M,54,1999,
+6,"John Rock",M,72,2001,
+7,"John Rogers",M,66,2006,
+5,"John Safos",M,66,2000,
+8,"John Shields",M,63,2010,
+8,"John Slovacek",M,70,1999,
+9,"John Smith",M,51,2015,"1964-01-27 00:00:00"
+5,"John Smith",M,56,2000,
+5,"John Smith",M,64,1997,
+5,"John Sobchak",M,55,2010,
+7,"John Stowers",M,87,2001,
+5,"John Sunkel",M,73,1986,
+6,"John T Demusz",M,78,1989,
+6,"John T Simpson",M,44,2011,
+6,"John Thiem",M,47,2016,"1968-03-22 00:00:00"
+5,"John Thomas",M,76,2001,
+7,"John Thoreen",M,59,2004,
+7,"John Thornton",M,46,2013,
+5,"John Torres",M,43,2016,"1972-02-17 00:00:00"
+7,"John Tsai",M,43,2010,
+6,"John W Cook",M,71,1990,
+8,"John Wagner",M,71,2005,
+5,"John Wall",M,60,2006,
+6,"John Wardell",M,70,2000,
+5,"John Weber",M,61,1999,
+7,"John Wren",M,49,2007,
+8,"John Zuilhof",M,56,2003,
+7,"Johnnie Rose",M,64,2004,
+6,"Johnny Harris",M,54,2007,
+8,"Johnny Salinas",M,60,1992,
+7,"Johnny Vazquez",M,51,2011,
+5,"Jolecelle Okruhlik",F,40,2010,
+6,"Jon Dora",M,73,1993,
+6,"Jon Gjertsen",M,60,2016,"1955-02-24 00:00:00"
+7,"Jon Jacobs",M,69,2004,
+6,"Jon Kerlin",M,57,2008,
+6,"Jon Shaffer",M,60,2013,"1955-04-08 00:00:00"
+9,"Jon Walk",M,49,2015,
+8,"Jonas Referente",M,48,2014,
+5,"Jonatan Sevilla",M,30,2016,"1985-09-02 00:00:00"
+5,"Jonathan Allison",M,31,2016,
+5,"Jonathan Colletti",M,33,2012,
+6,"Jonathan Coz",M,56,2016,"1959-04-09 00:00:00"
+8,"Jonathan Dizon",M,44,2014,
+5,"Jonathan Richardson",M,64,1998,
+5,"Jonathan Timms",M,37,2008,
+5,"Jonathan Zwickel",M,50,2016,"1965-06-14 00:00:00"
+9,"Jorge Alba",M,52,2016,"1963-04-22 00:00:00"
+6,"Jorge Arguelles",M,48,2015,"1967-11-28 00:00:00"
+6,"Jorge Atena",M,36,2016,"1979-02-24 00:00:00"
+6,"Jorge Faisal",M,53,2004,
+6,"Jorge Fast",M,65,1998,
+8,"Jorge Gonzalez",M,58,2014,
+5,"Jorge Gonzalez",M,48,2016,"1967-10-22 00:00:00"
+5,"Jorge Salinas",M,44,2016,"1971-08-27 00:00:00"
+5,"Jorge Torres",M,51,2010,
+5,"Jose A Partida",M,58,2002,
+8,"Jose Acosta",M,39,2016,"1976-12-13 00:00:00"
+5,"Jose Alaniz",M,44,2015,"1971-05-07 00:00:00"
+5,"Jose Arroyo",M,51,2011,
+7,"Jose Barboza",M,42,2015,
+5,"Jose Castellanos",M,51,2010,
+7,"Jose Endara",M,40,2016,"1975-10-11 00:00:00"
+7,"Jose Flores",M,72,1993,
+6,"Jose Gonzales",M,51,2016,"1964-09-05 00:00:00"
+7,"Jose Gonzalez",M,57,2003,
+5,"Jose Grimaldo",M,55,2005,
+7,"Jose Guillen",M,53,2014,
+8,"Jose Guillen-Zarate",M,58,2016,"1957-07-23 00:00:00"
+6,"Jose L Juarez",M,49,2002,
+5,"Jose L Rodriguez",M,38,2015,
+7,"Jose Lara",M,45,2011,
+5,"Jose Longoria",M,60,1987,
+7,"Jose Lopez",M,52,2016,"1963-08-05 00:00:00"
+5,"Jose Luis Martinez",M,64,2012,"1951-09-04 00:00:00"
+5,"Jose Mendo",M,59,1998,
+9,"Jose Mezones",M,49,2016,"1966-05-05 00:00:00"
+5,"Jose Morell",M,51,2008,
+7,"Jose Perez-Arbelo",M,60,2011,
+5,"Jose Ramirez",M,38,2016,"1977-10-20 00:00:00"
+6,"Jose Rodriguez",M,59,2005,
+5,"Jose Rodriguez",M,69,2000,
+5,"Jose Torres",M,51,2005,
+7,"Josef Oszuscik",M,73,2010,
+6,"Josemaria Linardi",M,49,2014,
+7,"Joseph Dinan",M,68,1990,
+6,"Joseph Erwin",M,80,1991,
+5,"Joseph Essoh",M,53,2013,
+5,"Joseph Glass",M,35,2015,
+6,"Joseph Jindra",M,42,2011,
+8,"Joseph Kilianski",M,27,2016,"1988-05-05 00:00:00"
+6,"Joseph Kral",M,67,1996,
+5,"Joseph Liang",M,42,2016,"1973-09-17 00:00:00"
+6,"Joseph Matte",M,61,2012,
+5,"Joseph McGrath",M,54,2005,
+5,"Joseph Murphy",M,43,2007,
+6,"Joseph N Schumacher",M,61,2011,
+6,"Joseph Parigi",M,70,2006,
+6,"Joseph Rigano",M,62,2005,
+5,"Joseph Sepulvado",M,77,1984,
+8,"Joseph Skebe",M,64,2012,
+5,"Joseph Thompson",M,29,2016,"1986-10-01 00:00:00"
+7,"Josh Rayner",M,40,2016,"1975-04-06 00:00:00"
+6,"Josh Rivas",M,45,2014,
+5,"Joshua Rake",M,25,2012,
+7,"Joshua Sternberg",M,37,2014,
+6,"Jovita Lopez Smith",F,57,2010,
+7,"Joyce Burrell",F,54,2000,
+5,"Joyce McConnell",F,86,1992,
+5,"Joyce Rice",F,33,2015,
+7,"Joyce Villarreal",F,61,2016,"1954-07-12 00:00:00"
+7,"Juan Carlos Benitez",M,49,2014,
+9,"Juan Elizondo",M,54,2016,"1961-12-26 00:00:00"
+5,"Juan Flores",M,43,2015,
+5,"Juan Gonzalez",M,70,1995,
+7,"Juan Guerra",M,49,2001,
+6,"Juan Lozano",M,45,2016,"1970-06-19 00:00:00"
+5,"Juan Manuel Garcia",M,41,2014,
+6,"Juan Ochoa",M,47,2016,"1968-12-04 00:00:00"
+7,"Juan Olivares",M,73,2004,
+5,"Juan Rodriguez",M,44,2016,"1971-11-05 00:00:00"
+7,"Juan Rodriguez",M,55,2012,
+5,"Juan Roman",M,48,2004,
+7,"Juan Sanchez",M,42,2012,
+5,"Juan Torres",M,31,2016,"1984-12-19 00:00:00"
+5,"Juancarlos Vielma",M,43,2008,
+6,"Judith J Gordon",F,73,2009,
+7,"Judith Tamayo",F,56,2004,
+5,"Judith Wolf",F,53,2010,
+8,"Judy Loy",F,77,2011,
+5,"Juergen Heidlas",M,58,2014,
+5,"Juergen Mueller",M,64,2013,"1951-09-19 00:00:00"
+5,"Juka Smits",F,48,2016,"1967-01-24 00:00:00"
+5,"Julia Cook",F,61,2003,
+8,"Julian Gomez",M,81,2000,
+5,"Julian Gunther",M,37,2016,"1978-04-12 00:00:00"
+7,"Julian Rodriguez",M,63,2010,
+6,"Julie Bain",F,58,2012,
+5,"Julie Campbell",F,57,2009,"1958-04-12 00:00:00"
+5,"Julie Edwards",F,58,2006,
+5,"Julie Hankins",F,59,2016,"1956-12-03 00:00:00"
+7,"Julie Hejducek",F,55,2009,
+7,"Julie Holmes",F,48,2007,
+5,"Julie Jackson",F,67,1996,
+6,"Julie L Edmonds",F,45,2002,
+5,"Julie McAllister",F,58,2016,"1957-04-14 00:00:00"
+5,"Julie Sapp",F,48,1999,
+6,"Julie Sapp",F,48,2001,
+6,"Julie Stevenson",F,52,2016,"1963-05-21 00:00:00"
+6,"Julie Ward",F,60,2011,
+6,"Julio Flores",M,54,1997,
+6,"Julio Pearson",M,66,2001,
+6,"Julio Rodriguez",M,63,2006,
+5,"Julio Salazar",M,50,2015,
+6,"Junji Iwahara",M,45,2013,"1970-09-30 00:00:00"
+6,"Justin Breitigam",M,39,2010,
+5,"Justin Estrada",M,40,2014,
+5,"Justin Foskett",M,39,2016,"1976-06-15 00:00:00"
+5,"Justin Johns",M,33,2016,"1982-11-18 00:00:00"
+8,"Justin Joyce",M,60,2011,
+9,"Justin Sternberg",M,40,2016,"1975-08-21 00:00:00"
+9,"Justin Wood",M,45,2016,"1970-02-02 00:00:00"
+8,"Kamal Emami",M,60,1998,
+8,"Kami Ranney",F,41,2015,
+5,"Kamiar Kouzekanani",M,59,2005,
+6,"Kamini Muzumdar",F,50,2016,"1965-11-13 00:00:00"
+7,"Kanae Ishihara",F,54,2016,"1962-01-04 00:00:00"
+5,"Kanishka Desilva",M,51,2016,"1964-05-02 00:00:00"
+6,"Kaoru Kiguchi",M,66,2004,
+5,"Karen Bowman",F,54,2009,
+8,"Karen Elkind-Hirsch",F,61,2000,
+6,"Karen Gilligan",F,52,2008,
+5,"Karen Jaramillo",F,52,2015,"1963-07-02 00:00:00"
+5,"Karen L Neild",F,59,2002,
+5,"Karen May",F,47,2008,
+7,"Karen McKeehan",F,58,2016,"1957-02-13 00:00:00"
+6,"Karen Mooney",F,44,2013,"1971-02-11 00:00:00"
+7,"Karen Northcutt",F,53,2009,
+5,"Karen Sage",F,60,2014,
+9,"Karen Smith",F,53,2007,
+7,"Karen Ting",F,40,2016,"1975-09-13 00:00:00"
+5,"Karen Ward",F,55,2011,
+7,"Karen Williams",F,51,2016,
+6,"Karie Green",F,39,2012,
+5,"Karin Capriotti",F,44,2016,"1971-09-03 00:00:00"
+5,"Karl Bruchhaus",M,50,2009,
+5,"Karl Guthrie",M,42,2016,"1973-07-02 00:00:00"
+7,"Karl Klicker",M,60,2008,
+8,"Karly Simmons",F,34,2016,"1981-10-20 00:00:00"
+9,"Karuthethil Sekharan",M,78,2003,
+5,"Katherine Barnett",F,47,2003,
+6,"Katherine Cunningham",F,60,2015,"1956-01-07 00:00:00"
+7,"Kathi Heinze",F,58,2003,
+5,"Kathleen Cooper",F,31,2013,
+8,"Kathleen Crowley",F,36,2016,"1979-09-11 00:00:00"
+5,"Kathleen Grant",F,48,2010,
+6,"Kathleen Liebert",F,58,1997,
+5,"Kathleen Nguyen",F,49,2015,
+5,"Kathleen Rossi",F,60,2001,
+5,"Kathleen Scharchburg",F,56,2014,"1959-10-07 00:00:00"
+6,"Kathleen Spell",F,58,2011,"1957-09-18 00:00:00"
+7,"Kathleen Thomas",F,39,2011,
+6,"Kathleen Woodhead",F,34,2013,
+6,"Kathryn Matthews",F,39,2014,"1976-03-24 00:00:00"
+7,"Kathy A Misiti",F,58,2002,
+7,"Kathy Cooper",F,56,2009,
+6,"Kathy Craft",F,62,1994,
+5,"Kathy F Archer",F,63,2002,
+6,"Kathy Halligan",F,46,2016,"1969-11-22 00:00:00"
+5,"Kathy Malone",F,59,2011,
+8,"Kathy Molitor",F,61,1991,
+8,"Kathy Stoehr",F,57,2012,
+5,"Katie Deshotels",F,50,2010,
+5,"Katie Lords",F,31,2016,"1984-08-19 00:00:00"
+6,"Katrina Feig",F,50,2011,
+8,"Kay Duplichan",F,79,1994,
+8,"Kay Homer",F,64,1992,
+5,"Kay Stewart",F,54,2014,
+7,"Kaye Parisi",F,62,1994,
+5,"Kaylie Stroud",F,32,2012,
+9,"Kazuhiro Oka",M,62,2016,"1953-08-29 00:00:00"
+6,"Keith Avery",M,42,2011,
+7,"Keith Baker",M,60,2000,
+5,"Keith Crow",M,52,2014,"1963-12-04 00:00:00"
+6,"Keith Dubanevich",M,58,1997,
+6,"Keith Gibbons",M,45,2015,
+5,"Keith Hagler",M,39,2009,
+7,"Keith McLean",M,42,2016,"1973-03-13 00:00:00"
+8,"Keith Murray",M,69,1993,
+5,"Keith P Marlow",M,59,2002,
+5,"Keith Panzer",M,56,2010,
+6,"Keith Willhelm",M,61,2014,
+6,"Kelle Pido",F,50,2011,
+5,"Kellee Heffner",F,52,2010,
+5,"Kelley Harwerth",F,38,2015,
+5,"Kelley Kerlick",F,49,2015,"1966-09-23 00:00:00"
+5,"Kellie Moeller",F,54,2016,"1961-01-27 00:00:00"
+5,"Kelly Allen",F,35,2011,
+5,"Kelly Carmichael",M,53,2016,"1962-08-03 00:00:00"
+5,"Kelly E Garban",M,53,2002,
+5,"Kelly Gibson",F,55,2011,
+8,"Kelly Hooper",F,26,2014,
+5,"Kelly Kippes",F,51,2013,
+5,"Kelly Litwinenko",F,37,2016,"1978-04-03 00:00:00"
+9,"Kelly Lout",F,49,2016,"1966-07-30 00:00:00"
+5,"Kelly Talkington",M,59,2016,"1956-11-03 00:00:00"
+7,"Kelly Word",F,39,2014,"1976-11-04 00:00:00"
+9,"Ken Angles",M,67,2003,
+7,"Ken Jones",M,58,2014,"1957-08-26 00:00:00"
+8,"Ken Kaufman",M,58,2012,
+6,"Ken Nehmzow",M,65,2010,
+6,"Ken Nelson",M,52,2003,
+6,"Ken Odom",M,41,2008,
+6,"Ken Raycroft",M,50,2016,"1965-06-10 00:00:00"
+7,"Ken Snodgrass",M,58,2003,
+5,"Ken Startz",M,59,2011,
+8,"Ken Walker",M,58,2012,
+6,"Ken Wine",M,74,2001,
+5,"Kendall Fogle",M,42,2015,
+5,"Kenneth Alwon",M,66,2010,
+9,"Kenneth Hodges",M,74,2011,
+6,"Kenneth Hudson",M,58,1998,
+6,"Kenneth Huff",M,55,1997,
+6,"Kenneth Kollister",M,61,2016,"1954-09-11 00:00:00"
+6,"Kenneth L Durrett",M,91,1983,
+7,"Kenneth Murray",M,69,1991,
+5,"Kenneth Ottenba Ottenbacher",M,65,2009,
+5,"Kenneth Page",M,57,2016,
+5,"Kenneth R Parker",M,64,2002,
+9,"Kenneth R Tilton",M,71,1990,
+7,"Kenneth Stein",M,32,2016,"1983-08-24 00:00:00"
+6,"Kenny Guidry",M,47,2013,
+7,"Kenny Nalepa",M,53,2016,"1962-07-04 00:00:00"
+6,"Kenny Phan",M,40,2016,"1975-11-14 00:00:00"
+6,"Kenny R Obrien",M,63,2009,
+7,"Kent Black",M,44,2001,
+5,"Kent Fish",M,62,2006,
+5,"Kent Lamb",M,60,2004,
+7,"Kent Muhlbauer",M,56,2010,
+5,"Kent Shriver",M,52,2007,
+5,"Kent Snow",M,58,2014,
+6,"Kerry Lee",M,41,2016,"1974-10-23 00:00:00"
+8,"Kerry R Kunz",M,55,2009,
+9,"Kerry Ridgway",M,66,2007,
+5,"Keshil Waterland",F,50,2014,
+5,"Keva Green",F,59,2003,
+5,"Kevin Andrews",M,41,2013,
+5,"Kevin Brady",M,50,2008,
+7,"Kevin Campbell",M,61,2012,
+9,"Kevin Copeland",M,43,2016,"1972-05-15 00:00:00"
+7,"Kevin Corbett",M,65,2015,"1950-12-01 00:00:00"
+6,"Kevin Ford",M,61,1986,
+7,"Kevin Garey",M,44,2016,"1971-02-11 00:00:00"
+5,"Kevin Goodwin",M,41,2012,
+6,"Kevin Hayes",M,46,2016,"1969-04-29 00:00:00"
+6,"Kevin Hudson",M,53,2016,"1962-09-08 00:00:00"
+6,"Kevin J Pilet",M,53,2002,
+5,"Kevin Jewell",M,48,2016,"1967-10-04 00:00:00"
+7,"Kevin Keeling",M,44,2016,"1971-07-19 00:00:00"
+7,"Kevin Kelleher",M,64,1986,
+9,"Kevin Kline",M,46,2016,"1969-11-24 00:00:00"
+6,"Kevin Kress",M,61,2001,
+5,"Kevin Labban",M,44,2016,"1971-04-27 00:00:00"
+5,"Kevin Landry",M,52,2004,
+7,"Kevin Lavery",M,45,2011,
+5,"Kevin Loughnane",M,59,2016,"1956-09-26 00:00:00"
+6,"Kevin Newman",M,52,2005,
+5,"Kevin Roach",M,37,2015,
+6,"Kevin Rosenberg",M,54,2016,"1961-06-18 00:00:00"
+6,"Kevin Smith",M,56,2015,"1959-05-26 00:00:00"
+6,"Kevin Smith",M,50,2015,"1965-11-10 00:00:00"
+6,"Kevin Torres",M,53,2014,
+8,"Kevin Walker",M,58,2012,
+5,"Khalid Farid",M,71,1986,
+8,"Khoi Nguyen",M,41,2016,"1974-03-26 00:00:00"
+6,"Khuong Tran",M,38,2016,"1977-07-17 00:00:00"
+5,"Kid A Rocky",M,78,2002,
+5,"Kiet Hoang",M,42,2011,
+8,"Kiet Huynh",M,36,2016,"1979-03-24 00:00:00"
+9,"Kim Chapman",F,45,2016,"1970-12-05 00:00:00"
+5,"Kim Darden",M,60,2013,
+6,"Kim Easton",F,41,2016,"1974-11-29 00:00:00"
+6,"Kim Gray",F,41,2013,
+7,"Kim K Stubbe",F,58,2002,
+6,"Kim Knapp",F,44,2016,"1971-02-11 00:00:00"
+8,"Kim Leblanc",M,62,1996,
+8,"Kim Rich",F,44,2016,"1971-02-02 00:00:00"
+5,"Kim Rose",F,46,2007,
+5,"Kim Scheffler",F,44,2015,"1971-12-28 00:00:00"
+5,"Kim Stanek",F,54,2008,
+5,"Kim Swift",M,45,2015,
+5,"Kim Tran",F,49,2014,
+7,"Kimberley Sergeant",F,57,2000,
+5,"Kimberly Gerrard",F,42,2014,
+6,"Kimberly Krueger",F,57,2001,
+5,"Kimberly Litman",F,36,2015,
+6,"Kimberly Snedden",F,48,2007,
+5,"Kinsley Yates",F,33,2013,
+5,"Kiran Winfield",F,48,2000,
+5,"Kirby Collins",M,57,2001,
+5,"Kirk K Gentle",M,59,1989,
+9,"Kirk Mahoney",M,58,2016,"1957-09-23 00:00:00"
+5,"Kitty Anding",F,74,1998,
+6,"Knox White",M,78,1999,
+5,"Koichiro Nakanishi",M,51,2014,
+5,"Koji Fujita",M,49,2016,"1966-12-26 00:00:00"
+5,"Kollen West",M,41,2007,
+5,"Kosuke Takehara",M,48,2015,
+8,"Kotesh Rao",M,55,2016,"1960-12-12 00:00:00"
+5,"Krisann Kent",F,51,2016,"1964-03-12 00:00:00"
+8,"Kristen Karlin",F,31,2016,"1984-05-09 00:00:00"
+5,"Kristen Olson",F,41,2015,"1974-02-24 00:00:00"
+6,"Kristi Odom",F,36,2016,"1979-08-13 00:00:00"
+6,"Kristian Nielsen",M,29,2016,"1986-03-22 00:00:00"
+6,"Kristie Wagoner",F,38,2015,
+6,"Kristin Bottorff",F,41,2013,
+5,"Kristin Jay",F,46,2005,
+9,"Kristin Pham",F,31,2016,"1984-05-17 00:00:00"
+6,"Kristin Vigeant",F,46,2007,
+6,"Kristina Arnold",F,41,2014,"1974-01-27 00:00:00"
+5,"Kristina Cochran",F,51,2013,
+8,"Kristine Braddock",F,44,2016,"1971-12-16 00:00:00"
+5,"Kristy Krus",F,35,2012,
+5,"Kurt Chambers",M,34,2003,
+5,"Kurt Gilchrist",M,55,1997,
+6,"Kurt Zecchin",M,65,2005,
+7,"Kwong-Kwok Wong",M,55,2016,"1960-11-13 00:00:00"
+6,"Kyle Evans",M,34,2015,
+5,"Kyle Hensley",M,51,2009,
+5,"Kyle Lewis",M,32,2016,"1983-04-27 00:00:00"
+5,"Lacy Cavanaugh",F,36,2012,
+6,"Lance Anderson",M,51,2016,"1964-09-21 00:00:00"
+6,"Lance Winchester",M,69,1991,
+7,"Lane Johnson",M,68,2002,
+6,"Lanette Varnadoe",F,48,2011,
+6,"Lannis Morris",M,61,2004,
+6,"Lara Allen",F,47,2016,"1973-06-27 00:00:00"
+5,"Lara Flatau",F,32,2016,"1983-06-24 00:00:00"
+6,"Larry B Bell",M,56,2009,
+5,"Larry Branagin",M,70,2003,
+9,"Larry Buzo",M,58,2016,"1957-08-29 00:00:00"
+5,"Larry Byrd",M,74,1998,
+8,"Larry Caudillo",M,41,2015,"1974-08-30 00:00:00"
+5,"Larry Chambless",M,66,2005,
+8,"Larry Cormier",M,65,1997,
+7,"Larry Ellis",M,66,1996,
+7,"Larry Gilmore",M,58,2001,
+7,"Larry Gray",M,59,2014,
+7,"Larry Hartliep",M,57,1996,
+8,"Larry Leewright",M,68,2012,
+9,"Larry Livingston",M,65,2012,
+8,"Larry McClain",M,66,2013,"1949-11-25 00:00:00"
+5,"Larry Owens",M,71,2000,
+5,"Larry Pink",M,35,2016,"1980-05-10 00:00:00"
+6,"Larry Priddy",M,69,1994,
+6,"Larry Qualls",M,70,2011,
+5,"Larry Richmond",M,60,2010,
+7,"Larry S Teague",M,54,2002,
+5,"Larry Scott",M,58,2009,
+5,"Larry Skelton",M,68,1994,
+6,"Larry Strykowski",M,54,2012,"1961-04-14 00:00:00"
+9,"Larry Tharp",M,54,2000,
+5,"Larry Thompson",M,75,2006,
+7,"Larry W Nettles",M,59,1984,
+6,"Larry Wagner",M,70,1999,
+9,"Lars Larsson",M,50,2016,"1965-04-05 00:00:00"
+5,"Laura Barbieri",F,36,2010,
+5,"Laura Bennett",F,48,2016,"1967-12-12 00:00:00"
+5,"Laura Bradley",F,58,2005,
+5,"Laura Cornelius",F,61,1997,
+6,"Laura Folk",F,54,2013,"1961-06-07 00:00:00"
+7,"Laura Jahnke-Black",F,39,2010,
+5,"Laura Nunez",F,43,2016,"1972-12-31 00:00:00"
+6,"Laura Rachita",F,45,2011,"1970-11-02 00:00:00"
+9,"Laura Rooney",F,53,2015,"1963-01-06 00:00:00"
+6,"Laura Sachtleben",F,36,2016,"1979-02-02 00:00:00"
+6,"Laura Thompson",F,45,2011,
+9,"Laura Thorson",F,55,2006,
+5,"Laural A Cabrera",F,63,2014,
+5,"Lauren Cavazos",F,33,2016,"1982-11-02 00:00:00"
+5,"Lauren Masraff",F,46,2016,"1969-12-10 00:00:00"
+6,"Laurie Aaron",F,54,2009,
+7,"Laurie Lonergan",F,63,2004,
+5,"Lauro Porto",M,36,2016,"1979-12-11 00:00:00"
+5,"Lawrence Comparin",M,61,1992,
+7,"Lawrence G Root",M,66,1990,
+6,"Lawrence Hutchinson",M,60,1997,
+5,"Lawrence T Jones",M,64,1985,
+6,"Lee Ethetton",M,66,1993,
+6,"Lee Joiner",M,51,2008,
+9,"Lee Neathery",F,52,2015,
+5,"Lee Smith",M,53,2007,
+7,"Lee Stevens",M,66,2016,"1949-07-18 00:00:00"
+7,"Lee Whitley",F,39,2015,
+5,"Lee Whitlock",M,45,2003,
+6,"Leigh Ann Sedam",F,48,2014,"1967-07-25 00:00:00"
+6,"Leigh Korfhage",F,39,2016,"1976-07-12 00:00:00"
+5,"Leland Joe",M,52,1999,
+5,"Len Dawson",M,65,2009,
+6,"Leno Rios",M,45,2013,
+5,"Leo Hernandez",M,45,2015,
+7,"Leodan Amaya",M,42,2008,
+6,"Leona Devine",F,73,2013,
+5,"Leonard De La Garza",M,58,1993,
+5,"Leonard Gerlowski",M,58,1992,
+6,"Leonard J Coleman",M,69,1989,
+9,"Leonard Mallett",M,59,2013,
+7,"Leonard Stern",M,91,1985,
+8,"Leonardo Casanova",M,57,2016,"1958-11-06 00:00:00"
+5,"Leonce Thierry",M,51,1998,
+7,"Leroy Jenkins",M,49,2006,
+6,"Les Cave",M,61,2000,
+9,"Les Worsham",M,53,2014,
+5,"Lesa Brownstein",F,64,2004,
+8,"Lesley Dixon",F,48,2012,
+7,"Leslie Mintz",F,48,2016,"1967-04-08 00:00:00"
+5,"Leslie Roop",F,54,2015,
+6,"Letty Fischler",F,47,2016,"1968-07-09 00:00:00"
+5,"Levi Norman",M,46,2009,
+7,"Liam R Malanaphy",M,49,2016,"1966-09-02 00:00:00"
+5,"Liane Latham",F,52,2016,"1963-09-17 00:00:00"
+5,"Libby Marks",F,80,1987,
+6,"Liesl Schindler",F,49,2011,
+8,"Lily Trevino",F,42,2015,
+6,"Lincoln Goodwin",M,43,2009,
+7,"Linda Bankerd",F,53,2016,"1962-11-14 00:00:00"
+5,"Linda Cheek",F,65,1997,
+5,"Linda Deitz",F,48,2013,"1967-10-06 00:00:00"
+5,"Linda Dillard-Brown",F,55,1999,
+8,"Linda Musil",F,64,2001,
+6,"Linda Plomer",F,56,2013,"1959-05-20 00:00:00"
+7,"Linda Quint",F,68,1994,
+6,"Linda Ross",F,62,1997,
+6,"Linda Winston",F,67,2004,
+9,"Lindsay Marsh",F,39,2016,"1976-05-07 00:00:00"
+7,"Lindsay Phenix",F,25,2016,"1990-12-18 00:00:00"
+7,"Lindsay Tade",M,65,2016,"1950-10-28 00:00:00"
+5,"Lindsey Cunningham",F,33,2016,"1982-11-07 00:00:00"
+6,"Lindsey Turney",F,36,2015,"1979-09-06 00:00:00"
+6,"Lindy Graves",F,35,2016,"1981-01-16 00:00:00"
+6,"Linley Palmer",F,37,2014,"1978-07-08 00:00:00"
+5,"Linus P Murray",M,85,1984,
+6,"Lion Caldwell",M,64,1986,
+5,"Lisa A Martin",F,56,1989,
+7,"Lisa Andrus",F,54,2012,
+6,"Lisa Brenskelle",F,50,2016,"1965-07-17 00:00:00"
+6,"Lisa Brollier",F,51,2000,
+6,"Lisa Dangelo",F,56,1999,
+6,"Lisa Dozier",F,51,2007,
+8,"Lisa Foronda",F,46,2014,"1969-11-12 00:00:00"
+6,"Lisa Gonzales",F,44,2015,
+9,"Lisa Greene",F,51,2009,
+9,"Lisa Hollier",F,50,2016,"1965-09-23 00:00:00"
+5,"Lisa Jones",F,56,2003,
+6,"Lisa McNally",F,49,2013,"1966-03-04 00:00:00"
+7,"Lisa Nickerson",F,45,2014,
+5,"Lisa Ozsdolay",F,54,2013,"1962-01-07 00:00:00"
+9,"Lisa Ryan",F,58,2001,
+5,"Lisa Sanchez",F,40,2016,"1975-09-11 00:00:00"
+6,"Lisa Thompson",F,48,2016,"1967-11-30 00:00:00"
+8,"Lisa Waskom",F,41,2012,
+5,"Lisa Watts",F,47,1999,
+8,"Lisa Yarrow",F,49,2015,"1966-12-25 00:00:00"
+6,"Lisha Czerwinski",F,51,2008,"1964-10-19 00:00:00"
+5,"Liz Griffin",F,57,1995,
+6,"Liza Criswell",F,44,2016,"1971-04-13 00:00:00"
+5,"Lloyd Burnett",M,67,2004,
+8,"Lloyd G Posey",M,69,1988,
+5,"Lloyd H Hetrick",M,59,1988,
+8,"Lloyd Kirchner",M,52,2015,"1963-09-17 00:00:00"
+5,"Lloyd Marshman",M,69,2014,
+7,"Lloyd Miller",M,68,2001,
+9,"Lloyd Stines",M,67,2009,
+8,"Lohit Datta-Barua",M,67,2013,
+7,"Loise Taylor",M,57,2012,
+7,"Lonnie Burgett",M,40,2016,"1975-06-17 00:00:00"
+6,"Lonnie Kennedy",M,59,2011,
+6,"Loraine Hillard",F,56,2003,
+5,"Loren Allardyce",F,40,2009,
+5,"Loren J Shriver",M,71,1984,
+5,"Loren Neufeld",M,66,2012,
+9,"Lorenza Williams",M,59,1994,
+7,"Lorenzo Macias",M,37,2013,
+5,"Lori David",F,43,2009,
+5,"Lori Domel",F,58,2013,"1957-01-26 00:00:00"
+9,"Lorna Mangus",F,59,2012,
+6,"Lorrie Ellis",F,67,2006,
+7,"Louis B Rios",M,76,1988,
+7,"Louis F Aulbach",M,67,1983,
+5,"Louis H Gassmann",M,58,1990,
+6,"Louis Hernandez",M,58,2012,
+9,"Louis Rodriguez",M,65,1995,
+5,"Louis Snyder",M,76,2001,
+7,"Louisa Tufty",F,65,2011,
+5,"Lourdes Bozarth",F,39,2016,"1976-08-09 00:00:00"
+8,"Lourdes Hallett",F,56,2016,"1959-02-11 00:00:00"
+6,"Lowell Mutchelknaus",M,73,1998,
+5,"Lowell S Miller",M,94,1981,
+9,"Luci Siminic",F,60,2015,"1955-02-09 00:00:00"
+5,"Lucy Forbes",F,44,2011,
+7,"Luis Carrasco",M,43,2016,"1972-07-24 00:00:00"
+6,"Luis Guevara",M,58,2002,
+6,"Luis Jimenez",M,57,1993,
+7,"Luis Martos",M,53,2016,"1962-12-10 00:00:00"
+5,"Luis Paz",M,42,2015,
+5,"Luis Proa",M,55,2011,
+9,"Luis Rodriguez",M,67,2016,"1948-08-28 00:00:00"
+6,"Luis Rodriguez",M,50,2011,
+5,"Luis T Mendoza",M,58,1989,
+7,"Lulu Monks",F,57,2015,"1958-03-24 00:00:00"
+6,"Lupe Mireles",F,54,2015,"1961-03-30 00:00:00"
+9,"Luther Harrell",M,65,2014,
+5,"Ly Nguyen",F,36,2016,"1979-07-20 00:00:00"
+5,"Lynda Churchfield",F,65,2000,
+6,"Lynda Kelley",F,71,2008,
+7,"Lynell Addis",F,50,2013,
+7,"Lynlee Linke",F,46,2016,"1969-12-10 00:00:00"
+5,"Lynn Babec",F,56,2008,
+6,"Lynn Malloy",F,55,2016,"1960-07-04 00:00:00"
+6,"Maaike Saenz",F,49,2016,"1966-12-12 00:00:00"
+6,"Mack Blankenship",M,48,2015,
+5,"Mack Miller",M,47,2009,
+6,"Madhusudhan Munirathnam",M,47,2016,"1968-06-30 00:00:00"
+8,"Magda Davila",F,49,2012,
+5,"Maggie Brown",F,60,2010,
+5,"Maggie Lentz",F,37,2016,"1978-12-30 00:00:00"
+6,"Mahmoud Latif",M,46,2013,
+8,"Maile Israelson",F,44,2016,
+6,"Majid Salamah",M,52,2013,
+6,"Malcolm Jacobson",M,53,2013,
+9,"Mamie Foster",F,43,2016,"1972-04-11 00:00:00"
+6,"Mandy Bentley",F,38,2013,
+8,"Mandy Goodson",F,33,2014,
+5,"Mandy Hall",F,38,2016,"1977-08-19 00:00:00"
+6,"Manizeh Mirza-Gruber",F,53,2016,"1962-11-11 00:00:00"
+5,"Manny Lopes",M,72,2005,
+6,"Manny Valle",M,59,2008,
+6,"Manolo Valle",M,79,2000,
+7,"Manuel Gamboa",M,67,1999,
+6,"Manuel J Cortez",M,81,1985,
+5,"Manuel Neira",M,25,2016,"1990-02-13 00:00:00"
+7,"Manuel Rocha",M,47,2015,"1968-09-03 00:00:00"
+7,"Marc Dungler",M,49,2016,"1966-05-05 00:00:00"
+5,"Marc Hill",M,72,1991,
+5,"Marc Laviage",M,55,2003,
+6,"Marc Nira",M,41,2009,
+7,"Marc Orduna",M,37,2016,"1978-03-06 00:00:00"
+7,"Marcey Futris",F,51,2016,"1964-03-19 00:00:00"
+6,"Marcey Loader",F,60,1996,
+8,"Marcia Brittain",F,37,2016,"1978-09-25 00:00:00"
+6,"Marcia Holmes",F,54,2007,
+5,"Marco Bagnarello",M,59,1995,
+6,"Marcus Grunewald",M,57,2000,
+5,"Marcus J Baraks",M,57,1990,
+5,"Marcy Baez",F,48,2011,
+6,"Margaret Bancroft",F,48,2015,
+8,"Margaret Ferrara",F,70,1989,
+6,"Margaret Fort",F,59,2010,
+5,"Margaret Pace",F,43,2013,
+5,"Margaret Taylor",F,50,2014,"1965-04-20 00:00:00"
+5,"Margaret Trujillo",F,53,2002,
+5,"Margaret Vanegmond",F,49,2007,
+9,"Margarito Moreno",M,65,1996,
+6,"Marge A Trenckmann",F,85,1990,
+6,"Margie Hughes",F,62,1996,
+5,"Margie Mynhier",F,44,2014,"1971-05-09 00:00:00"
+9,"Mari Bailey",F,53,2012,
+6,"Mari Carrasco",F,45,2010,
+6,"Maria Buitrago",F,47,2010,
+5,"Maria De Los A Perez",F,50,2015,
+6,"Maria Enrica Cruz",F,46,2015,
+5,"Maria L Rodriguez",F,51,2008,
+8,"Maria Lambert",F,52,2011,
+5,"Maria Lea De Jesus",F,49,2013,
+5,"Maria Marlowe",F,60,2016,"1955-07-11 00:00:00"
+8,"Maria McCanna",F,57,2011,
+8,"Maria Peden",F,51,2014,
+6,"Maria Rivas",F,52,2015,"1963-06-25 00:00:00"
+6,"Maria Rush",F,67,2007,"1949-01-01 00:00:00"
+7,"Marian Hargis",F,48,2016,"1967-10-14 00:00:00"
+6,"Mariano Salazar",M,62,2005,
+5,"Maribel Luft",F,44,2016,"1971-07-02 00:00:00"
+8,"Marie Hardin",F,49,2016,"1966-04-14 00:00:00"
+8,"Marie Kowal",F,54,2003,
+6,"Marigold Banes",F,37,2011,"1979-01-15 00:00:00"
+6,"Marilu Rudolph",F,31,2016,"1984-04-03 00:00:00"
+6,"Marilyn Bullard",F,69,2000,
+7,"Marilyn Potter",F,45,2015,
+6,"Marilyn Ward",F,57,1993,
+5,"Marina Ballantyne",F,63,1995,
+6,"Marina Carroll",F,44,2015,
+8,"Mario Fantini",M,51,2016,"1964-04-14 00:00:00"
+7,"Mario Hernandez",M,67,1999,
+7,"Mario Inguanzo",M,43,2016,"1972-08-10 00:00:00"
+8,"Mario Macia",M,47,2014,
+6,"Mario Madrid",M,44,2010,
+5,"Mario Melgar",M,53,2015,"1963-01-16 00:00:00"
+5,"Mario Menendez",M,40,2016,"1975-07-22 00:00:00"
+5,"Mario Perez",M,51,2015,
+6,"Mario Rios",M,52,2011,
+8,"Mario Silva",M,62,2016,"1953-04-22 00:00:00"
+7,"Mario Torres",M,86,2006,
+6,"Marisa Morgan",F,35,2012,
+8,"Marissa Moreno",F,40,2016,"1975-10-05 00:00:00"
+7,"Maritza Crouse",F,66,2000,
+6,"Mark Adleman",M,65,2001,
+9,"Mark Anderson",M,63,2007,
+7,"Mark Balhoff",M,28,2013,
+5,"Mark Barrilleaux",M,60,2003,
+9,"Mark Brown",M,60,2016,"1955-06-18 00:00:00"
+5,"Mark Burgess",M,61,2011,
+8,"Mark Burnside",M,56,2010,
+5,"Mark Carothers",M,48,2005,
+5,"Mark Cash",M,55,2003,
+5,"Mark Chaudoir",M,51,1998,
+5,"Mark Davis",M,61,2006,
+6,"Mark Dibella",M,39,2016,"1976-08-04 00:00:00"
+6,"Mark Dickens",M,63,2013,
+5,"Mark Dolph",M,57,1996,
+5,"Mark Dronka",M,40,2015,
+9,"Mark Fredette",M,63,1997,
+9,"Mark Froneberger",M,57,2014,
+7,"Mark Gerules",M,51,2016,"1965-01-01 00:00:00"
+7,"Mark Gonzales",M,51,2013,
+5,"Mark Harris",M,35,2016,"1980-09-17 00:00:00"
+6,"Mark Hausknecht",M,62,1999,
+5,"Mark Herbert",M,52,1998,
+5,"Mark Herzfeld",M,47,2014,
+5,"Mark Hommel",M,67,2002,
+6,"Mark Ian Smithard",M,52,2016,"1963-03-15 00:00:00"
+6,"Mark J Gottesman",M,60,1990,
+5,"Mark J Tempest",M,66,1989,
+5,"Mark Jensen",M,60,1991,
+5,"Mark Kirincic",M,54,2016,"1961-02-15 00:00:00"
+5,"Mark Kline",M,58,2004,
+5,"Mark Knox",M,60,2009,
+5,"Mark Leonard",M,59,1998,
+6,"Mark Medwedeff",M,53,2005,
+8,"Mark Miertschin",M,56,2012,"1959-07-26 00:00:00"
+9,"Mark Miller",M,57,2007,
+9,"Mark Morua",M,39,2012,
+6,"Mark Nelson",M,58,1999,
+6,"Mark Oconnell",M,64,1997,
+6,"Mark Oreta",M,34,2016,"1981-04-28 00:00:00"
+5,"Mark Oster",M,52,1993,
+5,"Mark Paukune",M,51,1999,
+6,"Mark Peterson",M,48,2016,"1967-02-01 00:00:00"
+9,"Mark Phillips",M,45,2016,"1970-07-06 00:00:00"
+6,"Mark Provenzano",M,59,2014,
+5,"Mark Quakenbush",M,53,1995,
+5,"Mark Ramos",M,44,2016,"1971-02-11 00:00:00"
+5,"Mark Riley",M,64,2006,
+5,"Mark Risacher",M,56,2012,
+8,"Mark Roseland",M,59,2015,"1956-12-18 00:00:00"
+8,"Mark Russell",M,55,2011,
+5,"Mark S Penick",M,59,1983,
+6,"Mark Sakowski",M,55,2001,
+7,"Mark Salinas",M,54,2016,"1961-08-20 00:00:00"
+5,"Mark Schultze",M,55,2012,
+5,"Mark Seaburg",M,56,2010,
+6,"Mark Smith",M,68,1999,
+9,"Mark Sobus",M,48,2016,"1967-11-05 00:00:00"
+7,"Mark Spruce",M,51,2016,"1964-05-18 00:00:00"
+7,"Mark Staudt",M,38,2016,"1977-06-16 00:00:00"
+5,"Mark Stein",M,35,2016,"1980-05-27 00:00:00"
+7,"Mark Stone",M,45,2014,
+7,"Mark Stubbe",M,59,2005,
+7,"Mark Tatam",M,52,2016,"1963-01-29 00:00:00"
+6,"Mark Theobald",M,60,2010,
+6,"Mark Thomas",M,55,2003,
+7,"Mark Ulrich",M,57,2015,"1958-04-28 00:00:00"
+5,"Mark Vasquez",M,51,1996,
+5,"Mark Ward",M,55,2004,
+5,"Marlene Cornelius",F,46,2012,"1969-09-13 00:00:00"
+5,"Marlene Perry",F,49,2012,
+5,"Marlene Vasquez",F,26,2016,"1989-06-14 00:00:00"
+5,"Marnie Staehly",F,38,2015,
+6,"Marsha Johnson",F,58,1981,
+5,"Marsha Reddmann",F,64,2003,
+8,"Marshall Harrell",M,44,2015,
+5,"Marshall Moon",M,54,1992,
+5,"Marshall Nathan",M,71,2004,
+5,"Marta Villarreal",F,47,1999,
+7,"Martha Bute",F,60,2003,
+8,"Martha Saravia",F,56,2013,
+5,"Marthe Anderson",F,45,2016,"1970-07-05 00:00:00"
+7,"Martin Bontz",M,55,2016,"1960-04-07 00:00:00"
+8,"Martin Enriquez",M,54,2006,
+6,"Martin Gremm",M,46,2012,
+6,"Martin Houg",M,78,2001,
+7,"Martin Sandoval",M,48,2010,
+6,"Marty Deason",M,50,2016,"1965-12-18 00:00:00"
+9,"Marty Yost",M,55,2016,"1960-11-16 00:00:00"
+5,"Marv Reith",M,60,2014,
+5,"Marvin Davis",M,49,1999,
+5,"Marvin Odum",M,57,1999,
+5,"Marvin R Johnson",M,65,1985,
+7,"Mary Anne Burgher",F,54,2011,
+5,"Mary Berta",F,50,2016,"1965-08-01 00:00:00"
+5,"Mary Craig",F,73,1995,
+7,"Mary Cullen",F,77,1994,
+5,"Mary Guide",F,57,2014,
+7,"Mary Jones",F,53,2014,"1962-12-08 00:00:00"
+6,"Mary Keadle",F,56,2004,
+5,"Mary Lee House",F,53,2005,
+7,"Mary Mettenbrink",F,68,1998,
+6,"Mary Patterson",F,53,2008,
+5,"Mary Perez",F,51,2004,
+7,"Mary Rodrigs",F,56,2005,
+6,"Mary Sandoval",F,63,2011,
+5,"Mary Sauceda",F,73,1994,
+6,"Mary Spear",F,55,2016,"1960-10-04 00:00:00"
+5,"Mary Sturgul-Petering",F,37,2016,"1978-03-02 00:00:00"
+8,"Mary Thompson",F,73,1997,
+5,"Mary Wylie",F,63,1997,
+8,"Massimo Marinelli",M,41,2016,"1974-02-13 00:00:00"
+6,"Massoud Tabrizi",M,55,2007,
+5,"Mathew Mapram",M,70,2016,
+5,"Matt Ahmed",M,38,2016,"1977-06-25 00:00:00"
+5,"Matt Herman",M,39,2008,
+5,"Matt Lopez",M,46,2005,
+7,"Matt McCurdy",M,38,2011,
+6,"Matt Stevens",M,53,2011,
+5,"Matthew Cameron",M,46,2002,
+5,"Matthew Cook",M,56,2000,
+7,"Matthew Duffy",M,41,2015,
+5,"Matthew Faulk",M,40,2010,
+9,"Matthew Maples",M,39,2016,"1976-03-07 00:00:00"
+6,"Matthew Reyes",M,31,2016,"1984-09-04 00:00:00"
+8,"Matthew Sasso",M,52,2015,
+5,"Matthew Smyk",M,38,2016,"1977-02-14 00:00:00"
+6,"Matthew Thompson",M,42,2011,
+6,"Matthew Tresaugue",M,42,2016,"1973-08-31 00:00:00"
+5,"Matthew Vratil",M,38,2014,
+6,"Matthias Henze",M,50,2016,"1965-04-12 00:00:00"
+7,"Maureen Kromis",F,67,2005,
+5,"Maurice G Kennedy",M,75,1985,
+5,"Maurice Johnson",M,78,1986,
+5,"Maurice Sklar",M,57,1994,
+5,"Maurilio Gutierrez",M,60,2016,"1955-10-19 00:00:00"
+5,"Mauro Ferrari",M,56,2016,"1959-07-07 00:00:00"
+6,"Maury Brochstein",M,58,1998,
+7,"Max Adame",M,33,2016,"1982-04-19 00:00:00"
+6,"Max D Gray",M,42,2009,
+5,"Max Turner",M,97,1989,
+6,"Maxine Aguilar",F,37,2014,"1978-11-19 00:00:00"
+5,"May Shek",F,35,2016,"1980-06-18 00:00:00"
+6,"Meaghan McEntee",F,36,2013,
+5,"Meena Joshi",F,39,2016,"1976-09-06 00:00:00"
+5,"Meera Raghavendra",F,51,2015,"1964-03-06 00:00:00"
+5,"Meg Oswald",F,55,2006,
+5,"Megan Cutlip",F,34,2014,"1981-07-26 00:00:00"
+7,"Megan Graff",F,25,2016,"1990-02-28 00:00:00"
+6,"Meghan Wood",F,38,2009,
+6,"Mehboob Marfani",M,40,1996,
+6,"Mel Taylor",M,66,2005,
+6,"Melanie Lux",F,52,2014,"1963-11-04 00:00:00"
+6,"Melinda Elder",F,45,2015,
+6,"Melinda Maillet",F,48,2016,"1968-01-05 00:00:00"
+9,"Melinda Shipp",F,48,2011,
+6,"Melissa Aguilar",F,55,2012,
+6,"Melissa Becker",F,55,1998,
+8,"Melissa Essary",F,35,2015,
+6,"Melissa Gastineau",F,32,2015,"1983-04-04 00:00:00"
+7,"Melissa Griffith",F,36,2015,
+5,"Melissa Henderson",F,41,2006,
+5,"Melissa Kroeger",F,40,1998,
+8,"Melissa Moss",F,56,2014,
+7,"Melody Presswood",F,36,2016,"1979-08-27 00:00:00"
+6,"Melvis Boulden",M,72,2000,
+9,"Meredith Canada",F,59,2016,"1956-05-23 00:00:00"
+5,"Merritt E Jones",M,75,1984,
+5,"Merry Davis",F,47,2014,"1968-04-13 00:00:00"
+5,"Michael A Dion",M,49,2002,
+5,"Michael Abbas",M,50,2016,"1965-04-16 00:00:00"
+5,"Michael Abbott",M,61,2015,"1954-08-24 00:00:00"
+6,"Michael Althoff",M,58,1996,
+5,"Michael B Bell",M,69,2002,
+7,"Michael Barrett",M,37,2016,"1978-03-18 00:00:00"
+8,"Michael Bass",M,53,2010,
+6,"Michael Blayney",M,46,2015,
+5,"Michael Boudreaux",M,66,1998,
+5,"Michael Bradley",M,33,2015,
+5,"Michael Brownstein",M,36,2012,
+5,"Michael Budde",M,51,2009,"1964-11-09 00:00:00"
+8,"Michael Burell",M,56,2016,"1959-04-13 00:00:00"
+9,"Michael Cahn",M,65,1992,
+7,"Michael Carnes",M,73,1994,
+5,"Michael Cerrato",M,53,2005,
+5,"Michael Chung",M,45,2014,"1970-10-28 00:00:00"
+5,"Michael Coday",M,51,2016,"1964-02-08 00:00:00"
+7,"Michael Contreras",M,42,2015,
+5,"Michael Corley",M,54,2006,
+7,"Michael Cormier",M,50,2011,
+5,"Michael Coutorie",M,60,1994,
+6,"Michael Crawford",M,40,2012,
+6,"Michael Cripe",M,65,2011,
+8,"Michael Csikos",M,46,2015,"1969-03-14 00:00:00"
+6,"Michael Curran",M,51,2011,
+6,"Michael Diaz",M,55,2014,
+8,"Michael Dodson",M,58,2014,
+7,"Michael Donelan",M,65,2014,"1950-02-06 00:00:00"
+7,"Michael Donohoe",M,63,2003,
+9,"Michael Donohue",M,46,2016,"1970-09-20 00:00:00"
+6,"Michael Doyle",M,58,1999,
+5,"Michael Dudek",M,56,2016,"1959-09-20 00:00:00"
+7,"Michael Duhs",M,68,2005,
+5,"Michael Eggert",M,55,2003,
+6,"Michael Estep",M,64,2005,
+6,"Michael Evenson",M,62,1999,
+5,"Michael F Appel",M,78,1984,
+7,"Michael Feaga",M,32,2016,"1983-10-06 00:00:00"
+9,"Michael Fleming",M,45,2016,"1970-02-10 00:00:00"
+6,"Michael Ford",M,42,2011,
+5,"Michael Fritz",M,58,2012,
+7,"Michael Gaden",M,70,1992,
+5,"Michael Geffert",M,60,2016,"1955-02-11 00:00:00"
+7,"Michael Gildner",M,68,1993,
+5,"Michael Glueck",M,36,2015,
+9,"Michael Gonzales",M,51,2016,"1964-09-12 00:00:00"
+5,"Michael Harris",M,67,1988,
+6,"Michael Heeney",M,51,2014,
+5,"Michael Heffler",M,39,2016,"1976-09-28 00:00:00"
+8,"Michael Jackson",M,59,2006,
+5,"Michael Jacobs",M,52,2014,
+5,"Michael Johncock",M,52,2011,
+5,"Michael Jones",M,56,1998,
+5,"Michael K Swan",M,74,1984,
+7,"Michael Kerley",M,63,2000,"1952-10-07 00:00:00"
+5,"Michael Kirk",M,66,1999,
+5,"Michael Knapp",M,67,1991,
+5,"Michael Koenig",M,48,2015,
+5,"Michael Kovich",M,44,2016,"1971-05-10 00:00:00"
+6,"Michael Krakower",M,62,1997,
+9,"Michael L Gullikson",M,68,2016,"1947-08-25 00:00:00"
+6,"Michael L Harrison",M,67,2002,
+6,"Michael L Russell",M,68,1985,
+9,"Michael Le",M,56,2012,
+6,"Michael Le",M,54,2016,"1961-11-30 00:00:00"
+7,"Michael Leach",M,57,2005,
+5,"Michael Lerner",M,42,2012,
+6,"Michael Lewter",M,69,1998,
+5,"Michael Lopez",M,58,2005,
+7,"Michael Lundberg",M,41,2015,
+5,"Michael Macaluso",M,64,1989,
+6,"Michael Magill",M,61,2010,
+6,"Michael Meyers",M,54,2009,
+5,"Michael Miller",M,42,2015,
+6,"Michael Northcutt",M,60,1989,
+9,"Michael Oehler",M,71,2016,"1944-11-26 00:00:00"
+5,"Michael Parker",M,40,2016,"1975-09-07 00:00:00"
+5,"Michael Patterson",M,72,2003,
+5,"Michael Pope",M,57,2016,"1958-07-03 00:00:00"
+6,"Michael Quinn",M,51,2008,
+5,"Michael Rambo",M,65,1993,
+7,"Michael Richardson",M,45,2010,
+7,"Michael Rodriguez",M,54,1999,
+5,"Michael Rubinstein",M,66,1991,
+7,"Michael Ruffin",M,41,2016,"1974-05-29 00:00:00"
+8,"Michael Rutledge",M,57,2001,
+5,"Michael Schreiber",M,78,2003,
+5,"Michael Silver",M,52,2005,
+5,"Michael Skowronek",M,66,1991,
+7,"Michael Smith",M,71,1997,
+7,"Michael Smith",M,53,2014,
+5,"Michael Sobota",M,60,2015,
+6,"Michael Soileau",M,41,2016,"1974-05-09 00:00:00"
+6,"Michael Syhler",M,38,2014,
+5,"Michael Thomas",M,52,2012,
+6,"Michael Tognarelli",M,43,2011,
+5,"Michael Tran",M,51,2016,"1964-08-23 00:00:00"
+5,"Michael Turner",M,60,1991,
+6,"Michael Vandeveer",M,43,2015,"1972-05-17 00:00:00"
+8,"Michael Verschelden",M,72,2005,
+5,"Michael Viator",M,49,2011,
+5,"Michael Waldau",M,62,2014,
+5,"Michael Wallace",M,59,2006,
+5,"Michael Walsh",M,70,2004,
+5,"Michael Walston",M,30,2016,"1985-05-26 00:00:00"
+5,"Michael White",M,37,2011,
+6,"Michael Williamson",M,35,2015,
+5,"Michael Wolf",M,51,2009,
+6,"Michael Zuteck",M,70,2005,
+5,"Michela Gentile",F,43,2012,
+5,"Michele Gatlin",F,42,2014,
+6,"Michele Mallory",F,50,2016,"1965-07-19 00:00:00"
+5,"Michelle Bitterly",F,49,2015,
+8,"Michelle Buzo",F,28,2016,"1988-01-12 00:00:00"
+8,"Michelle Dittrick",F,40,2011,
+5,"Michelle Flowers",F,46,2013,
+5,"Michelle Hebl",F,46,2013,
+6,"Michelle Moore",F,41,2008,
+6,"Michelle Morton",F,30,2016,"1985-03-26 00:00:00"
+5,"Michelle Munn",F,47,2011,
+5,"Michelle Ragle",F,29,2011,
+6,"Michelle Reddick",F,44,2012,
+5,"Michelle Sheppard",F,49,2009,
+7,"Michelle Taunton",F,44,2016,"1971-05-11 00:00:00"
+6,"Michelle Waldhauser",F,41,2007,
+5,"Michelle Weiss",F,47,2005,
+8,"Mick Long",M,57,2011,
+8,"Mick Midkiff",M,70,2005,
+6,"Mickey Boyle",M,74,1998,
+6,"Miguel Maldonado",M,61,1995,
+6,"Miguel Rendon",M,53,2005,
+9,"Miguel Sanchez",M,54,2006,
+8,"Mihaela Mullin",F,55,2013,
+5,"Mike Beck",M,70,1991,
+5,"Mike Bricker",M,63,2005,
+7,"Mike Bucko",M,54,2010,
+5,"Mike Carville",M,69,1998,
+5,"Mike Catt",M,61,1999,
+5,"Mike Cook",M,69,2007,
+5,"Mike Craig",M,56,2016,"1959-09-23 00:00:00"
+7,"Mike Davis",M,42,2009,
+9,"Mike Dawson",M,69,2005,
+8,"Mike Gambill",M,68,2001,
+7,"Mike Glasscock",M,68,2012,
+8,"Mike H Strech",M,75,1990,
+5,"Mike Hagen",M,40,2014,
+8,"Mike Henderson",M,66,1993,
+6,"Mike Huff",M,53,2009,
+6,"Mike Kent",M,54,2012,
+6,"Mike Kindred",M,62,1998,
+6,"Mike Knutar",M,45,2016,"1970-10-20 00:00:00"
+5,"Mike Kochick",M,59,2006,
+7,"Mike Ludwig",M,46,2015,
+7,"Mike Marczak",M,56,2011,
+9,"Mike Nguyen",M,36,2016,"1979-02-28 00:00:00"
+6,"Mike Ortego",M,69,1995,
+5,"Mike Sailor",M,58,2016,"1957-06-02 00:00:00"
+6,"Mike Smyers",M,71,1986,
+5,"Mike Stock",M,45,2008,
+7,"Mike Turner",M,60,1999,
+5,"Mike Van Hoozer",M,49,2016,"1966-05-03 00:00:00"
+6,"Mike Walker",M,55,2014,
+5,"Mike Williamson",M,50,2001,
+7,"Milt Johnson",M,85,1990,
+7,"Milton McCreery",M,78,1998,
+7,"Mindy Briones",F,29,2016,"1986-07-02 00:00:00"
+5,"Mindy McNamara",F,60,1999,
+5,"Ming Jeang",M,59,2005,
+6,"Miranda Ryan",F,40,2010,
+5,"Miriam Hernandez",F,37,2015,"1978-03-04 00:00:00"
+7,"Missie Martinez",F,41,2013,
+8,"Misty Barnett",F,41,2015,
+5,"Mitch Hovendick",M,59,1993,
+7,"Mitchell Garcia",M,63,2009,"1953-01-18 00:00:00"
+8,"Mitchell Hall",M,58,2013,
+7,"Mitchell N Miletello",M,53,2009,
+5,"Mitzi Talley",F,61,1998,
+8,"Mohamed Elwassimy",M,42,2016,"1973-03-26 00:00:00"
+6,"Moises Granados",M,42,2016,"1973-11-04 00:00:00"
+6,"Mollie Levitt",F,64,1999,
+6,"Molly Prim",F,46,1997,
+8,"Molly Upton",F,44,2016,"1971-10-31 00:00:00"
+9,"Monica Kervandjian",F,43,2011,"1972-12-28 00:00:00"
+5,"Monica Machart",F,38,2014,"1977-09-14 00:00:00"
+6,"Monica Orlando",F,46,2014,"1969-11-25 00:00:00"
+9,"Monica Rogers",F,55,2014,"1960-09-07 00:00:00"
+6,"Monika Welborn",F,37,2016,"1978-11-03 00:00:00"
+5,"Mont Hoyt",M,75,2006,
+7,"Monte Dobson",M,50,2016,"1965-05-07 00:00:00"
+6,"Monty Long",M,67,1995,
+5,"Moses Morin",M,79,1992,
+9,"Mosley Momie",M,44,2016,"1971-02-14 00:00:00"
+5,"Muhammad Shabazz",M,67,1993,
+6,"Myat Kyaw",M,37,2015,
+5,"Myles Cavanagh",M,58,1997,
+6,"Myphuong Lam",F,45,2016,"1970-02-08 00:00:00"
+9,"Myrick Thibodeaux",M,50,2016,"1965-06-23 00:00:00"
+6,"N Wayne Lauritzen",M,68,1994,
+5,"Nahla Aboushadi",F,43,2016,"1972-06-26 00:00:00"
+7,"Nahum Puebla",M,49,2016,"1966-09-10 00:00:00"
+7,"Nancy Brammer",F,62,2009,
+6,"Nancy Doyle",F,53,2014,
+5,"Nancy Glass",F,63,1996,
+5,"Nancy K Loeser",F,61,1984,
+7,"Nancy Madrid",F,53,2015,
+6,"Nancy Patton",F,60,2000,
+8,"Nancy Prejean",F,70,2008,
+6,"Nancy R Calles",F,49,2002,
+6,"Nancy Sadick",F,58,2001,
+5,"Nancy Thonen",F,50,1999,
+7,"Nancy Wentink",F,61,1996,
+6,"Nancy Williams",F,63,2001,
+5,"Nang Ngo",M,37,2016,"1978-09-26 00:00:00"
+5,"Natalia Galey",F,44,2015,
+5,"Natalie Camps",F,44,2015,
+6,"Natalie Coufal",F,34,2016,"1981-10-16 00:00:00"
+5,"Natalie Duhon",F,46,2013,
+7,"Natalie Geczik",F,48,2014,"1967-08-26 00:00:00"
+8,"Natalie Guerrero",F,38,2013,
+6,"Natalie Mambretti",F,27,2016,"1988-11-24 00:00:00"
+9,"Nath Ighodaro",M,61,1998,
+7,"Nathan Harkins",M,37,2016,"1978-08-18 00:00:00"
+5,"Nathan Hartwell",M,30,2016,"1985-11-11 00:00:00"
+6,"Nathan Mitterling",M,37,2016,"1978-09-02 00:00:00"
+7,"Nathan Vassberg",M,47,2012,
+5,"Nathaniel Cameron",M,35,2014,
+5,"Neal Mitchell",M,73,1991,
+5,"Neil Aubuchon",M,62,1999,
+5,"Neil Chodash",M,48,2016,"1967-04-15 00:00:00"
+5,"Neil Harsany",M,66,2014,
+6,"Nelda Prince",F,48,2014,
+6,"Nelson Anderson",M,61,1994,
+5,"Nelson Harborth",M,73,1986,
+5,"Nelson Starbranch",M,45,2007,
+6,"Newell Boyd",M,72,1987,
+8,"Newman Lay",M,46,2016,"1969-03-21 00:00:00"
+6,"Nhat Nguyen",M,49,2012,
+6,"Nhithi Nguyen",F,54,2009,
+9,"Nhu Tran",F,56,2016,"1959-11-04 00:00:00"
+5,"Nicholas Finan",M,56,2013,
+6,"Nicholas M Sanchez",M,38,2014,
+5,"Nick Keiser",M,64,2012,
+6,"Nick Montemurno",M,44,2012,
+5,"Nick Westbrook",M,67,1999,
+6,"Nicolas Forge",M,45,2016,"1970-09-19 00:00:00"
+6,"Nicole Hano",F,37,2016,"1978-07-24 00:00:00"
+6,"Nicole Kuppersmith",F,45,2010,
+7,"Nicole Richardson",F,35,2013,
+5,"Nidia Blassingame",F,64,2000,
+5,"Niel Svendsen",M,54,2006,
+5,"Nilda Burgos",F,73,2006,
+7,"Noah Worley",M,35,2016,"1980-03-12 00:00:00"
+7,"Noberto Espitia",M,63,2001,
+8,"Noel Han",M,49,2016,"1966-04-18 00:00:00"
+5,"Noel Hetzel",M,74,1999,
+7,"Norberto Valdes",M,58,2008,
+5,"Norgenia Kelley",F,46,2015,"1969-04-25 00:00:00"
+7,"Norm Frank",M,84,2004,
+5,"Norma Coffell",F,63,1997,
+7,"Norma Duke",F,60,2013,
+8,"Norma Lafuente",F,44,2009,
+6,"Norma Nieto",F,58,2013,
+8,"Norman B Cooper",M,73,1984,
+7,"Norman Reece",M,65,1998,
+5,"Norman Spalding",M,62,2007,
+6,"Norris Gardner",M,67,1994,
+5,"Norvel Alviza",M,45,2015,"1970-04-07 00:00:00"
+6,"Norwood Hackemack",M,71,1998,
+6,"Nozomi Nakata",M,48,2016,"1967-04-19 00:00:00"
+5,"Nurian Toy",F,49,2016,"1966-10-30 00:00:00"
+6,"Nyria Velasquez",F,36,2016,"1979-10-25 00:00:00"
+5,"Olanrewaju Sobomehin",M,70,1989,
+6,"Olga Bryant",F,57,2012,
+7,"Olga Flores",F,42,2005,
+6,"Olga Sheets",F,53,2003,
+5,"Omar Moore",M,36,2016,"1979-07-25 00:00:00"
+8,"Omar Sesay",M,42,2016,"1973-06-05 00:00:00"
+7,"Orvie Dombrosky",M,60,2001,
+6,"Oscar Guerrero",M,58,1999,
+5,"Oscar Longoria",M,63,1998,
+5,"Oscar Lopez",M,74,1998,
+5,"Oscar Oviedo",M,41,2014,
+8,"Otto Akers",M,57,2004,
+8,"Otto Meyers",M,56,2014,
+7,"Owen Raun",M,56,2004,
+5,"Page Nelson",M,52,2008,
+5,"Page Shaper",F,46,1997,
+5,"Paige Delizio",F,45,2014,"1970-04-01 00:00:00"
+8,"Paige Krekeler",F,45,2015,
+9,"Pam Anderson",F,54,2016,"1961-11-28 00:00:00"
+5,"Pam Butler",F,58,2016,"1957-09-12 00:00:00"
+5,"Pam Johnston",F,55,2008,
+7,"Pam Meaux",F,55,2014,
+6,"Pamela Perkins",F,60,2004,
+7,"Pamela Snapp",F,55,2014,"1960-07-20 00:00:00"
+5,"Pamela Sol",F,62,1999,
+5,"Pamela Whitson",F,54,2005,"1961-12-21 00:00:00"
+6,"Pat Birdsong",M,55,2016,"1960-04-30 00:00:00"
+6,"Pat Bradley",M,54,2016,"1961-12-25 00:00:00"
+6,"Pat Dunn",M,59,2013,
+5,"Pat Farrell",M,66,1999,
+7,"Pat Himel",F,63,2016,"1952-12-15 00:00:00"
+6,"Pat Pilkenton",F,68,1999,
+5,"Pat Whitty",M,56,2010,
+7,"Patricia Broholm",F,66,2012,
+7,"Patricia Carreon",F,52,2016,"1963-05-24 00:00:00"
+6,"Patricia Cugini",F,61,2009,
+6,"Patricia Howard",F,62,2015,"1953-08-28 00:00:00"
+5,"Patricia Jircik",F,53,2014,
+5,"Patricia Nolan",F,56,2009,
+5,"Patrick Brown",M,71,1995,
+6,"Patrick Davis",M,66,1998,
+5,"Patrick Fleming",M,49,2016,"1966-06-12 00:00:00"
+5,"Patrick Flores",M,51,2011,
+7,"Patrick Gavin",M,65,2003,
+7,"Patrick Geisler",M,42,2015,
+6,"Patrick Gomez",M,38,2016,"1977-07-06 00:00:00"
+6,"Patrick Leonard",M,70,1997,
+5,"Patrick McGannon",M,59,2012,
+9,"Patrick OConnor",M,58,2013,
+7,"Patrick Odonnell",M,57,2011,
+5,"Patrick Scott",M,46,2002,
+7,"Patrick Snyder",M,67,2007,
+7,"Patrick Tighe",M,58,1991,
+7,"Patrick Yorek",M,62,2010,
+6,"Patti Cardenas",F,54,2016,"1961-12-13 00:00:00"
+8,"Patti Kroger",F,52,2014,
+6,"Patti Sullivan",F,59,1996,
+6,"Patti Young",F,63,2012,"1952-11-07 00:00:00"
+7,"Pattie Dale Tye",F,57,2010,
+8,"Paul Aleshire",M,45,2016,"1970-01-25 00:00:00"
+5,"Paul Barrington",M,54,2016,"1961-01-23 00:00:00"
+8,"Paul Brundrett",M,57,1999,
+6,"Paul Buras",M,63,2014,
+6,"Paul Clements",M,63,2006,
+7,"Paul Daniels",M,66,1997,
+5,"Paul Danilewicz",M,52,2015,"1963-08-19 00:00:00"
+6,"Paul Dolliver",M,63,1994,
+6,"Paul Estrada",M,38,2014,
+5,"Paul Falgout",M,54,1995,
+8,"Paul Finken",M,54,2012,
+5,"Paul Finney",M,57,1997,
+5,"Paul Fontenot",M,55,2003,
+8,"Paul Hera",M,52,2016,"1963-02-22 00:00:00"
+6,"Paul Herrmann",M,57,1997,
+6,"Paul Izzo",M,36,2016,"1979-11-28 00:00:00"
+5,"Paul Kane",M,50,2003,
+7,"Paul Katsuro",M,100,1986,
+5,"Paul Lindstrom",M,39,2016,"1976-06-18 00:00:00"
+5,"Paul Luckey",M,51,2013,
+5,"Paul M Seaburn",M,62,1988,
+5,"Paul Martin",M,44,2016,"1971-07-01 00:00:00"
+7,"Paul Martinez",M,70,2015,"1945-02-22 00:00:00"
+6,"Paul Matsusaka",M,59,1994,
+6,"Paul Mattey",M,47,2014,
+8,"Paul Morin",M,49,2016,"1966-10-30 00:00:00"
+7,"Paul Morris",M,48,2005,
+5,"Paul Nielsen",M,47,2009,
+5,"Paul Ohlemacher",M,42,2016,"1973-06-22 00:00:00"
+5,"Paul Oliphant",M,43,2012,
+8,"Paul Paese",M,64,2004,
+8,"Paul Perisho",M,70,2004,
+8,"Paul Reinhardt",M,61,2006,
+8,"Paul Rodgers",M,56,2012,
+5,"Paul Simon",M,57,2007,
+5,"Paul Stewart",M,39,2016,"1976-09-26 00:00:00"
+8,"Paul Szostak",M,54,2014,
+9,"Paul Talisman",M,51,2016,"1964-06-22 00:00:00"
+7,"Paul Tennet",M,65,2015,
+5,"Paul Terranova",M,42,2012,
+6,"Paul Trotter",M,60,2016,"1955-04-20 00:00:00"
+5,"Paul Vita",M,59,2015,"1956-12-05 00:00:00"
+5,"Paul Withers",M,44,1986,
+7,"Paula Alvarado",F,48,2014,
+5,"Paula Bruchhaus",F,49,2009,
+7,"Paula Psihudakis",F,64,2006,
+8,"Paula Sokolich",F,54,2016,"1961-08-24 00:00:00"
+5,"Paulette Frank",F,51,2006,
+8,"Pauline Leeman",F,62,2011,
+8,"Pedro Balon",M,42,2003,
+8,"Pedro Castro",M,53,2015,"1962-08-28 00:00:00"
+8,"Pedro F Ramirez",M,67,2002,
+8,"Pedro Torres",M,61,2001,
+7,"Peggy Faulk",F,59,2016,"1956-08-11 00:00:00"
+6,"Peggy Louie",F,54,2016,"1961-07-09 00:00:00"
+9,"Peggy Pugh",F,59,2005,
+6,"Peng Chen",M,51,2016,"1964-10-04 00:00:00"
+6,"Peni Green",F,51,2008,
+5,"Penny Dale",F,54,2009,
+5,"Pete Link",M,45,2007,
+9,"Pete Martinez",M,59,2004,
+5,"Pete Rake",M,55,2012,
+7,"Peter Bennett",M,41,2016,"1974-12-24 00:00:00"
+5,"Peter Blomquist",M,47,2016,"1968-05-24 00:00:00"
+6,"Peter Bugnacki",M,67,1986,
+7,"Peter Caddoo",M,61,1998,
+5,"Peter Eschenburg",M,57,1996,
+8,"Peter Eversley",M,45,2014,
+6,"Peter Gijsbers Van Wijk",M,63,2009,
+5,"Peter Gonzalez",M,66,2007,
+7,"Peter Haney",M,57,2016,"1958-08-30 00:00:00"
+8,"Peter Heinze",M,57,2016,"1958-05-10 00:00:00"
+5,"Peter J Killen",M,72,1982,
+5,"Peter Karpowicz",M,57,1995,
+7,"Peter Kurz",M,73,1993,
+6,"Peter Lombardi",M,45,2016,"1970-02-15 00:00:00"
+7,"Peter Mathias",M,55,2016,"1960-06-02 00:00:00"
+9,"Peter Nguyen",M,58,2016,"1957-04-10 00:00:00"
+9,"Peter Norris",M,61,2016,"1954-03-09 00:00:00"
+5,"Peter Oconor",M,55,2009,
+5,"Peter Pickup",M,65,2001,
+6,"Peter Ross",M,66,1996,
+7,"Peter Shuffle",M,67,1994,
+6,"Peter Sipos",M,56,1999,
+6,"Peter Vail",M,58,2005,
+9,"Phi Nguyen",M,35,2016,"1980-11-04 00:00:00"
+5,"Phil McGonigle",M,81,1989,
+5,"Phil Teijeira",M,38,2012,
+6,"Phil Ziegler",M,77,1988,
+6,"Philip Bischof",M,83,1993,
+6,"Philip E Baker",M,76,2002,
+5,"Philip Grant",M,49,2001,
+7,"Philip Johnson",M,62,1996,
+9,"Philip Joubert",M,53,2006,
+6,"Philip Schneidau",M,65,1998,
+5,"Phillip Bates",M,43,2015,
+8,"Phillip Davis",M,65,1991,
+6,"Phillip E Andrus",M,64,1989,
+7,"Phillip H Padgett",M,60,2002,
+6,"Phillip Reininger",M,49,2015,
+5,"Phillip Spatz",M,40,2015,"1975-12-18 00:00:00"
+5,"Phillip W Johnson",M,74,1983,
+5,"Philong Nguyen",M,31,2016,"1984-03-31 00:00:00"
+6,"Phyllis J Warmack",F,61,2002,
+7,"Phyllis W Cross",F,82,2002,
+6,"Piet Victor",M,48,2016,"1967-08-07 00:00:00"
+5,"Placido Ortiz",M,76,1985,
+5,"Pony Peterson",F,50,2011,
+6,"Pranav Mantini",M,31,2016,"1985-01-01 00:00:00"
+7,"Prax Rivera",M,49,2016,"1966-05-04 00:00:00"
+6,"Preston Moore",M,84,1988,
+6,"Prestons Phillips",M,54,2010,
+5,"Priscilla Damrel",F,53,2016,
+9,"Priscilla Fierro",F,46,2016,"1969-04-18 00:00:00"
+5,"Przemyslaw M Buczek",M,50,2002,
+5,"Qualen Freeman",M,41,2012,
+7,"Quang Tran",M,43,2004,
+5,"Quentin J Leber",M,79,2002,
+8,"Quentin Wingert",M,61,2016,"1954-07-17 00:00:00"
+5,"Quoc Duong",M,42,2016,"1973-09-08 00:00:00"
+7,"Rachel Everaard",F,37,2012,
+8,"Rachel Hoffman",F,65,2001,
+6,"Rachel Jackson",F,38,2014,
+5,"Rachel Williams",F,40,2016,"1975-08-12 00:00:00"
+7,"Rafael Aguirre",M,55,2004,
+6,"Rafael Perales",M,44,2014,"1971-08-10 00:00:00"
+5,"Raghu Vikram",M,41,2016,"1974-04-01 00:00:00"
+7,"Rainer Potthast",M,61,2009,
+6,"Raj Muchimilli",M,49,2016,"1966-05-29 00:00:00"
+5,"Rakesh Sharma",M,64,2003,
+9,"Ralph Accardo",M,81,1992,
+6,"Ralph C Peterson",M,70,1990,
+5,"Ralph Corry",M,67,2009,
+6,"Ralph E Taite",M,73,1980,
+8,"Ralph Ferrer",M,52,2013,
+8,"Ralph Gonsoulin",M,47,2015,
+7,"Ramiro Barrera",M,74,1988,
+7,"Ramiro Galindo",M,77,1999,
+5,"Ramiro Ramirez",M,62,2008,
+6,"Ramiro Sosa",M,62,2001,
+6,"Ramon Bosworth",M,66,2011,
+6,"Ramon Guel",M,41,2015,
+7,"Ramona Roquemore",F,42,2009,
+6,"Ramona Zamudio",F,53,2004,
+7,"Randall Ebner",M,60,1999,
+8,"Randall Hillhouse",M,64,1999,
+5,"Randall Posejpal",M,47,2009,
+7,"Randy Bradley",M,53,2014,"1962-06-13 00:00:00"
+5,"Randy Cochran",M,65,2004,
+5,"Randy Cote",M,64,1987,
+7,"Randy Crane",M,50,2014,
+7,"Randy Glatstein",M,48,2016,"1967-08-18 00:00:00"
+5,"Randy Hook",M,54,2010,
+5,"Randy Miller",M,63,1999,
+5,"Randy Moore",M,62,2008,
+7,"Randy Morris",M,58,2013,
+5,"Randy Roberts",M,50,1995,
+6,"Randy Slater",M,63,2000,
+5,"Randy W Randel",M,65,2000,
+8,"Randy Ziebarth",M,65,2008,
+5,"Ransom Swofford",M,65,1987,
+7,"Ranulfo Castillo",M,77,2007,
+7,"Raquel Bone",F,47,2013,
+6,"Raul Gutierrez",M,25,2016,"1990-01-18 00:00:00"
+8,"Raul Posada",M,46,2013,
+7,"Raul Quiros",M,39,2010,
+7,"Raul Rojas",M,54,2015,
+5,"Raul Valdez",M,43,2007,
+7,"Ravi Rau",M,57,2016,"1958-05-15 00:00:00"
+5,"Ray Cartwright",M,38,2016,"1977-03-08 00:00:00"
+8,"Ray D Smith",M,71,1989,
+6,"Ray Dickey",M,82,1991,
+5,"Ray Finlayson",M,58,2014,
+9,"Ray Jones",M,42,2015,
+8,"Ray Mechler",M,60,2008,
+8,"Raymond Brady",M,72,1999,
+6,"Raymond Cooper",M,56,2004,
+5,"Raymond Fournier",M,53,2015,
+5,"Raymond Fowles",M,72,1998,
+7,"Raymond Kwan",M,63,2016,"1952-08-18 00:00:00"
+5,"Raymond M Wheeler",M,58,1989,
+6,"Raymond Maxa",M,35,2012,
+5,"Raymond Rivas",M,69,1987,
+6,"Raymond Saucillo",M,51,2000,
+5,"Raymond Strong",M,64,2004,
+7,"Raymund Codina",M,48,2014,
+5,"Raymundo Rojo",M,50,2016,"1965-03-12 00:00:00"
+8,"Reagan Kittell",M,56,2014,
+5,"Rebecca Chisholm",F,60,2012,
+7,"Rebecca Gallagher",F,48,2009,
+5,"Rebecca Morgan",F,46,2008,
+5,"Rebecca Reyna",F,40,2010,
+6,"Rebecca Watkins",F,39,2007,
+5,"Rebecca Yzquierdo",F,47,2012,
+5,"Rebeccah Lovely",F,32,2013,
+5,"Reese D Thomas",M,78,1985,
+6,"Reese Reumont",M,83,1980,
+5,"Reese Stalcup",M,73,2000,
+8,"Refugio Trejo",M,38,2016,"1978-01-10 00:00:00"
+5,"Regan Thompson",F,37,2016,"1978-04-18 00:00:00"
+6,"Regina Cagle",F,31,2015,
+8,"Reji George",M,49,2016,"1966-11-10 00:00:00"
+6,"Rene Lerma",M,62,1991,
+7,"Rene Munoz",M,47,2016,"1968-12-11 00:00:00"
+6,"Rene Pineda",F,52,2011,
+5,"Rene Villafuerte",M,46,2014,
+5,"Renee Voorhies",F,55,2012,
+5,"Rex Friend",M,61,1994,
+8,"Rex West",M,52,2016,"1963-02-21 00:00:00"
+8,"Rey Ortiz",M,63,1993,
+8,"Reynaldo Garza",M,63,2005,
+5,"Reynaldo Najera",M,74,1997,
+7,"Ric Pennington",M,64,2009,
+6,"Ricardo Acosta",M,63,1997,
+7,"Ricardo Concha",M,43,2016,"1973-01-05 00:00:00"
+5,"Ricardo Flores",M,42,2015,
+6,"Ricardo Jovane",M,37,2014,
+5,"Ricardo Perez",M,30,2016,"1985-07-23 00:00:00"
+9,"Ricardo Posada",M,49,2015,
+5,"Ricardo Rangel",M,55,2000,
+9,"Rich Cannata",M,54,2013,
+6,"Rich Glass",M,51,1998,
+9,"Rich Martucci",M,60,2016,"1955-10-11 00:00:00"
+8,"Rich Siemens",M,75,2014,
+5,"Richard A Levesque",M,67,1990,
+9,"Richard A Purdy",M,66,2002,
+6,"Richard Boyd",M,61,1992,
+6,"Richard Bozanich",M,62,2015,"1953-07-12 00:00:00"
+6,"Richard Brooks",M,45,2015,
+5,"Richard Brown",M,57,2001,
+7,"Richard Burke",M,43,2010,
+6,"Richard Duncan",M,69,1997,
+5,"Richard Erickson",M,72,1997,
+5,"Richard Foster",M,50,1997,
+8,"Richard Gasdia",M,64,2016,"1951-11-07 00:00:00"
+7,"Richard Gentilini",M,55,2012,
+7,"Richard Gerstley",M,59,2007,
+5,"Richard Gilman",M,65,1986,
+9,"Richard Gonzales",M,65,2016,"1950-08-31 00:00:00"
+5,"Richard Gruen",M,69,1998,
+6,"Richard Hoefelmann",M,69,1996,
+6,"Richard Horner",M,70,1992,
+8,"Richard Hughes",M,72,2000,
+6,"Richard Jones",M,65,2013,
+9,"Richard Kellogg",M,45,2012,
+5,"Richard Klick",M,63,2014,
+6,"Richard Koo",M,45,2014,"1970-09-18 00:00:00"
+7,"Richard Lewis",M,58,2014,"1957-02-04 00:00:00"
+5,"Richard Lim",M,49,2016,"1966-03-02 00:00:00"
+5,"Richard Lira",M,54,2015,"1961-01-26 00:00:00"
+7,"Richard Lopez",M,74,1992,
+8,"Richard Lynn",M,64,2004,
+7,"Richard Maset",M,60,2010,
+5,"Richard McQuaide",M,54,2012,
+5,"Richard Mueller",M,52,2001,
+5,"Richard Murray",M,75,1987,
+5,"Richard N Werner",M,49,2009,
+5,"Richard Orellana",M,43,2012,
+7,"Richard Paniagua",M,49,2005,
+5,"Richard Peck",M,66,2009,
+9,"Richard Pennington",M,63,2004,
+5,"Richard Potts",M,58,2001,
+5,"Richard Rosenberg",M,53,2000,
+9,"Richard Rothery",M,51,2016,"1964-05-12 00:00:00"
+5,"Richard S Barnett",M,84,1988,
+6,"Richard S Oechslin",M,39,2016,"1976-05-01 00:00:00"
+7,"Richard Sanchez",M,58,2001,
+8,"Richard Smith",M,58,2009,
+6,"Richard Sucik",M,62,1993,
+6,"Richard Torres",M,60,2013,
+5,"Richard Trujillo",M,37,2016,"1978-04-09 00:00:00"
+9,"Richard Ullman",M,71,1987,
+7,"Richard Wagner",M,65,2006,
+7,"Richard White",M,59,2014,
+5,"Richard Whitney",M,74,1994,
+8,"Richard Zirn",M,62,2000,
+5,"Rick Brower",M,41,2016,"1974-12-16 00:00:00"
+6,"Rick Burris",M,61,2011,
+8,"Rick Carroll",M,69,1991,
+5,"Rick Craig",M,62,2002,
+5,"Rick Davis",M,52,2005,
+5,"Rick Gastelum",M,71,1998,
+5,"Rick Goulding",M,62,1997,
+5,"Rick Hamlin",M,47,2008,
+9,"Rick Kent",M,59,2000,
+9,"Rick Reynolds",M,62,2016,"1953-09-18 00:00:00"
+6,"Rick Robertson",M,58,2010,
+6,"Rick Stonebraker",M,65,2000,
+7,"Rick T Potter",M,67,1989,
+6,"Rick Tidwell",M,61,2011,
+6,"Rick Wasson",M,66,2005,
+6,"Rick Webster",M,57,2010,
+5,"Rick Yerrow",M,68,2006,
+7,"Ricky Chapman",M,42,2016,"1973-05-07 00:00:00"
+5,"Ricky Deaver",M,59,2014,"1956-04-16 00:00:00"
+5,"Ricky Krisle",M,54,2009,
+5,"Rigobert Nguyen",M,35,2016,"1980-03-17 00:00:00"
+5,"Rinaldo Legaspi",M,43,2011,
+5,"Rita Jonas",F,42,2015,"1973-06-07 00:00:00"
+5,"Riva Rahl",F,42,2000,
+7,"Rob Carter",M,56,2012,
+5,"Rob Hill",M,50,2012,
+6,"Rob Johnson",M,59,2004,
+8,"Rob McNally",M,45,2014,
+5,"Rob Patrick",M,52,2011,
+7,"Robert Addington",M,62,1993,
+7,"Robert Altmiller",M,33,2016,"1983-01-11 00:00:00"
+5,"Robert Anderson",M,59,2007,
+6,"Robert Archer",M,51,2016,"1964-07-01 00:00:00"
+5,"Robert Avery",M,50,1996,
+5,"Robert B Okeefe",M,66,1988,
+5,"Robert B Razminas",M,77,1984,
+6,"Robert Bailey",M,55,2012,"1960-01-27 00:00:00"
+5,"Robert Burnside",M,72,2001,
+6,"Robert Castro",M,58,2016,"1957-10-11 00:00:00"
+7,"Robert Choi",M,58,2003,
+6,"Robert Crawford",M,81,1988,
+7,"Robert Culpepper",M,79,1991,
+6,"Robert Derheim",M,52,2011,
+5,"Robert Edwards",M,47,1997,
+5,"Robert Eng",M,46,1992,
+5,"Robert Fayle",M,70,1995,
+9,"Robert Finley",M,67,2009,
+5,"Robert Foster",M,63,1994,
+5,"Robert Fowler",M,49,1997,
+6,"Robert Ganczak",M,61,2013,
+5,"Robert Garwig",M,60,2001,
+5,"Robert Goerlich",M,67,1980,
+5,"Robert Gonzales",M,45,2001,
+7,"Robert Graham",M,42,2010,
+7,"Robert Gray",M,70,1987,
+7,"Robert Gulliver",M,71,1998,
+8,"Robert H Snider",M,72,1986,
+5,"Robert Hagens",M,57,2010,
+6,"Robert Hansen",M,65,1994,
+5,"Robert Harris",M,68,2010,
+7,"Robert Hartzell",M,58,2010,
+5,"Robert Hemker",M,53,2016,"1962-04-07 00:00:00"
+6,"Robert Henry",M,66,2010,
+5,"Robert Huddle",M,58,2009,
+5,"Robert Huzinec",M,74,2008,
+6,"Robert Ives",M,61,2001,
+7,"Robert K Gaddy",M,60,2009,
+5,"Robert Kelso",M,62,1992,
+7,"Robert Key",M,56,2009,
+6,"Robert Koenig",M,73,2000,
+5,"Robert Lippincott",M,69,1992,
+6,"Robert Malaise",M,73,1993,
+7,"Robert Martin",M,54,2011,
+5,"Robert McGinnes",M,72,1986,
+6,"Robert Mercer",M,58,2016,"1957-06-11 00:00:00"
+6,"Robert Mirabella",M,55,2016,"1960-01-23 00:00:00"
+8,"Robert Morales",M,68,1998,
+6,"Robert Moser",M,55,2015,
+5,"Robert N McGuire",M,73,1985,
+8,"Robert Perez",M,67,2014,
+8,"Robert Pretty",M,72,1997,
+8,"Robert Reeger",M,62,1993,
+8,"Robert Rekieta",M,60,1997,
+5,"Robert Riedle",M,46,2011,
+6,"Robert Roesing",M,60,1997,
+6,"Robert Sanders",M,59,1999,
+6,"Robert Schwamberger",M,65,1987,
+7,"Robert Sleet",M,69,1987,
+8,"Robert Stanley",M,84,1995,
+7,"Robert Stepp",M,55,2016,"1960-06-10 00:00:00"
+6,"Robert Swanson",M,57,2011,"1958-02-16 00:00:00"
+5,"Robert Sweeney",M,69,1997,
+5,"Robert Thurber",M,68,1993,
+9,"Robert Tysdal",M,60,2015,
+6,"Robert Victoria",M,57,1999,
+7,"Robert Wade",M,52,2016,"1963-10-06 00:00:00"
+5,"Robert Walter",M,48,2009,
+5,"Robert Ward",M,73,1993,
+7,"Robert Wear",M,80,1995,
+6,"Robert Webb",M,62,2016,"1953-05-29 00:00:00"
+5,"Robert Wen",M,57,2009,
+7,"Robert White",M,58,1993,
+5,"Robert Whitley",M,52,1993,
+8,"Robert Wittenbrink",M,52,2012,
+5,"Robert Wright",M,64,2009,
+5,"Robert Yara",M,61,1998,
+7,"Roberta Konicki",F,46,2014,"1969-09-09 00:00:00"
+9,"Roberto Dacquino",M,66,2006,
+5,"Roberto Falcon",M,62,1997,
+5,"Roberto Pereida",M,69,1984,
+7,"Roberto Reyes",M,46,2016,"1969-05-09 00:00:00"
+6,"Robin Campbell",F,52,2014,"1963-12-24 00:00:00"
+5,"Robin Dobler",F,59,1999,
+5,"Robin Harvan",M,66,2000,
+7,"Robin Nilsestuen",F,62,2001,
+5,"Roderick Ward",M,57,2007,
+7,"Rodney Bertrand",M,44,2009,
+6,"Rodney Johnson",M,51,2015,"1965-01-09 00:00:00"
+9,"Rodney Nabors",M,49,2016,"1966-10-19 00:00:00"
+9,"Rodney Willis",M,76,1995,
+6,"Rodolfo Rangel",M,32,2016,"1983-09-20 00:00:00"
+5,"Rogelio Miranda",M,60,2016,"1955-01-28 00:00:00"
+9,"Rogelio Pena",M,42,2013,
+6,"Roger Braun",M,62,1999,
+8,"Roger Espinoza",M,51,2016,"1964-10-19 00:00:00"
+6,"Roger Girdwood",M,56,2012,
+6,"Roger Graff",M,71,1998,
+6,"Roger Mercier",M,68,2015,
+7,"Roger Smith",M,93,1991,
+5,"Roger Soler",M,55,2001,
+5,"Roger Tysor",M,50,2012,
+6,"Roger Waggoner",M,73,1986,
+5,"Rogers Herndon",M,47,2016,"1968-11-08 00:00:00"
+6,"Rola S Elzoor",F,39,2014,"1976-04-07 00:00:00"
+5,"Roland D Daniels",M,59,1988,
+6,"Roland De Soignie",M,62,1995,
+5,"Rolando Reyes",M,50,2016,"1965-06-03 00:00:00"
+7,"Rommel Cruz",M,52,2014,
+9,"Ron Aliezer",M,54,2012,
+5,"Ron Anselmo",M,57,2016,"1958-08-13 00:00:00"
+5,"Ron Barnes",M,73,1989,
+5,"Ron Bradshaw",M,55,2016,"1960-10-24 00:00:00"
+6,"Ron Brandt",M,65,2004,
+6,"Ron Buado",M,40,2016,"1975-07-30 00:00:00"
+9,"Ron Dale",M,47,2014,"1969-01-10 00:00:00"
+6,"Ron Mora",M,54,2016,"1961-09-06 00:00:00"
+5,"Ron Moulder",M,50,2009,
+6,"Ron Mueller",M,56,2012,"1959-12-06 00:00:00"
+6,"Ron R Hocking",M,78,1990,
+5,"Ron Stalker",M,68,2007,
+5,"Ron Taylor",M,56,2003,
+6,"Ron W Beere",M,63,2002,
+7,"Ronald A Johnson",M,73,2002,"1942-01-30 00:00:00"
+5,"Ronald Bruscia",M,66,1990,
+9,"Ronald C Maki",M,63,2002,
+9,"Ronald Coote",M,61,2004,
+5,"Ronald Fuchs",M,69,1998,
+9,"Ronald Gentry",M,59,2007,
+6,"Ronald Harrison",M,81,1998,
+9,"Ronald Killion",M,52,2013,
+8,"Ronald McGee",M,61,2013,
+7,"Ronald Monce",M,69,1993,
+5,"Ronald Palmer",M,76,1987,
+7,"Ronald Robicheaux",M,67,2012,
+6,"Ronald T Adams",M,81,1989,
+9,"Ronald Wefelmeyer",M,61,2003,
+8,"Roney Lewis",M,63,2008,
+7,"Ronn Willard",M,58,2013,"1957-05-11 00:00:00"
+5,"Ronnie A Morgan",M,73,1984,
+6,"Ronnie Burger",M,54,2008,
+6,"Ronnie Peters",M,49,2015,"1966-05-14 00:00:00"
+5,"Ronnie Ruiz",M,61,1999,
+6,"Ronnie Winters",M,50,2013,
+5,"Ronny Davis",M,69,1995,
+5,"Ronny Leffel",M,64,1994,
+5,"Rosalinda Gutierrez",F,36,2010,
+6,"Rose Buitron",F,40,2016,"1975-08-15 00:00:00"
+6,"Rose Cahalan",F,27,2016,"1988-08-31 00:00:00"
+6,"Rose Hernandez",F,58,1994,
+8,"Rosendo Briones",M,63,2016,"1952-03-01 00:00:00"
+5,"Rosie Carter",F,56,2008,
+5,"Roslyn Harrell",F,61,2012,
+5,"Ross Rommel",M,68,1995,
+7,"Ross Santee",M,65,2016,"1950-01-25 00:00:00"
+7,"Rowena Hay",F,50,2016,"1965-09-22 00:00:00"
+7,"Roy Coleman",M,69,1997,
+6,"Roy Fuller",M,68,2003,
+7,"Roy James",M,62,2005,
+8,"Roy Vickers",M,72,2015,
+5,"Roy Wagenheim",M,57,2009,
+5,"Roynell Young",M,58,2008,
+5,"Ruben Aguilar",M,25,2016,"1990-04-15 00:00:00"
+5,"Ruben Cortez",M,58,2001,
+6,"Ruben D Vazquez",M,41,2009,
+5,"Ruben Flores",M,68,2006,
+6,"Ruben Garcia",M,53,2003,
+5,"Ruben Landa",M,44,2003,
+6,"Ruben Martinez",M,54,1995,
+5,"Ruben Martinez",M,60,1992,
+8,"Ruben Morales",M,53,1998,
+6,"Ruben Rodriguez",M,46,2002,
+6,"Ruben Solis",M,66,2004,
+8,"Ruben Sutton",M,72,1997,
+5,"Ruben Zavala",M,61,1988,
+8,"Rudi Lechner",M,72,1999,
+5,"Rudolph Frey",M,90,1988,
+5,"Rudolph Rendon",M,48,2016,"1967-02-23 00:00:00"
+9,"Rudy Elizondo",M,46,2012,"1969-04-30 00:00:00"
+6,"Rudy Garcia",M,58,2003,
+5,"Rudy Gonzalez",M,46,2016,"1969-02-13 00:00:00"
+8,"Rudy Hollenbach",M,49,2015,
+5,"Rudy Kerar",M,60,1996,
+6,"Rudy Lim",M,40,2016,"1975-12-15 00:00:00"
+6,"Rudy Uresti",M,44,2016,"1971-04-20 00:00:00"
+5,"Rupert Dominguez",M,64,1996,
+7,"Rupert Ellis",M,74,1997,
+6,"Russell English",M,53,2015,"1962-11-16 00:00:00"
+5,"Russell Henderson",M,59,2006,
+7,"Russell McKee",M,52,2016,"1963-08-28 00:00:00"
+6,"Russell R Stavig",M,68,1983,
+6,"Russell Scogin",M,47,2009,
+6,"Russell Smith",M,69,1987,
+5,"Russell Trimble",M,44,2005,
+6,"Russell Warren",M,40,2016,"1975-02-05 00:00:00"
+6,"Rusty Hailey",M,68,2004,
+5,"Rusty Higham",M,63,1986,
+6,"Rusty Holt",M,54,2016,"1961-09-20 00:00:00"
+8,"Rusty Rubenstein",M,50,2013,"1966-01-11 00:00:00"
+6,"Ruth A Silvers",F,46,2002,
+8,"Ruthie Deveau",F,44,2013,
+9,"Ryan Cope",M,38,2006,
+8,"Ryan Gill",M,33,2016,"1982-04-29 00:00:00"
+7,"Ryan Gonzales",M,30,2014,
+7,"Ryan Loehding",M,43,2014,
+8,"Ryan Martin",M,37,2004,
+6,"Ryan Omohundro",M,32,2015,
+5,"Ryan Pepper",M,29,2016,"1987-01-15 00:00:00"
+5,"Ryan Williams",M,35,2016,"1980-05-04 00:00:00"
+5,"Sabina Gonzalez",F,52,2015,
+7,"Sabina Lorca",F,33,2016,"1982-11-24 00:00:00"
+5,"Sadie Greenman",F,84,1998,
+6,"Sajjad Hemani",M,50,2016,"1965-03-30 00:00:00"
+5,"Sally Hall",F,47,2016,"1968-09-11 00:00:00"
+7,"Sally Lane",F,55,2011,
+6,"Sally West",F,48,2016,"1967-01-22 00:00:00"
+7,"Salvador Madrigal",M,41,2016,"1974-05-17 00:00:00"
+8,"Salvador Romero",M,69,1989,
+6,"Salvatore Taormina",M,65,2003,
+7,"Sam Balandran",M,66,2006,
+5,"Sam C Garner",M,59,1989,
+6,"Sam Kounthapanya",M,46,2016,"1969-08-23 00:00:00"
+5,"Sam McBee",M,56,2010,
+5,"Sam R Evans",M,98,1980,
+9,"Sam Rush",M,57,2016,"1958-08-08 00:00:00"
+9,"Samantha Cayton",F,50,2015,
+7,"Samantha Hutchison",F,42,2016,"1973-06-30 00:00:00"
+8,"Samuel Diaz",M,56,2014,"1959-06-12 00:00:00"
+7,"Sandra Cornelius",F,52,2016,"1963-07-10 00:00:00"
+7,"Sandra Germenis",F,53,2012,
+8,"Sandra Milner",F,49,2011,
+5,"Sandra Reyes",F,36,2008,
+5,"Sandra Sutherland",F,53,2015,"1962-10-08 00:00:00"
+5,"Sandra Van Der Vorm",F,45,2012,"1970-07-13 00:00:00"
+6,"Sandra Young",F,66,1991,
+5,"Sandy Eaves",F,45,2015,
+5,"Sandy Lollar",F,61,2003,
+9,"Sandy Parker",F,64,2011,"1951-10-30 00:00:00"
+6,"Sandy Session",F,54,2013,"1961-07-13 00:00:00"
+7,"Sandy Sheehy",F,70,2009,
+8,"Sang Joo",M,74,2013,
+5,"Santiago Mendoza",M,64,1998,
+6,"Sara Olague",F,34,2015,
+6,"Sara Santambrogio",F,52,2000,
+6,"Sara Shannon",F,39,2011,
+7,"Sara Vanderford",F,54,2015,"1961-11-02 00:00:00"
+5,"Sarah Carr",F,39,2016,"1976-05-08 00:00:00"
+5,"Sarah Moore",F,52,2016,"1963-05-06 00:00:00"
+6,"Sary Joudah",M,40,2014,
+5,"Scott Ashmore",M,53,1995,
+6,"Scott Bacher",M,55,1996,
+6,"Scott Bird",M,35,2015,"1980-12-13 00:00:00"
+8,"Scott Bounds",M,63,2013,
+6,"Scott Carleton",M,53,2003,
+7,"Scott Cherry",M,47,2016,"1969-01-12 00:00:00"
+7,"Scott Crutchfield",M,49,2015,
+5,"Scott Darrow",M,52,2014,
+5,"Scott Dotson",M,53,2016,"1962-08-17 00:00:00"
+6,"Scott Farrand",M,55,2012,"1960-07-21 00:00:00"
+7,"Scott Finnell",M,59,1999,
+5,"Scott Franczek",M,56,1992,
+9,"Scott Harrell",M,53,2016,"1962-08-27 00:00:00"
+5,"Scott Johnson",M,48,2008,
+5,"Scott Kogut",M,41,2005,
+7,"Scott L Joslin",M,57,2009,
+5,"Scott McKissick",M,67,1998,
+6,"Scott Oliver",M,45,2011,
+8,"Scott P Saunders",M,47,2009,
+6,"Scott Schepps",M,49,2007,
+6,"Scott Singletary",M,46,2016,"1969-02-08 00:00:00"
+5,"Scott Wonderly",M,49,2008,
+5,"Scott Zettner",M,58,2008,
+8,"Scotty Lewis",M,53,2014,"1962-10-28 00:00:00"
+8,"Sean Byrne",M,46,2016,"1969-05-24 00:00:00"
+6,"Sean Easton",M,43,2009,
+5,"Sean Halloran",M,49,2016,"1966-01-26 00:00:00"
+8,"Sean McMillan",M,42,2016,"1973-09-11 00:00:00"
+6,"Sean Muller",M,46,2012,
+9,"Sean Phung",M,48,2014,
+5,"Sean Robertson",M,41,2015,"1974-03-28 00:00:00"
+6,"Sean Vitelli",M,41,2016,"1974-09-28 00:00:00"
+9,"Sean Wade",M,49,2011,
+5,"See-Long Wong",M,52,2012,
+9,"Selena Henderson",F,50,2016,"1965-06-03 00:00:00"
+6,"Serapio Amador",M,53,1999,
+5,"Sergio Alvarez",M,20,2016,"1995-07-31 00:00:00"
+5,"Sergio Garrido",M,45,2016,"1970-07-27 00:00:00"
+6,"Sergio Vazquez",M,47,2016,"1968-12-23 00:00:00"
+8,"Shahzad Khan",M,57,2016,"1958-09-09 00:00:00"
+5,"Shane Barbee",M,43,2010,
+5,"Shane Watwood",M,40,2011,
+5,"Shannon Galway",M,39,2014,"1976-09-28 00:00:00"
+5,"Shannon Margolis",F,39,2010,
+6,"Shannon Parker",F,43,2016,"1972-09-15 00:00:00"
+6,"Shannon Pearce",F,46,2008,
+8,"Shannon Smith",M,47,2015,
+5,"Shannon Strole",F,39,2015,
+6,"Shannon Truman",F,46,2016,"1969-07-07 00:00:00"
+5,"Shannon Wong",M,48,2010,
+6,"Shantanu Swadi",M,47,2011,"1968-10-10 00:00:00"
+8,"Sharon Archer",F,65,1993,
+5,"Sharon L McCord",F,69,1984,
+5,"Sharon Loe",F,51,2011,
+9,"Sharon Lovdahl",F,51,2016,"1964-01-22 00:00:00"
+5,"Sharon Maguire",F,59,2012,
+8,"Sharon Merka",F,54,2003,
+8,"Sharon P Trent",F,48,2012,
+9,"Sharon Prentice",F,52,2015,"1963-06-15 00:00:00"
+6,"Sharon Rivera",F,58,2016,"1957-02-17 00:00:00"
+9,"Sharon Ruffin-Hardy",F,45,2016,"1970-02-11 00:00:00"
+5,"Sharon Svec",F,55,2007,
+5,"Sharon Tinnell",F,51,2016,"1964-05-13 00:00:00"
+7,"Shaun Wright",M,67,2010,
+7,"Shauna Schoonover",F,37,2014,
+6,"Shawn Coker",M,44,2013,
+5,"Shawn Emerick",M,43,2010,
+5,"Shawn Glanville",M,50,2014,
+7,"Shawn Melnar",M,49,2016,"1966-09-12 00:00:00"
+6,"Shawn Siemers",M,48,2016,"1967-03-10 00:00:00"
+5,"Shawn Smith",M,50,2005,
+6,"Sheila Duncan",F,54,2008,
+8,"Sheila Ryder",F,43,2011,
+8,"Sheldon Hendrix",M,32,2015,
+5,"Shelia J Boyden",F,59,2002,
+5,"Shelley Batten",F,40,2012,
+5,"Shelley Caldwell",F,47,2016,"1968-12-11 00:00:00"
+5,"Shelley Chapman",F,52,2016,"1963-09-25 00:00:00"
+6,"Shelley Grahmann",F,34,2016,"1981-04-11 00:00:00"
+6,"Shelley Wellman",F,37,2015,
+5,"Shellie Patton",F,44,2016,"1971-10-17 00:00:00"
+6,"Shelly Browne",F,44,2016,"1971-08-29 00:00:00"
+6,"Shelly Fordyce",F,39,2006,
+5,"Sheri Scott",F,45,2012,
+5,"Sherri L Purnell",F,51,1994,
+5,"Sherri Richey",F,63,2015,
+6,"Sherry Johnson",F,48,2016,"1967-12-12 00:00:00"
+6,"Sherry Scott",F,47,2016,"1968-11-13 00:00:00"
+5,"Shiela Meeks",F,68,1996,
+9,"Shirin Farahani",F,33,2016,"1982-09-24 00:00:00"
+5,"Shirley Archer",F,70,1998,
+5,"Shrav Jangama",F,38,2015,
+5,"Sidney D Beames",M,61,1983,
+7,"Sidney Pineda",M,33,2016,"1982-10-16 00:00:00"
+8,"Sidney Stech",M,62,2014,
+8,"Sifa Mvoi",M,49,2014,
+5,"Silvia Lamendola",F,48,2016,"1967-03-11 00:00:00"
+5,"Silvia Olafson",F,62,2016,"1953-04-26 00:00:00"
+9,"Sim Cuevas",M,55,2015,
+5,"Simon Brabo",M,40,2012,
+9,"Simon McNamee",M,76,1985,
+7,"Sina Maria Alvarado",F,45,2016,"1970-06-30 00:00:00"
+6,"Sissel Grottenberg",F,59,1993,
+5,"Skip Moschell",M,57,2012,"1958-04-17 00:00:00"
+9,"Skip Sockell",M,58,2000,
+6,"Skip Teel",M,57,2014,
+5,"Skipper Peveto",M,74,1984,
+6,"Solomon Ghide",M,57,2016,"1958-10-15 00:00:00"
+9,"Sonia Alizzi",F,46,2015,
+9,"Sonia Sood",F,50,2016,"1965-07-04 00:00:00"
+6,"Sonia Stabinsky",F,59,2011,
+5,"Sonja Shannon",F,55,2001,
+8,"Sonny Garcia",M,57,1998,
+5,"Sonny Mims",M,60,2004,"1955-04-10 00:00:00"
+8,"Sonya Ferries",F,56,2010,
+5,"Soren Hvidbjerg",M,54,2014,
+5,"Spencer Tholstrup",M,56,2008,
+5,"Stacey Harrison",F,33,2015,
+7,"Stacie Rubin",F,51,2014,
+9,"Stacy Holden",F,39,2016,"1976-10-06 00:00:00"
+7,"Stacy Wulfe",F,56,2009,
+6,"Stan Hatch",M,58,2014,
+6,"Stan Oneal",M,65,1996,
+5,"Stan Wheeler",M,63,2001,
+7,"Stanley Almoney",M,71,2005,
+7,"Stanley Malinoski",M,62,1993,
+9,"Stanley Manuel",M,58,2016,"1957-10-21 00:00:00"
+5,"Stanley Stolarz",M,65,2006,
+8,"Steen Pedersen",M,47,2016,"1969-01-07 00:00:00"
+6,"Stefan Linder",M,56,2016,"1959-02-15 00:00:00"
+6,"Stefanie Bernosky",F,33,2016,"1982-04-01 00:00:00"
+8,"Stella Girgis",F,48,2013,
+6,"Stephanie Burlet",F,42,2008,
+6,"Stephanie Cook",F,47,2016,"1968-07-24 00:00:00"
+5,"Stephanie Flores",F,43,2014,
+8,"Stephanie Garcia",F,45,2001,
+5,"Stephanie Hedstrom",F,54,1999,
+5,"Stephanie Herrscher",F,51,2012,"1964-09-12 00:00:00"
+5,"Stephanie Hintzel",F,34,2010,
+5,"Stephanie Jaeger",F,54,1995,
+5,"Stephanie Kurpiewski",F,50,2016,"1965-07-25 00:00:00"
+7,"Stephanie Landsman",F,63,2016,"1952-03-06 00:00:00"
+6,"Stephanie Mundy",F,56,2010,
+5,"Stephanie Pelfrey",F,41,2014,
+5,"Stephanie Thapar",F,38,2016,"1977-09-17 00:00:00"
+5,"Stephen A Gant",M,49,2009,
+8,"Stephen Butler",M,70,1999,
+5,"Stephen Davis",M,63,2011,
+7,"Stephen Gross",M,55,2014,"1960-04-24 00:00:00"
+6,"Stephen Hadley",M,60,2005,
+5,"Stephen Hays",M,65,1998,
+6,"Stephen Johnston",M,37,2016,"1978-05-28 00:00:00"
+8,"Stephen Jones",M,46,2016,"1969-06-21 00:00:00"
+9,"Stephen Kallus",M,42,2016,"1973-08-31 00:00:00"
+6,"Stephen Kaminsky",M,71,1995,
+7,"Stephen Kimmel",M,66,2014,"1949-08-31 00:00:00"
+7,"Stephen Lagrone",M,65,1997,
+5,"Stephen Mayor",M,42,2007,
+7,"Stephen Moore",M,50,2016,"1965-10-19 00:00:00"
+5,"Stephen Pondell",M,58,2013,"1971-03-05 00:00:00"
+5,"Stephen R Sawyer",M,73,1989,
+5,"Stephen Schultz",M,49,2003,
+6,"Stephen Simmons",M,68,1986,
+5,"Stephen Tarleton",M,44,2012,
+6,"Stephen Tosto",M,66,2005,
+5,"Stephen Viator",M,53,2003,
+8,"Steve Blake",M,59,2011,
+5,"Steve Bogisch",M,51,2010,"1964-11-27 00:00:00"
+7,"Steve Brammer",M,64,2012,
+5,"Steve Davis",M,58,2013,
+8,"Steve Dellett",M,57,1998,
+6,"Steve Francis",M,51,1995,
+8,"Steve Hurysz",M,48,2016,"1967-11-27 00:00:00"
+5,"Steve J Schroeder",M,63,1989,
+6,"Steve Johnston",M,63,1997,
+5,"Steve Lang",M,49,2015,
+7,"Steve Lind",M,61,2016,"1954-10-04 00:00:00"
+5,"Steve Liston",M,60,2003,
+5,"Steve Lombara",M,49,2016,"1966-12-14 00:00:00"
+6,"Steve Marshall",M,48,2016,"1967-07-21 00:00:00"
+5,"Steve Potlock",M,58,2011,
+9,"Steve Prusz",M,60,2007,
+6,"Steve Rodriguez",M,60,2005,
+6,"Steve Ruel",M,67,1997,
+5,"Steve Schexnaider",M,59,2001,
+5,"Steve Seaman",M,66,1998,
+6,"Steve Seide",M,61,2001,
+6,"Steve Smalley",M,63,2016,"1952-08-15 00:00:00"
+5,"Steve Smith",M,67,1999,
+6,"Steve Ton",M,48,2016,"1967-11-06 00:00:00"
+5,"Steven Applewhite",M,67,2005,
+9,"Steven Arnold",M,55,2004,
+6,"Steven Blattau",M,69,1995,
+7,"Steven Budde",M,67,1996,
+6,"Steven Burnett",M,53,1996,
+5,"Steven Dunn",M,56,1998,
+6,"Steven Escaler",M,38,2014,
+6,"Steven F Farris",M,57,2000,
+7,"Steven Halterman",M,48,2015,
+9,"Steven Howard",M,58,2016,"1957-11-27 00:00:00"
+5,"Steven Kogucki",M,48,2014,"1967-06-24 00:00:00"
+7,"Steven Long",M,46,2012,
+6,"Steven Murray",M,59,2012,
+5,"Steven Segal",M,74,1986,
+8,"Steven Sendelbach",M,57,2014,
+5,"Steven Stapleton",M,28,2016,"1987-02-26 00:00:00"
+6,"Steven Stinemetz",M,58,2007,
+9,"Steven Stone",M,45,2016,"1970-10-23 00:00:00"
+5,"Steven Tan",M,29,2016,"1986-10-17 00:00:00"
+5,"Steven Taylor",M,64,2000,
+9,"Steven Thibodeaux",M,56,2010,
+9,"Steven Tuttle",M,44,2016,"1971-12-03 00:00:00"
+5,"Steven Waring",M,48,2011,
+5,"Steven Winters",M,57,1995,
+7,"Steven Yeh",M,39,2007,
+6,"Steven Zelikovitz",M,62,2007,
+6,"Stewart Crouch",M,54,2016,"1961-11-23 00:00:00"
+7,"Stewart McMickle",M,49,2016,"1966-09-14 00:00:00"
+5,"Stormy Suberbielle",M,40,2015,
+6,"Stuart Levit",M,36,2010,
+9,"Sue Buzzurro",F,60,2009,
+5,"Sue Chan",F,50,2006,
+8,"Sue Ferguson",F,63,2015,"1952-11-27 00:00:00"
+8,"Suggie W Casey",F,66,2012,"1949-09-10 00:00:00"
+7,"Suki Kourounis",F,67,2013,
+6,"Susan Alexander",F,56,1997,
+9,"Susan Chang",F,50,2016,"1965-10-30 00:00:00"
+8,"Susan Cline",F,53,2012,"1962-12-19 00:00:00"
+6,"Susan Coomes",F,54,2003,
+6,"Susan Gates",F,49,2012,"1966-12-11 00:00:00"
+9,"Susan L Van Natta",F,55,2009,
+5,"Susan Maslanka",F,61,2016,"1954-06-03 00:00:00"
+5,"Susan McClurg",F,49,2016,"1966-08-26 00:00:00"
+6,"Susan Smith",F,47,2009,
+5,"Susan Sternberg",F,62,2001,"1953-08-15 00:00:00"
+7,"Susan Sullivan",F,38,2016,"1977-11-16 00:00:00"
+5,"Susan Venter",F,41,2015,"1974-06-04 00:00:00"
+9,"Susan Walters",F,51,2012,
+7,"Susanne Stevenson",F,63,1999,
+5,"Suzanne Brumbaugh",F,34,2013,
+6,"Suzanne Chew",F,56,2012,
+5,"Suzanne Dellinger",F,48,2015,"1967-08-27 00:00:00"
+5,"Suzanne McLean",F,54,2013,
+5,"Suzanne Tannery",F,41,2012,
+5,"Sylvan Schwartz",M,40,2011,
+5,"Sylvia Garza",F,60,2012,
+5,"Sylvia Ly",F,34,2016,"1981-12-13 00:00:00"
+5,"Sylvia Spanihel",F,63,1997,
+6,"Syndy Baum",F,58,1996,
+5,"Tabitha Tugmon",F,46,2012,"1969-03-24 00:00:00"
+5,"Tamatha Ray",F,48,2000,
+5,"Tammy Blackburn",F,54,2009,
+6,"Tammy Grado",F,47,2015,"1968-04-29 00:00:00"
+7,"Tammy Rooney",F,58,2000,
+5,"Tammy Wallace",F,52,1993,
+9,"Tanya Broholm",F,29,2014,
+6,"Tanya Nguyen",F,50,2016,"1965-04-09 00:00:00"
+6,"Tara Stogner",F,38,2016,"1977-04-04 00:00:00"
+6,"Taylor Ewing",M,78,1983,
+5,"Taylor Gwin",M,33,2013,
+8,"Ted Greak",M,75,2003,
+8,"Ted Jagen",M,75,1991,
+8,"Ted Mercer",M,66,2005,
+5,"Ted Pumma",M,41,2004,
+5,"Ted Traynor",M,66,2008,
+9,"Ted Walda",M,67,1987,
+5,"Ted Zewde",M,61,2005,
+5,"Teddie Brinkley",M,35,2016,"1980-10-04 00:00:00"
+6,"Telemachus Magno",M,49,2014,
+5,"Teresa Davis",F,54,2016,
+5,"Teresa Troll",F,59,2013,"1956-10-14 00:00:00"
+5,"Terrance Clark",M,49,2012,
+7,"Terrence Gee",M,52,1996,
+5,"Terri Diraddo",F,63,2007,
+9,"Terri Skinner",F,58,2011,
+7,"Terry Allen",F,46,2006,
+6,"Terry Cuellar",F,50,2006,
+5,"Terry Daniel",M,62,2010,
+5,"Terry Enders",M,58,1987,
+6,"Terry Foreman",M,67,1987,
+5,"Terry Halliday",F,50,2005,
+6,"Terry Johnson",M,56,2008,
+7,"Terry Sawma",M,69,2008,
+8,"Terry Shofner",M,71,2000,
+5,"Terry Zirn",F,67,1992,
+5,"Thad Pugh",M,56,1989,
+7,"Thai Le",M,52,2016,"1963-10-12 00:00:00"
+6,"Thelma Lopez",F,52,1995,
+9,"Thelma Richardson",F,72,1997,
+6,"Theodros Hizkias",M,43,2015,"1972-11-21 00:00:00"
+6,"Theresa Holland",F,37,2005,
+5,"Theresa Strong",F,56,2008,
+8,"Theron Moore",M,72,2012,
+9,"Thi Nguyen",F,59,2015,"1956-11-25 00:00:00"
+7,"Thomas Arnold",M,63,2013,"1952-10-12 00:00:00"
+6,"Thomas Chaffin",M,77,1991,
+5,"Thomas Collins",M,59,1998,
+5,"Thomas Cook",M,63,1995,
+6,"Thomas Denny",M,57,1999,
+6,"Thomas Dewitz",M,64,1986,
+8,"Thomas Edwards",M,45,2015,
+8,"Thomas Gallatin",M,76,1999,
+5,"Thomas Goth",M,61,1995,
+6,"Thomas Hansen",M,68,1994,
+7,"Thomas Hayes",M,50,2015,"1965-03-15 00:00:00"
+8,"Thomas Hebert",M,62,2016,"1953-02-04 00:00:00"
+5,"Thomas Herren",M,74,2008,
+9,"Thomas Hill",M,61,1996,
+5,"Thomas Hourihan",M,58,1993,
+6,"Thomas Hughes",M,78,1993,
+6,"Thomas M Mayfield",M,77,1985,
+7,"Thomas Mackey",M,68,1997,
+5,"Thomas Martinez",M,62,1998,
+7,"Thomas McBride",M,61,2014,
+8,"Thomas McElmurry",M,70,1996,
+5,"Thomas Murphy",M,61,2003,
+5,"Thomas Noble",M,62,2001,
+9,"Thomas Odriscoll",M,52,2016,"1963-11-15 00:00:00"
+6,"Thomas P Karels",M,71,1989,
+9,"Thomas Pash",M,48,2012,
+7,"Thomas Pecnik",M,66,1999,
+5,"Thomas R Fuller",M,67,1990,
+8,"Thomas R Stallings",M,47,2014,
+6,"Thomas Roth",M,63,1986,
+7,"Thomas S Heitzman",M,60,2011,
+6,"Thomas Smith",M,85,1994,
+9,"Thomas Stelzer",M,39,2016,"1976-04-18 00:00:00"
+5,"Thomas Stricklin",M,62,1991,
+9,"Thomas Tsan",M,47,2016,
+6,"Thomas Wadsworth",M,64,1994,
+7,"Thomas Walsh",M,49,2016,"1966-05-13 00:00:00"
+6,"Thomas Wille",M,35,2016,"1980-07-08 00:00:00"
+5,"Thomas Wilson",M,62,1996,
+6,"Thomas Woltz",M,68,2006,
+6,"Thorunn Helgason",F,53,2001,
+9,"Thuy Moon",F,44,2016,"1971-12-23 00:00:00"
+5,"Tia Daniel",F,49,2010,
+8,"Tiberio Gonzalez",M,40,2016,"1975-09-01 00:00:00"
+7,"Tiffani K Pope",F,44,2016,"1971-06-14 00:00:00"
+6,"Tim Blanchard",M,40,2016,"1975-06-13 00:00:00"
+6,"Tim Coughlin",M,59,2011,
+7,"Tim Flynn",M,48,2011,
+5,"Tim Heitzwebel",M,58,2015,
+6,"Tim Hickey",M,66,1996,
+6,"Tim Jahnke",M,70,2008,
+9,"Tim Janak",M,62,1996,
+7,"Tim Jeansonne",M,64,2015,
+5,"Tim Loftus",M,64,1996,
+8,"Tim Mavergeorge",M,53,2016,"1963-01-13 00:00:00"
+5,"Tim Seckinger",M,59,1994,
+9,"Tim Soles",M,69,2004,
+9,"Tim Tade",M,63,2014,
+7,"Tim Vandagriff",M,63,2016,"1953-01-09 00:00:00"
+5,"Tim Wesneski",M,54,2009,
+7,"Timothy Brady",M,55,1998,
+7,"Timothy Donovan",M,51,2001,
+6,"Timothy Gibson",M,55,1994,
+7,"Timothy I Mabie",M,39,2012,
+6,"Timothy King",M,39,2016,"1976-02-16 00:00:00"
+5,"Timothy L Cone",M,64,1989,
+6,"Timothy McDonnell",M,59,2010,
+6,"Timothy McGuirk",M,53,2016,"1962-10-08 00:00:00"
+8,"Timothy Nolan",M,48,2016,"1967-10-20 00:00:00"
+6,"Timothy Quinty",M,53,2007,
+5,"Timothy Savoie",M,55,2012,
+6,"Timothy Szafran",M,33,2015,
+6,"Timothy Taylor",M,36,2015,
+5,"Tina Brooks",F,43,2016,"1972-11-18 00:00:00"
+5,"Tina Burgos",F,47,2012,
+6,"Tina Sexton",F,57,2011,
+8,"Tina Strautman",F,47,2016,"1968-04-06 00:00:00"
+8,"Tina Wardlaw",F,50,2013,
+8,"Ting-Ling Sha",F,42,2016,"1973-11-12 00:00:00"
+9,"Tipton Golias",M,74,1994,
+6,"Toast Vinson",M,43,2008,
+5,"Toby Kinney",M,50,2005,
+5,"Todd Copeland",M,47,2012,
+5,"Todd Danos",M,47,2016,
+5,"Todd Eitleman",M,48,2006,
+9,"Todd Hunter",M,47,2016,"1968-03-29 00:00:00"
+6,"Todd Knudson",M,53,2016,"1962-03-29 00:00:00"
+5,"Todd Oneal",M,47,2013,
+7,"Todd Reynolds",M,48,2011,
+8,"Todd Whittemore",M,47,2015,
+5,"Tom Bui",M,51,2016,
+5,"Tom Burnett",M,66,1995,
+5,"Tom Doan",M,45,2015,
+5,"Tom Dornak",M,57,2006,
+7,"Tom Ewing",M,59,2012,
+8,"Tom Forbes",M,60,1998,
+5,"Tom Gates",M,53,2006,
+5,"Tom Ginavan",M,58,2016,"1957-11-13 00:00:00"
+7,"Tom Guidish",M,60,2015,"1955-06-16 00:00:00"
+6,"Tom Hanson",M,57,2010,
+8,"Tom Hippe",M,62,2012,
+5,"Tom Hoefer",M,52,2014,
+8,"Tom J Harris",M,65,2002,
+5,"Tom Lahouse",M,59,2016,"1956-01-30 00:00:00"
+6,"Tom Larock",M,64,2012,
+5,"Tom Mendez",M,79,1991,
+5,"Tom Obrien",M,80,1984,
+8,"Tom Pace",M,58,2010,
+9,"Tom Pessarra",M,63,2016,"1952-07-08 00:00:00"
+7,"Tom Piper",M,61,2011,
+7,"Tom Sherry",M,62,1993,
+7,"Tom Shopoff",M,64,1999,
+7,"Tom Springer",M,66,2016,"1949-12-07 00:00:00"
+5,"Tom Timbol",M,51,2014,
+5,"Tom Williams",M,55,2012,
+8,"Tom Young",M,57,2006,
+6,"Tom Zachary",M,56,2006,
+7,"Tom Zareck",M,70,1998,
+6,"Tomas Muniz",M,57,1992,
+7,"Tommy Browder",M,28,2008,
+7,"Tommy Clements",M,51,2014,
+5,"Tommy Diaz",M,39,2014,
+6,"Tommy Gerczak",M,46,2008,
+6,"Tommy Kleinman",M,47,2016,"1969-01-11 00:00:00"
+6,"Tommy Welch",M,73,2012,"1942-08-19 00:00:00"
+7,"Tommy Yeung",M,58,2016,"1957-01-30 00:00:00"
+6,"Toni Schramme",F,53,2011,
+5,"Tonie Tran",F,49,2016,"1966-12-19 00:00:00"
+6,"Tony Eichstadt",M,63,1991,
+7,"Tony Guardiola",M,61,2011,
+8,"Tony Lewis",M,48,2014,"1967-06-16 00:00:00"
+5,"Tony Rector",M,55,2001,
+5,"Tonya Jacks",F,46,2016,"1970-01-04 00:00:00"
+5,"Torie Derringer",F,40,2016,"1975-06-21 00:00:00"
+6,"Torsten Hopp",M,51,2011,
+6,"Townes Pressler",M,80,1992,
+5,"Toy R McDonald",M,85,1988,
+9,"Tracy Minish",M,60,2012,
+8,"Tracy Shaff",M,52,2009,
+6,"Travis Shirley",M,44,2016,"1971-02-02 00:00:00"
+6,"Trevor Cappel",M,39,2016,"1976-02-23 00:00:00"
+5,"Trevor Howard",M,60,2003,
+8,"Trevor Leighton",M,72,1999,
+5,"Trevor Vallejo",M,44,2016,"1971-10-03 00:00:00"
+5,"Trey Hamilton",M,67,2000,
+6,"Trey Stone",M,49,2016,"1966-08-17 00:00:00"
+7,"Tri Nguyen",M,56,2011,
+6,"Tribble Carter",M,46,2011,
+5,"Tricia Luedtke",F,40,2006,
+5,"Trinh Basarabescu",F,39,2013,
+5,"Trip Norkus",M,39,2006,
+6,"Trisha Harvey",F,32,2016,"1983-07-25 00:00:00"
+8,"Trisha L Dipprey",F,46,2002,
+7,"Trista Tatsch",F,39,2012,
+5,"Troy Bain",M,79,1987,
+5,"Troy Cormier",M,47,2015,
+5,"Troy Gaspar",M,53,1995,
+6,"Troy Mooney",M,45,2011,
+5,"Troy Nixon",M,55,1993,
+5,"Troy Pfeiferling",M,53,2005,
+5,"Troy S Sikes",M,51,2009,
+7,"Truman Davis",M,63,2005,
+5,"Trung Le",M,57,2001,
+8,"Tuan A Nguyen",M,54,2016,"1962-01-04 00:00:00"
+6,"Tully Powell",M,75,1992,
+5,"Turner Staples",M,68,1991,
+8,"Tushar Dhruv",M,74,1997,"1941-12-14 00:00:00"
+7,"Tuy Mai",M,56,2016,"1959-07-06 00:00:00"
+6,"Ulrich Sander",M,62,2005,
+5,"Urs Albrecht",M,53,1998,
+7,"Val Lincecum",M,60,2008,
+6,"Valentino Martinez",M,78,1997,
+5,"Valerie Christian",F,36,2016,"1979-04-16 00:00:00"
+7,"Valerie Villegas",F,36,2016,"1979-04-18 00:00:00"
+6,"Vanessa Stanford",F,46,2012,
+5,"Varand Chamras",M,43,2005,
+5,"Vaughn Gibbs",M,42,2014,
+7,"Veena Panchal",F,61,2015,
+7,"Verney Green",M,54,2012,
+6,"Veronica Hoge",F,46,2015,
+6,"Veronica Medina",F,44,2016,"1971-01-22 00:00:00"
+5,"Veronique Marot",F,60,1991,
+5,"Vesta Griffin",F,36,2016,
+5,"Vi Chau-Tran",F,35,2016,"1980-05-04 00:00:00"
+7,"Vic Vacek",M,69,1994,"1946-04-30 00:00:00"
+7,"Vicente Ledesma",M,61,2001,
+5,"Vicente Valero",M,59,2015,
+6,"Vick Lombardo",M,47,1999,
+7,"Vicki Lemke",F,52,2012,
+9,"Vicky Helm",F,65,2006,
+9,"Victor Mejia",F,55,2011,
+6,"Victor Morales",M,54,2014,
+5,"Victoria Millet",F,33,2011,
+6,"Victoria Webster",F,31,2016,"1984-05-21 00:00:00"
+6,"Vince Debonis",M,59,2016,"1956-08-22 00:00:00"
+5,"Vince Gayman",M,62,2007,
+5,"Vince Meza",M,56,2003,
+9,"Vincent Cannizzo",M,56,2016,"1959-10-29 00:00:00"
+6,"Vincent Vario",M,55,1993,
+6,"Vinh Le",M,56,2016,"1959-09-21 00:00:00"
+6,"Virgil Enos",M,61,2010,
+7,"Virginia Jones",F,35,2013,
+7,"Visyaporn (oui) Raine",F,48,2016,"1967-06-01 00:00:00"
+5,"Vivian Winslow",F,49,2016,
+8,"Vivien Presswood",F,42,2016,"1973-03-27 00:00:00"
+5,"Vu Nguyen",M,49,2016,"1966-06-25 00:00:00"
+5,"Vu Nguyen",M,30,2015,
+7,"W Harrison",M,58,2003,
+5,"Wade Hudson",M,71,2000,
+5,"Wade Jenkins",M,53,1998,
+7,"Wallace Hutchinson",M,69,2000,
+5,"Walt Prewett",M,79,1987,
+5,"Walt Yarrow",M,48,2016,"1967-12-11 00:00:00"
+5,"Walter Clinton",M,70,2001,
+5,"Walter Donovan",M,44,2015,"1971-09-16 00:00:00"
+7,"Walter H Steigerwald",M,61,2015,
+5,"Walter L Prater",M,77,1983,
+5,"Walter Mak",M,39,2016,"1976-12-04 00:00:00"
+5,"Walter Malone",M,55,2003,
+6,"Walter Medsger",M,52,2007,
+7,"Walter Ross",M,52,2004,
+7,"Walter Stoneham",M,83,1989,
+8,"Warren J Rabourn",M,94,1980,
+8,"Warren Prelle",M,40,2016,"1975-11-29 00:00:00"
+5,"Warren Smith",M,62,1991,
+8,"Wayne Gilbert",M,69,1999,
+8,"Wayne Horton",M,77,1995,
+6,"Wayne Jackson",M,54,2012,
+5,"Wayne Kansas",M,61,1993,
+5,"Wayne Long",M,69,1989,
+5,"Wayne Martin",M,59,1996,
+8,"Wayne Schiller",M,71,1996,
+5,"Wayne W Leggett",M,73,2000,
+8,"Wayne Webb",M,63,2001,
+6,"Wei Chiu",M,47,2016,"1968-01-29 00:00:00"
+5,"Weihan Lin",M,41,2013,
+6,"Weldon Glockzin",M,72,1997,
+5,"Wendy Houghton",F,57,2004,
+8,"Wendy Kelsey",F,69,1987,
+7,"Wendy Richard",F,45,2012,"1971-01-08 00:00:00"
+6,"Wendy Wilson",F,42,2013,
+6,"Werner Klamroth",M,80,1997,
+7,"Wes Volberding",M,54,2016,"1961-09-17 00:00:00"
+9,"Wesley Fenn",M,49,2014,
+6,"Wesley Hudson",M,49,2012,
+6,"Wesley Lee",M,58,2001,
+9,"Whitney Hinton",F,34,2016,"1981-11-07 00:00:00"
+7,"Wiley Murrell",M,65,1991,
+7,"Wilfredo Martinez",M,58,2014,"1958-01-07 00:00:00"
+9,"Will Carlson",M,71,2016,"1944-11-10 00:00:00"
+8,"Will Cheesman",M,77,1996,
+6,"Will Featherston",M,47,2016,"1968-11-15 00:00:00"
+5,"Will Hodge",M,39,2016,"1976-04-10 00:00:00"
+5,"Will Lord",M,16,2016,"1999-04-22 00:00:00"
+5,"Willard Hall",M,69,2005,
+6,"Willard I Boss",M,60,2002,
+5,"Willi R Buhl",M,79,1989,
+7,"William Arnold",M,48,2015,
+5,"William B Lenoir",M,76,1984,
+5,"William Batchelder",M,40,2014,
+7,"William Blount",M,65,2013,
+6,"William Callahan",M,58,1998,
+6,"William Cizek",M,55,1999,
+5,"William Cochran",M,62,1992,
+7,"William Colburn",M,66,1992,
+8,"William Conrad",M,88,1996,
+5,"William D Hover",M,65,2009,
+5,"William Delaney",M,58,1998,
+5,"William E Stone",M,63,2000,
+5,"William Ervin",M,51,2007,
+9,"William Everett",M,47,1993,
+5,"William Fenner",M,70,1989,
+7,"William Glaser",M,47,2016,"1968-04-25 00:00:00"
+7,"William Gray",M,58,1995,
+6,"William Gregory",M,58,1997,
+6,"William Hayes",M,64,2011,"1951-12-06 00:00:00"
+8,"William J Fesler",M,69,2000,
+6,"William Levan",M,35,2015,
+6,"William Miller",M,71,1986,
+6,"William Palmer",M,67,1995,
+6,"William Payne",M,36,2008,
+9,"William Persohn",M,63,2011,
+5,"William Pham",M,41,2016,"1974-08-24 00:00:00"
+5,"William Pond",M,58,2013,
+5,"William Pyle",M,52,2003,
+8,"William R Martin",M,61,2009,
+7,"William R Nelson",M,57,2002,
+5,"William R Smith",M,81,1988,
+5,"William Richardson",M,64,1994,
+9,"William Sloan",M,83,1991,
+6,"William Smith",M,66,2006,
+9,"William Spangler",M,75,2003,
+5,"William Spijkerman",M,49,2001,
+5,"William Van Sweringen",M,63,2011,
+8,"William Webb",M,60,1999,
+6,"William West",M,64,1987,
+5,"William-Paul Thomas",M,57,1997,
+7,"Williams Garcia",M,45,2016,"1970-07-25 00:00:00"
+5,"Willie Castaneda",M,27,2013,
+5,"Willie Genzer",M,82,1994,
+6,"Willie Session",M,53,2013,"1962-08-23 00:00:00"
+8,"Willie Washington",M,67,1998,
+6,"Willy Wouters",M,68,2004,
+5,"Wilmer Bustillos",M,50,2015,
+6,"Wilmer Gaviria",M,40,2016,"1975-10-30 00:00:00"
+5,"Wilson Yip",M,29,2016,"1986-05-02 00:00:00"
+6,"Win Thornton",M,62,1996,
+6,"Winston Norrish",M,57,1999,
+5,"Wonedwossen Goshu",M,43,2014,"1972-07-07 00:00:00"
+9,"Woody Mann",M,75,1996,
+7,"Wylie Barrow",M,57,2008,
+9,"Xabier Rebollo",M,57,2016,"1958-09-20 00:00:00"
+5,"Xiaoman Zhang",F,55,2016,"1960-05-12 00:00:00"
+6,"Xochil Hinshaw",F,47,2016,"1968-05-16 00:00:00"
+7,"Yaje Ngala",F,38,2016,"1977-12-31 00:00:00"
+6,"Yesenia Rodriguez",F,36,2014,
+5,"Yesenia Roman-Mason",F,43,2015,"1973-01-02 00:00:00"
+7,"Ying Gu",F,46,2016,"1969-12-10 00:00:00"
+7,"Yoichi Morishima",M,57,2010,
+7,"Yolanda Aquino",F,50,2016,"1965-05-07 00:00:00"
+5,"Yolanda Cabrera",F,49,2009,
+8,"Yoshi Hakone",M,58,2016,"1957-10-17 00:00:00"
+6,"Yoshiaki Yamaguchi",M,65,2015,
+6,"Yoshitsugu Mitani",M,40,2015,
+6,"Yrayda Lopez",F,38,2008,
+5,"Yuliana De La Rosa",F,31,2016,"1984-12-31 00:00:00"
+5,"Yusuke Noda",M,45,2012,
+5,"Yvette Dunn",F,43,2015,
+8,"Zac Stafford",M,35,2015,
+6,"Zack Foshee",M,66,2011,
+8,"Zagui Paredes",M,35,2014,
+5,"Zean Gassmann",M,56,1992,
+5,"Zeenat Ali",F,39,2011,
+5,"Zenaido Camacho",M,74,1994,
+8,"Zeno Boehmer",M,87,1996,
+5,"Zevi Ramos",M,40,2015,"1975-04-18 00:00:00"
+6,"Zoltan Sylvester",M,46,2016,"1969-10-06 00:00:00"
